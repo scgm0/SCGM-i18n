@@ -1,0 +1,16 @@
+[remap]
+
+importer="csv_translation"
+type="Translation"
+
+[deps]
+
+files=[ "res://mods-unpacked/SCGM-i18n/translations/ludma-ArmorTooltip/translations/ludma_ehpmod_Translation.en.translation", "res://mods-unpacked/SCGM-i18n/translations/ludma-ArmorTooltip/translations/ludma_ehpmod_Translation.zh.translation" ]
+
+source_file="res://mods-unpacked/SCGM-i18n/translations/ludma-ArmorTooltip/translations/ludma_ehpmod_Translation.csv"
+dest_files=[ "res://mods-unpacked/SCGM-i18n/translations/ludma-ArmorTooltip/translations/ludma_ehpmod_Translation.en.translation", "res://mods-unpacked/SCGM-i18n/translations/ludma-ArmorTooltip/translations/ludma_ehpmod_Translation.zh.translation" ]
+
+[params]
+
+compress=true
+delimiter=0

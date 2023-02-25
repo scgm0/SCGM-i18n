@@ -1,0 +1,16 @@
+[remap]
+
+importer="csv_translation"
+type="Translation"
+
+[deps]
+
+files=[ "res://mods-unpacked/SCGM-i18n/translations/Psina-Extatonion/translations/beelze_stuff.en.translation", "res://mods-unpacked/SCGM-i18n/translations/Psina-Extatonion/translations/beelze_stuff.zh.translation" ]
+
+source_file="res://mods-unpacked/SCGM-i18n/translations/Psina-Extatonion/translations/beelze_stuff.csv"
+dest_files=[ "res://mods-unpacked/SCGM-i18n/translations/Psina-Extatonion/translations/beelze_stuff.en.translation", "res://mods-unpacked/SCGM-i18n/translations/Psina-Extatonion/translations/beelze_stuff.zh.translation" ]
+
+[params]
+
+compress=true
+delimiter=0

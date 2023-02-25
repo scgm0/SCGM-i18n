@@ -1,0 +1,9 @@
+keys,en,zh
+EFFECT_BUB_SWARM,When an enemy dies it releases 4 homing flies from its corpse dealing {1} ({3}) damage,当敌人死亡时，它会从尸体中释放4只寻巢苍蝇，造成{1}({3})点伤害
+EFFECT_SHOT_ORBITAL,Spawns a companion that flies around you and shoots enemies for {0} ({1}) damage,生成一个在您周围飞行的伙伴并射击敌人造成{0}({1})点伤害
+EFFECT_SWARM,When an enemy dies it releases 2 homing flies from its corpse dealing {1} ({3}) damage,当敌人死亡时，它会从尸体中释放2只寻巢苍蝇，造成{1}({3})点伤害
+EFFECT_GLITCH_ONE,Has no ability,没有能力
+EFFECT_GLITCH_TWO,Can start with any Extatonion weapon,可以从任何 Extatonion 武器开始
+EFFECT_REDUCE_SURVIVAL,Survivability modifications are reduced by 35%,生命修改减少35%
+EFFECT_INCREASE_DAMAGE,Damage modifications are increased by 35%,伤害修改增加35%
+EFFECT_WORKS_BOTH,Works both ways,双向工作
