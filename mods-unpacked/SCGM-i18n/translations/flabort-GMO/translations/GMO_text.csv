@@ -1,6 +1,6 @@
 keys,en,es,zh
-GMO_TEXT,Genetically Modified Overkill,Genéticamente Modificado Sobrecapacidad de Exterminación,转基因矫枉过正
-CHARACTER_GMO_DUMMY,Genetically Modified Overkill,Genéticamente Modificado Sobrecapacidad de Exterminación,转基因矫枉过正
+GMO_TEXT,Genetically Modified Overkill,Genéticamente Modificado Sobrecapacidad de Exterminación,基因过载重组
+CHARACTER_GMO_DUMMY,Genetically Modified Overkill,Genéticamente Modificado Sobrecapacidad de Exterminación,基因过载重组
 GMO_COMBINES CHARACTER_ARMS_DEALER,Starts with Arms Dealer,Empiezas con 1 Traficante de armas,从军火商开始
 GMO_COMBINES CHARACTER_ARTIFICER,Starts with Artificer,Empiezas con 1 Artifice,从技工开始
 GMO_COMBINES CHARACTER_BRAWLER,Starts with Brawler,Empiezas con 1 Luchador,从斗士开始
@@ -22,7 +22,7 @@ GMO_COMBINES CHARACTER_HUNTER,Starts with Hunter,Empiezas con 1 Cazador,从猎�
 GMO_COMBINES CHARACTER_JACK,Starts with Jack,Empiezas con 1 Jack,从杰克开始
 GMO_COMBINES CHARACTER_KNIGHT,Starts with Knight,Empiezas con 1 Caballero,从骑士开始
 GMO_COMBINES CHARACTER_LICH,Starts with Lich,Empiezas con 1 Liche,从巫妖开始
-GMO_COMBINES CHARACTER_LOUD,Starts with Loud,Empiezas con 1 Chillón,以大嗓门开始
+GMO_COMBINES CHARACTER_LOUD,Starts with Loud,Empiezas con 1 Chillón,从大嗓门开始
 GMO_COMBINES CHARACTER_LUCKY,Starts with Lucky,Empiezas con 1 Suertudo,从幸运星开始
 GMO_COMBINES CHARACTER_MAGE,Starts with Mage,Empiezas con 1 Mago,从法师开始
 GMO_COMBINES CHARACTER_MASOCHIST,Starts with Masochist,Empiezas con 1 Masoquista,从受虐狂开始
@@ -43,7 +43,7 @@ WEAPON_LOADED_DICE,Loaded Dice,dados cargados,装骰子
 GMO_FEDORA,Dusty Fedora,Sombrero de Fieltro Polvoriento,尘土飞扬的毡帽
 GMO_PRACTICAL_RESEARCH,Practical Research,Investigación Practica,实践研究
 WEAPON_PITCHFORK,Pitchfork,Horqueta,叉
-GMO_CHALLENGE_BASE,Genetically Modified Overkill,Genéticamente Modificado Sobrecapacidad de Exterminación,转基因矫枉过正
+GMO_CHALLENGE_BASE,Genetically Modified Overkill,Genéticamente Modificado Sobrecapacidad de Exterminación,基因过载重组
 GMO_CHALLENGE_ARTIFICER_LUCKY,Gambling,Arriesgarse,赌局
 GMO_CHALLENGE_OLD_EXPLORER,I Hate Snakes,Odio las Serpientes,我讨厌蛇
 GMO_CHALLENGE_ENGINEER_DOCTOR,Graduate,Graduado,毕业

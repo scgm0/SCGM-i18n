@@ -10,14 +10,14 @@ EFFECT_DAMAGE_ALL_NOTE,[color=#555555]Applies to ALL damage modifications[/color
 EFFECT_MULTIPLY_STAT,Your current {1} is {2} by {0} [{3}],您当前的 {1} 是 {2} {0} [{3}]
 EFFECT_MULTIPLY_DOUBLE,Doubles your current {1} [{3}],使您当前的 {1} [{3}] 加倍
 EFFECT_MULTIPLY_HALF,Halves your current {1} [{3}],将您当前的 {1} [{3}] 减半
-EFFECT_WEAPON_SLOT_ADD,Increase your weapon slots by {0},将您的武器插槽增加 {0}
+EFFECT_WEAPON_SLOT_ADD,Increase your weapon slots by {0},将您的武器位增加 {0}
 EFF,---EFFECTS-------------------------,---效果-------------------------
 EFFECT_BFX_GAIN_ITEMS_END_OF_WAVE,Gain {0} random items at the end of the next wave. [color=#555555]Items and tiers are random and unaffected by Luck[/color],在下一波结束时获得 {0} 个随机物品。[color=#555555]物品和等级是随机的，不受幸运影响[/color]
 EFFECT_BFX_IFRAMES_DURATION_MULTIPLIER,{0} Invulnerability Time,{0} 无敌时间
 EFFECT_BFX_ON_LEVELUP_GAIN_RANDOM_STAT,Gain [color=#00ff00]+1[/color] to {0} random stats when you level up,升级时获得 [color=#00ff00]+1[/color] 到 {0} 个随机属性
 EFFECT_BFX_REROLL_COST,{0} Reroll Cost,{0} 刷新价格
-EFFECT_BFX_EXPLODE_ON_HIT,You explode for {1} ({2}) damage when you take damage. [color=#555555]Doesn't trigger with items/traits that don't give invulnerability time[/color],当你受到伤害时，你会爆炸，造成 {1} ({2}) 点伤害。[color=#555555]不会触发不提供无敌时间的物品/特性[/color]
-EFFECT_BFX_EXPLODE_ON_HIT_CHANCE,{0}% chance to explode for {1} ({2}) damage when you take damage. [color=#555555]Doesn't trigger with items/traits that don't give invulnerability time[/color],当您受到伤害时，有 {0}% 的几率爆炸造成 {1} ({2}) 点伤害。[color=#555555]不会触发不提供无敌时间的物品/特性[/color]
+EFFECT_BFX_EXPLODE_ON_HIT,You explode for {1} ({2}) damage when you take damage. [color=#555555]Doesn't trigger with items/traits that don't give invulnerability time[/color],当你受到伤害时，你会爆炸，造成 {1} ({2}) 点伤害。[color=#555555]不提供无敌帧的物品/特性不会触发[/color]
+EFFECT_BFX_EXPLODE_ON_HIT_CHANCE,{0}% chance to explode for {1} ({2}) damage when you take damage. [color=#555555]Doesn't trigger with items/traits that don't give invulnerability time[/color],当您受到伤害时，有 {0}% 的几率爆炸造成 {1} ({2}) 点伤害。[color=#555555]不提供无敌帧的物品/特性不会触发[/color]
 EFFECT_BFX_EXPLODE_ON_CONSUMABLE_COLLECT,Consumables explode for {1} ({2}) when you collect them,当您收集消耗品时，它们会爆炸 {1} ({2})
 EFFECT_BFX_EXPLODE_ON_CONSUMABLE_COLLECT_CHANCE,{0}% chance for consumables explode for {1} ({2}) when you collect them,当您收集消耗品时，{0}% 的消耗品爆炸几率为 {1} ({2})
 EFFECT_BFX_EXPLODE_ON_FRUIT_COLLECT,Fruits explode for {1} ({2}) when you collect them,当您收集水果时，它们会爆炸 {1} ({2})
@@ -25,7 +25,7 @@ EFFECT_BFX_EXPLODE_ON_FRUIT_COLLECT_CHANCE,{0}% chance for fruits explode for {1
 EFFECT_BFX_EXPLODE_ON_CRATE_COLLECT,Crates explode for {1} ({2}) when you collect them,当您收集箱子时，它们会爆炸 {1} ({2})
 EFFECT_BFX_EXPLODE_ON_CRATE_COLLECT_CHANCE,{0}% chance for crates explode for {1} ({2}) when you collect them,当您收集箱子时，{0}% 的箱子爆炸概率为 {1} ({2})
 EFFECT_BFX_TEMP_STATS_ON_DODGE,{0} {1} when you dodge until the end of the wave,当你闪避时 {0} {1} 直到敌袭结束时
-EFFECT_BFX_TEMP_STATS_ON_HIT,{0} {1} when you take damage until the end of the wave. [color=#555555]Doesn't trigger with items/traits that don't give invulnerability time[/color],当您受到伤害时 {0} {1} 直到波浪结束。[color=#555555]不会触发不提供无敌时间的物品/特性[/color]
+EFFECT_BFX_TEMP_STATS_ON_HIT,{0} {1} when you take damage until the end of the wave. [color=#555555]Doesn't trigger with items/traits that don't give invulnerability time[/color],当您受到伤害时 {0} {1} 直到敌袭结束。[color=#555555]不提供无敌帧的物品/特性不会触发[/color]
 EFFECT_BFX_BOSS_HP,Boss and Elite HP is modified by {0},头目和精英的生命由 {0} 修改
 EFFECT_BFX_BOSS_HP_INCREASE,Boss and Elite HP is increased by {0} %,头目和精英的生命增加 {0}%
 EFFECT_BFX_BOSS_HP_DECREASE,Boss and Elite HP is decreased by {0} %,头目和精英的生命减少 {0}%
