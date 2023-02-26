@@ -1,0 +1,52 @@
+keys,en,es,zh
+GMO_TEXT,Genetically Modified Overkill,Genéticamente Modificado Sobrecapacidad de Exterminación,转基因矫枉过正
+CHARACTER_GMO_DUMMY,Genetically Modified Overkill,Genéticamente Modificado Sobrecapacidad de Exterminación,转基因矫枉过正
+GMO_COMBINES CHARACTER_ARMS_DEALER,Starts with Arms Dealer,Empiezas con 1 Traficante de armas,从军火商开始
+GMO_COMBINES CHARACTER_ARTIFICER,Starts with Artificer,Empiezas con 1 Artifice,从技工开始
+GMO_COMBINES CHARACTER_BRAWLER,Starts with Brawler,Empiezas con 1 Luchador,从斗士开始
+GMO_COMBINES CHARACTER_BULL,Starts with Bull,Empiezas con 1 Toro,从公牛开始
+GMO_COMBINES CHARACTER_CHUNKY,Starts with Chunky,Empiezas con 1 Mofletudo,从大壮开始
+GMO_COMBINES CHARACTER_CRAZY,Starts with Crazy,Empiezas con 1 Loco,从狂人开始
+GMO_COMBINES CHARACTER_CYBORG,Starts with Cyborg,Empiezas con 1 Cíborg,从半机械人开始
+GMO_COMBINES CHARACTER_DEMON,Starts with Demon,Empiezas con 1 Demonio,从恶魔开始
+GMO_COMBINES CHARACTER_DOCTOR,Starts with Doctor,Empiezas con 1 Médico,从医生开始
+GMO_COMBINES CHARACTER_ENGINEER,Starts with Engineer,Empiezas con 1 Ingeniero,从工程师开始
+GMO_COMBINES CHARACTER_ENTREPRENEUR,Starts with Entrepreneur,Empiezas con 1 Emprendedor,从企业家开始
+GMO_COMBINES CHARACTER_EXPLORER,Starts with Explorer,Empiezas con 1 Explorador,从探险家开始
+GMO_COMBINES CHARACTER_FARMER,Starts with Farmer,Empiezas con 1 Agricultor,从农夫开始
+GMO_COMBINES CHARACTER_GENERALIST,Starts with Generalist,Empiezas con 1 Versátil,从博学家开始
+GMO_COMBINES CHARACTER_GHOST,Starts with Ghost,Empiezas con 1 Fantasma,以幽灵开始
+GMO_COMBINES CHARACTER_GLADIATOR,Starts with Gladiator,Empiezas con 1 Gladiador,从角斗士开始
+GMO_COMBINES CHARACTER_GLUTTON,Starts with Glutton,Empiezas con 1 Glotón,从暴食者开始
+GMO_COMBINES CHARACTER_HUNTER,Starts with Hunter,Empiezas con 1 Cazador,从猎人开始
+GMO_COMBINES CHARACTER_JACK,Starts with Jack,Empiezas con 1 Jack,从杰克开始
+GMO_COMBINES CHARACTER_KNIGHT,Starts with Knight,Empiezas con 1 Caballero,从骑士开始
+GMO_COMBINES CHARACTER_LICH,Starts with Lich,Empiezas con 1 Liche,从巫妖开始
+GMO_COMBINES CHARACTER_LOUD,Starts with Loud,Empiezas con 1 Chillón,以大嗓门开始
+GMO_COMBINES CHARACTER_LUCKY,Starts with Lucky,Empiezas con 1 Suertudo,从幸运星开始
+GMO_COMBINES CHARACTER_MAGE,Starts with Mage,Empiezas con 1 Mago,从法师开始
+GMO_COMBINES CHARACTER_MASOCHIST,Starts with Masochist,Empiezas con 1 Masoquista,从受虐狂开始
+GMO_COMBINES CHARACTER_MULTITASKER,Starts with Multitasker,Empiezas con 1 Polifacético,从多面手开始
+GMO_COMBINES CHARACTER_MUTANT,Starts with Mutant,Empiezas con 1 Mutante,从异变体开始
+GMO_COMBINES CHARACTER_OLD,Starts with Old,Empiezas con 1 Viejales,从老叟开始
+GMO_COMBINES CHARACTER_ONE_ARM,Starts with One Arm,Empiezas con 1 Una mano,从独臂开始
+GMO_COMBINES CHARACTER_PACIFIST,Starts with Pacifist,Empiezas con 1 Pacifista,从和平主义者开始
+GMO_COMBINES CHARACTER_RANGER,Starts with Ranger,Empiezas con 1 Comando,从游侠开始
+GMO_COMBINES CHARACTER_SAVER,Starts with Saver,Empiezas con 1 Ahorrardor,从节俭者开始
+GMO_COMBINES CHARACTER_SICK,Starts with Sick,Empiezas con 1 Enfermo,从病人开始
+GMO_COMBINES CHARACTER_SOLDIER,Starts with Soldier,Empiezas con 1 Soldado,从士兵开始
+GMO_COMBINES CHARACTER_SPEEDY,Starts with Speedy,Empiezas con 1 Veloz,从飞毛腿开始
+GMO_COMBINES CHARACTER_STREAMER,Starts with Streamer,Empiezas con 1 Personaje,从网络主播开始
+GMO_COMBINES CHARACTER_WELL_ROUNDED,Starts with Well Rounded,Empiezas con 1 Equilibrado,从全能王开始
+GMO_COMBINES CHARACTER_WILDLING,Starts with Wildling,Empiezas con 1 Salvaje,从野人开始
+WEAPON_LOADED_DICE,Loaded Dice,dados cargados,装骰子
+GMO_FEDORA,Dusty Fedora,Sombrero de Fieltro Polvoriento,尘土飞扬的毡帽
+GMO_PRACTICAL_RESEARCH,Practical Research,Investigación Practica,实践研究
+WEAPON_PITCHFORK,Pitchfork,Horqueta,叉
+GMO_CHALLENGE_BASE,Genetically Modified Overkill,Genéticamente Modificado Sobrecapacidad de Exterminación,转基因矫枉过正
+GMO_CHALLENGE_ARTIFICER_LUCKY,Gambling,Arriesgarse,赌局
+GMO_CHALLENGE_OLD_EXPLORER,I Hate Snakes,Odio las Serpientes,我讨厌蛇
+GMO_CHALLENGE_ENGINEER_DOCTOR,Graduate,Graduado,毕业
+GMO_CHALLENGE_DEMON_GLADIATOR,Pit Fiend,Demonio del pozo,深渊恶魔
+GMO_CHALLENGE_CRAZY_JACK,The Ripper,El Destripador,松土
+GMO_RAZOR_BLADE,Razor Blade,Cuchilla de Afeitar,剃须刀片
