@@ -4,11 +4,12 @@ var tran_i: int = 0
 
 func init():
 	.init()
-	TranslationServer.remove_translation(load("res://resources/translations/translations.zh.translation"))
-	ModLoader.add_translation_from_resource(ModLoader.UNPACKED_DIR + "SCGM-i18n/translations/i18n.zh.translation")
-	ModLoader.add_translation_from_resource(ModLoader.UNPACKED_DIR + "SCGM-i18n/extensions/translations/translations.zh.translation")
-	ModLoader.add_translation_from_resource(ModLoader.UNPACKED_DIR + "SCGM-i18n/translations/i18n.zh.translation")
-	_auto_load_translation(ModLoader.UNPACKED_DIR + "SCGM-i18n/translations/")
+	if tran_i == 0:
+		TranslationServer.remove_translation(load("res://resources/translations/translations.zh.translation"))
+		ModLoader.add_translation_from_resource(ModLoader.UNPACKED_DIR + "SCGM-i18n/translations/i18n.zh.translation")
+		ModLoader.add_translation_from_resource(ModLoader.UNPACKED_DIR + "SCGM-i18n/extensions/translations/translations.zh.translation")
+		ModLoader.add_translation_from_resource(ModLoader.UNPACKED_DIR + "SCGM-i18n/translations/i18n.zh.translation")
+		_auto_load_translation(ModLoader.UNPACKED_DIR + "SCGM-i18n/translations/")
 	version_label.text += "\n" + tr("LOADED_NUMBER_TEXT") + String(tran_i)
 
 func _auto_load_translation(trans_dir, recursion = true):
