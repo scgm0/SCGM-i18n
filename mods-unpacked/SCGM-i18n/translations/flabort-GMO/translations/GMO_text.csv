@@ -39,10 +39,10 @@ GMO_COMBINES CHARACTER_SPEEDY,Starts with Speedy,Empiezas con 1 Veloz,从飞毛�
 GMO_COMBINES CHARACTER_STREAMER,Starts with Streamer,Empiezas con 1 Personaje,从网络主播开始
 GMO_COMBINES CHARACTER_WELL_ROUNDED,Starts with Well Rounded,Empiezas con 1 Equilibrado,从全能王开始
 GMO_COMBINES CHARACTER_WILDLING,Starts with Wildling,Empiezas con 1 Salvaje,从野人开始
-WEAPON_LOADED_DICE,Loaded Dice,dados cargados,装骰子
-GMO_FEDORA,Dusty Fedora,Sombrero de Fieltro Polvoriento,尘土飞扬的毡帽
+WEAPON_LOADED_DICE,Loaded Dice,dados cargados,铅心骰子
+GMO_FEDORA,Dusty Fedora,Sombrero de Fieltro Polvoriento,染尘毡帽
 GMO_PRACTICAL_RESEARCH,Practical Research,Investigación Practica,实践研究
-WEAPON_PITCHFORK,Pitchfork,Horqueta,叉
+WEAPON_PITCHFORK,Pitchfork,Horqueta,钢叉
 GMO_CHALLENGE_BASE,Genetically Modified Overkill,Genéticamente Modificado Sobrecapacidad de Exterminación,基因过载重组
 GMO_CHALLENGE_ARTIFICER_LUCKY,Gambling,Arriesgarse,赌局
 GMO_CHALLENGE_OLD_EXPLORER,I Hate Snakes,Odio las Serpientes,我讨厌蛇
@@ -50,3 +50,12 @@ GMO_CHALLENGE_ENGINEER_DOCTOR,Graduate,Graduado,毕业
 GMO_CHALLENGE_DEMON_GLADIATOR,Pit Fiend,Demonio del pozo,深渊恶魔
 GMO_CHALLENGE_CRAZY_JACK,The Ripper,El Destripador,松土
 GMO_RAZOR_BLADE,Razor Blade,Cuchilla de Afeitar,剃须刀片
+GMO_CHALLENGE_LOUD_PACIFIST,Protester,Disidente,抗议者
+GMO_PROTEST_SIGN,Picket Sign,Señal de Piquete,纠察标志
+WEAPON_GMO_FIST_WRAPPINGS,Organic Fist Wrappings,Envolturas de Puño Orgánicas,有机拳套
+GMO_CHALLENGE_MULTITASKER_WILDLING,King of the Jungle,Rey de la Selva,丛林之王
+GMO_MONEY_TREE,Money Tree,Árbol del Dinero,摇钱树
+GMO_CHALLENGE_FARMER_ENTREPRENEUR,Cash Crop,cultivo comercial,经济作物
+GMO_FLABORT,Flabort,Flabort,花花公子
+GMO_FLABORT_TEXT,A Shameless Mod-Author Self Insert,Un Desvergonzado Autoinserto de Mod-autor,无耻的模组作者自我插入
+GMO_CHALLENGE_ONE_ARM_LICH,Shameless,Desvergonzado,不要脸
