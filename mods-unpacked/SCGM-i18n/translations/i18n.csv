@@ -1,2 +1,6 @@
-keys,en,zh
-LOADED_NUMBER_TEXT,Number of loaded localization files: ,已加载本地化文件数量：
+keys,zh,en
+LOADED_NUMBER_TEXT,已加载本地化文件数量：,Number of loaded localization files: 
+CHARACTER_CYBORG,赛博格,
+CHARACTER_GLUTTON,暴食者,
+CHARACTER_JACK,杰克,
+CHARACTER_LICH,巫妖,
