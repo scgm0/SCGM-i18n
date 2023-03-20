@@ -13,6 +13,8 @@ FrakiLoZ-BladeDancer
 FrakiLoZ-SpellThief
 otDan-ItemExplorer
 dami-ModOptions
+dami-Endlessless
+dami-BurnStacking
 
 
 github: https://github.com/scgm0/SCGM-i18n
