@@ -24,8 +24,8 @@ ITEM_DOMINO,Domino,多米诺骨牌
 ITEM_BLUEPRINTS,Blueprints,蓝图
 WEAPON_HOOKSHOT,Hookshot,钩爪
 EFFECT_RECYCLING_LOSSES,Gain [color=red]99%[/color] less materials from recyling it,回收道具时额外获得[color=red]-99%[/color]个材料
-EFFECT_STUCK_NULLIFIED,[color=#00ff00]5[/color] hits taken are nullified every wave,在每一波敌袭中会抵消受到的前[color=#00ff00]5[/color]次攻击伤害
-EFFECT_CATATO_NULLIFIED,[color=#00ff00]8[/color] hits taken are nullified every wave,在每一波敌袭中会抵消受到的前[color=#00ff00]8[/color]次攻击伤害
+EFFECT_STUCK_NULLIFIED,[color=#00ff00]5[/color] hits taken are nullified every wave,在每一波敌袭中会抵消受到的[color=#00ff00]前5次[/color]攻击伤害
+EFFECT_CATATO_NULLIFIED,[color=#00ff00]8[/color] hits taken are nullified every wave,在每一波敌袭中会抵消受到的[color=#00ff00]前8次[/color]攻击伤害
 EFFECT_TWO_WEAPON_SLOT_LIMIT,You can only equip two weapons at a time,同时只能装备两把武器
 EFFECT_GAIN_ENEMIES_FOR_EVERY_STAT,+{0}% {1} for every {2} {3} you have [+{4}%],你每有{2}{3}就有+{0}%{1}[+{4}%]
 EFFECT_NO_HARVESTING_GROWTH,{0}% Harvesting growth between waves,敌袭结束时，收获提高{0}% 
