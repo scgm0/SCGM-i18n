@@ -15,6 +15,6 @@ otDan-ItemExplorer
 dami-ModOptions
 dami-Endlessless
 dami-BurnStacking
-
+flesh-opmod
 
 github: https://github.com/scgm0/SCGM-i18n
