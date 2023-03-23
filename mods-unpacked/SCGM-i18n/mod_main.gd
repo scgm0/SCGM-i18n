@@ -10,5 +10,4 @@ func _ready():
 	ModLoaderUtils.log_info("Ready", MOD_NAME)
 	TranslationServer.remove_translation(load("res://resources/translations/translations.zh.translation"))
 	ModLoader.add_translation_from_resource(ModLoader.UNPACKED_DIR + "SCGM-i18n/translations/i18n.zh.translation")
-	ModLoader.add_translation_from_resource(ModLoader.UNPACKED_DIR + "SCGM-i18n/extensions/translations/translations.zh.translation")
-	#ModLoader.add_translation_from_resource(ModLoader.UNPACKED_DIR + "SCGM-i18n/translations/i18n.zh.translation")
+	ModLoader.add_translation_from_resource("res://resources/translations/translations.zh.translation")
