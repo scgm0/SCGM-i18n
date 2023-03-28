@@ -30,3 +30,4 @@ EFFECT_TWO_WEAPON_SLOT_LIMIT,You can only equip two weapons at a time,同时只�
 EFFECT_GAIN_ENEMIES_FOR_EVERY_STAT,+{0}% {1} for every {2} {3} you have [+{4}%],你每有{2}{3}就有+{0}%{1}[+{4}%]
 EFFECT_NO_HARVESTING_GROWTH,{0}% Harvesting growth between waves,敌袭结束时，收获提高{0}% 
 EFFECT_GAIN_ALL_DAMAGE_TYPES,All damage types are linked ([color=#00ff00]2 Melee Damage[/color] = [color=#00ff00]1 Ranged Damage[/color] = [color=#00ff00]1 Elemental Damage[/color] = [color=#00ff00]2 Engineering[/color]),所有的伤害类型都是相连的（[color=#00ff00]2近战伤害[/color] = [color=#00ff00]1远程伤害[/color] = [color=#00ff00]1元素伤害[/color] = [color=#00ff00]2工程学[/color]）
+EFFECT_CAP_MAP_SIZE,Map Size stops increasing at Wave 20,第20波敌袭后地图尺寸停止增长
