@@ -1,14 +1,19 @@
 extends "res://ui/menus/pages/main_menu.gd"
 
-var tran_i: int = 0
+var tran_i: int = 1
 
-func init():
+func init() -> void:
 	.init()
-	if tran_i == 0:
-		_auto_load_translation(ModLoader.UNPACKED_DIR + "SCGM-i18n/translations/")
+	if tran_i == 1:
+		var dir = Directory.new()
+		for i in ModLoader.get_children():
+			var translation_path = ModLoader.UNPACKED_DIR + "SCGM-i18n/translations/" + i.name
+			if dir.dir_exists(translation_path):
+				_auto_load_translation(translation_path + "/")
 	version_label.text += "\n" + tr("LOADED_NUMBER_TEXT") + String(tran_i)
 
-func _auto_load_translation(trans_dir, recursion = true):
+func _auto_load_translation(trans_dir, recursion = true) -> void:
+	print(trans_dir)
 	var dir = Directory.new()
 	if dir.open(trans_dir) == OK:
 		dir.list_dir_begin()
