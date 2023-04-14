@@ -17,5 +17,7 @@ dami-Endlessless
 dami-BurnStacking
 flesh-opmod
 FrakiLoZ-UndeadSamurai
+otDan-RollsLeft
+Retromation-Infinite
 
 github: https://github.com/scgm0/SCGM-i18n

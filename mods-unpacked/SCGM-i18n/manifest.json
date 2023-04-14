@@ -1,7 +1,7 @@
 {
 	"name": "i18n",
 	"namespace": "SCGM",
-	"version_number": "0.1.4",
+	"version_number": "0.1.5",
 	"description": "本地化翻译。",
 	"website_url": "",
 	"dependencies": [],
