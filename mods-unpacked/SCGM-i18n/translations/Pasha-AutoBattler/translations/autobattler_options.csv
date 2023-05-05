@@ -1,0 +1,8 @@
+keys,en,zh
+ENABLE_AUTOBATTLER,Enable AutoBattler,是否启用自动战斗
+ENABLE_SMOOTHING,Enable Camera Smoothing,是否启用摄像机平滑处理
+SMOOTHING_SPEED,Camera Smoothing Speed,摄像机平滑速度
+ITEM_WEIGHT,Item Weight,物品拾取权重
+PROJECTILE_WEIGHT,Projectile Weight,躲避敌人子弹权重
+TREE_WEIGHT,Tree Weight,砍树权重
+BOSS_WEIGHT,Boss Weight,Boss权重
