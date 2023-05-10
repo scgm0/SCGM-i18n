@@ -19,5 +19,6 @@ flesh-opmod
 FrakiLoZ-UndeadSamurai
 otDan-RollsLeft
 Retromation-Infinite
+Pasha-AutoBattler
 
 github: https://github.com/scgm0/SCGM-i18n
