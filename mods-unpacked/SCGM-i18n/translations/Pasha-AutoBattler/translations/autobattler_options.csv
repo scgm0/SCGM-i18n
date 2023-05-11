@@ -6,3 +6,5 @@ ITEM_WEIGHT,Item Weight,物品拾取权重
 PROJECTILE_WEIGHT,Projectile Weight,躲避敌人子弹权重
 TREE_WEIGHT,Tree Weight,砍树权重
 BOSS_WEIGHT,Boss Weight,Boss权重
+ENABLE_AI_VISUALS,Enable AI Visualization,是否显示AI权重可视化
+ENABLE_AI_MARKER,Show AI Marker,是否显示AI标记
