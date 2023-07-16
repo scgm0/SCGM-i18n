@@ -1,9 +1,138 @@
-keys,en,zh
-EFFECT_BUB_SWARM,When an enemy dies it releases 4 homing flies from its corpse dealing {1} ({3}) damage,当敌人死亡时，会从其尸体上释放出4只归巢苍蝇，造成 {1} ({3}) 点伤害
-EFFECT_SHOT_ORBITAL,Spawns a companion that flies around you and shoots enemies for {0} ({1}) damage,生成一个同伴，在你周围飞行并射击敌人，造成 {0} （{1}) 的伤害
-EFFECT_SWARM,When an enemy dies it releases 2 homing flies from its corpse dealing {1} ({3}) damage,当敌人死亡时，会从其尸体上释放出2只归巢苍蝇，造成 {1} ({3}) 点伤害
-EFFECT_GLITCH_ONE,Has no ability,没有能力
-EFFECT_GLITCH_TWO,Can start with any Extatonion weapon,可以从任何 Extatonion 武器开始
-EFFECT_REDUCE_SURVIVAL,Survivability modifications are reduced by 35%,最大生命修改减少35%
-EFFECT_INCREASE_DAMAGE,Damage modifications are increased by 35%,伤害修改增加35%
-EFFECT_WORKS_BOTH,Works both ways,双向工作
+keys,zh
+EFFECT_BUB_SWARM,敌人死亡时，从尸体释放出4只追踪飞蝇，对敌人造成 {1} ({3}) 点伤害
+EFFECT_SHOT_ORBITAL,生成一个伙伴环绕在你周围，并对敌人射击，造成 {0} ({1}) 点伤害
+EFFECT_SWARM,敌人死亡时，从尸体释放出2只追踪飞蝇，对敌人造成 {1} ({3}) 点伤害
+EFFECT_GLITCH_ONE,无能力
+EFFECT_GLITCH_TWO,开始时可选择任意 Extatonion 武器
+EFFECT_REDUCE_SURVIVAL,生命修改减少35%
+EFFECT_INCREASE_DAMAGE,伤害修改增加35%
+EFFECT_WORKS_BOTH,双向生效
+EFFECT_HEAL_ORBITAL,生成一个伙伴环绕在你周围，并对敌人射击，造成 {0} ({1}) 点伤害和 20% 吸血
+CHAR_GLITCHED,故障
+CHAR_AGENT,特工
+CHAR_BEELZEBUB,别西卜
+CHAR_BIOPUNK,生物朋克
+CHAR_LONG_ARMS,长臂
+CHAR_PEASANT,中世纪农夫
+ITEM_BLANKET,毯子
+ITEM_BRUNS_BADGE,布伦的徽章
+ITEM_EXTRAONION,额外的洋葱
+ITEM_GABRIEL_GLOVES,加百列的手套
+ITEM_JOHN_COAT,约翰的外套
+ITEM_MIMICRY,拟态伪装面具
+ITEM_NOTRAT,禁鼠令
+ITEM_PATRIOTISM,爱国主义
+ITEM_PETERS_TRAP,彼得的诡计
+ITEM_PLAGUE_MASK,瘟疫面具
+ITEM_SKAL_FIREWORK,斯卡尔的烟花
+ITEM_TIJOE_MASK,提乔面膜
+ITEM_ABADDON,亚巴顿
+ITEM_DARK_ALTAR,黑暗祭坛
+ITEM_CURSED_DICE,诅咒骰子
+ITEM_FIREFLY,萤火虫
+ITEM_SAY_MY_NAME,海森堡的帽子
+ITEM_INVESTMENTS,投资
+ITEM_JUNE_TAIL,June的尾巴
+ITEM_MOD_GUIDE,改装指南
+ITEM_OLEXA_MANTLE,奥莱克萨的斗篷
+ITEM_CHAOS_ORB,混沌之眼
+ITEM_ATTRACTIVE_SPIRIT,魅力小精灵
+ITEM_DAMI_PLUSH,达米的玩具塔
+ITEM_DRONE,战斗无人机
+ITEM_FIGHT_SPIRIT,战斗小精灵
+ITEM_FRIENDLY_ALIEN,友善小精灵
+ITEM_INSECT_TURRET,昆虫炮塔
+ITEM_SLASHING_TURRET,光剑炮塔
+ITEM_SPIKY_BALL,刺球
+ITEM_CHAINSAW_MAN,电锯人
+ITEM_JUST_CHAOS,混沌
+ITEM_GROM_COUPON,格姆的优惠券
+ITEM_MONK_RELIC,蒙克触手
+ITEM_RHINO_RELIC,犀牛触手
+ITEM_SCALDING_BLANKET,燃烧毯子
+ITEM_MEGA_MUSH,大蘑菇
+ITEM_VURTFISH,鱼缸
+WEP_CLICK_FINGERS,咔哒手指
+ITEM_JOHN_CONTRACT,JOHN的合同
+ITEM_LIBRA,天秤
+ITEM_MAGICAL_PLANT,魔力草
+ITEM_MEAT_AMULET,肉制护身符
+ITEM_OUROHANDS,围成"O"的手
+ITEM_RAD_HEART,辐射之心
+ITEM_SUPER_FAN,超出寻常的追求者
+ITEM_SWARM,群巢苍蝇
+ITEM_TANK_MUZZLE,坦克炮口
+WEP_KNIFE_THROWER,飞刀手
+WEP_VASILEK_BOW,瓦西列克的弓
+DESC_DO_AGENT,使用特工赢得一场比赛
+DESC_DO_BEELZE,使用别西卜赢得一场比赛
+DESC_DO_BIOPUNK,使用生物朋克赢得一场比赛
+DESC_DO_LONGARMS,使用长臂赢得一场比赛
+DESC_DO_PEASANT,使用中世纪农夫赢得一场比赛
+DF_NAME_AGENT,任务完成
+DESC_DF_AGENT,使用特工通关难度5
+DF_NAME_BEELZE,蝇神
+DESC_DF_BEELZE,使用别西卜通关难度5
+DF_NAME_BIOPUNK,恭喜
+DESC_DF_BIOPUNK,使用生物朋克通关难度5
+DF_NAME_BRAWLER,击倒！
+DESC_DF_BRAWLER,使用斗士通关难度5
+DESC_DF_CHUNKY,使用大壮通关难度5
+DF_NAME_LONGARMS,窝嫩叠
+DESC_DF_LONGARMS,使用长臂通关难度5
+DF_NAME_PEASANT,暴乱！
+DESC_DF_PEASANT,使用中世纪农夫通关难度5
+DF_NAME_WELL_ROUNDED,公平公正
+DESC_DF_WELL_ROUNDED,使用全能通关难度5
+SET_BIOLOGICAL,生物
+SET_HOMING,追踪
+SET_INSECT,昆虫
+SET_TACTICAL,战术
+WEP_ARMAGEDDON,末日
+WEP_BEE_HIVE,蜂巢
+WEP_BIG_SPOON,大勺子
+WEP_BOW,长弓
+WEP_SEVERED_HAND,断手指
+WEP_DARK_MAGIC,黑魔法书
+WEP_DICE_GUN,骰子枪
+WEP_MEAT_CLUB,肉棒
+WEP_FLARE_GUN,信号枪
+WEP_GRENADE_LAUNCHER,榴弹发射器
+WEP_JAVELIN,标枪
+WEP_ABUNDANCE_KNIFE,丰饶之刃
+WEP_LEAFY_MACHINEGUN,叶爆机枪
+WEP_LIL_BROTATO,小弟弟
+WEP_LOCUST_GUN,蝗虫扩散器
+WEP_EYE_GUN,眼球枪
+WEP_MEAT_ROD,肉棍
+WEP_NECRORACCOON,死灵浣熊
+WEP_TAXES,税收
+WEP_PITCHFORK,干草叉
+WEP_SNIPER_RIFLE,狙击步枪
+WEP_ABUNDANCE_STAFF,丰饶法杖
+EFFECT_SUMMON,召唤一个行走的伙伴，向敌人射击，造成 {0} ({1}) 点伤害
+EFFECT_MEAT_SUM,召唤一个行走的伙伴，发射弹跳投射物，造成 {0} ({1}) 点伤害
+EFFECT_SLASH_SUM,召唤一个行走的伙伴，对敌人进行斩击，造成 {0} ({1}) 点伤害
+SET_SUMMON,召唤
+WEP_BROTATO_STAFF,土豆兄弟之杖
+WEP_MEAT_INSPECTOR,肉类检验员
+WEP_COBRA_STAFF,眼镜蛇杖
+CHAR_SUMMONER,召唤师
+EFFECT_SLASH_ON_HIT,击中敌人会产生 {0} 次斩击攻击，造成 {1} ({3}) 点伤害
+WEP_PALADIN_SWORD,圣骑士之剑
+SET_SLASHING,斩击
+WEP_KATANA,武士刀
+EFFECT_SUMMONS_COOLDOWN_REDUCTION,将你的召唤物的攻击冷却时间减少 {0} ({1})
+WEP_SLIMY_CLUB,黏糊糊的木棍
+DESC_DO_SUMMONER,使用召唤师赢得一场比赛
+DESC_DF_SUMMONER,使用召唤师通关难度5
+DF_NAME_SUMMONER,这是必要的牺牲
+ITEM_SACRIFICE,献祭
+WEP_BUTCHER_RELIC,Butcher's Relic,Реликвия Мясника,Реліквія М'ясника
+ITEM_ROBOTICS,走地机器人
+ITEM_SOLDIER_BOT,士兵机器人
+DF_NAME_ENGINEER,Nanomachines Son!,Nanomachines Son!,Nanomachines Son!
+DESC_DF_ENGINEER,Beat danger 5 with Engineer,Пройти угрозу 5 за Инженера,Пройти складність 5 за Інженера
+ITEM_CUBE_RICK,请转动这个立方体
+ITEM_GOLDEN_CHEST,金箱子
+ITEM_ARTIFACT,古代工艺
