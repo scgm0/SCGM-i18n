@@ -62,6 +62,19 @@ GMO_CHALLENGE_ONE_ARM_LICH,Shameless,Desvergonzado,不要脸
 GMO_CHALLENGE_RANGER_HUNTER,Bullseye,El Acierto,靶心
 GMO_MARKSMANSHIP,Marksmanship,Puntería,瞄准
 GMO_TAKE_OUT,Take-out,Comida para Llevar,外卖
-GMO_CHALLENGE_SPEEDY_BULL,Like a Bull in a chinese resteraunt,Como un Elefante en una Restaurante Chino,就像中国餐馆里的大象一样
+GMO_CHALLENGE_SPEEDY_BULL,Like a Bull in a chinese resteraunt,Como un Elefante en una Restaurante Chino,唐突无礼
 WEAPON_GMO_POLTERLIMB,Polterlimb,Extremidad Fantasma,波尔特肢体
 GMO_CHALLENGE_GHOST_CHUNKY,Phantom Touch,Cepillado por un Fantasma,幻影之触
+GMO_MAGIC_BARRIER,Magic Barrier,Barrera Mágica,魔法屏障
+GMO_GOLD_PLATED_TEETH,Gold Plated Teeth,Dientes Chapados en Oro,金牙
+GMO_CHALLENGE_GENERALIST_ARMS_DEALER,Gaudy and Attractive,Llamativo y Atractivo,银样镴枪头
+GMO_CHALLENGE_MAGE_HUNTER,Arcane Sniper,Francotirador Arcano,奥术狙击手
+EFFECT_WEAPON_WAVE_STATS,{1} is increased by {0} for every wave. [{3}],{1} aumenta en {0} por cada ola. [{3}],每波 {1} 都会增加 {0}。 [{3}]
+WEAPON_GMO_MUSKET,Antique Musket,Mosquete Antiguo,古董火枪
+GMO_CHALLENGE_OLD_SOLDIER,Close Quarters Veteran,Veterano de espacios cerrados,近战老兵
+GMO_ELUSIVEGHOST,Elusive Ghost,Elusive Ghost,神出“鬼”没
+GMO_ELUSIVE_GHOST_URL,https://www.youtube.com/@ElusiveGhost,https://www.youtube.com/@ElusiveGhost
+GMO_JEFFS_SHADES,Jeff's Shades,Gafas de sol de Jeff,杰夫的太阳镜
+GMO_JEFF_URL,https://www.youtube.com/@gamingwithjeff,https://www.youtube.com/@gamingwithjeff
+GMO_CHALLENGE_MASOCHIST_KNIGHT,You can never have enough head injuries,Nunca puedes tener suficientes lesiones en la cabeza,打不死的小强
+GMO_CHALLENGE_BRAWLER_GHOST,Busting Makes Me Feel Good,Cazar Me Hace Sentir Bien,我现在真是High到不行

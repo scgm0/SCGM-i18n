@@ -115,7 +115,7 @@ EFFECT_MEAT_SUM,召唤一个行走的伙伴，发射弹跳投射物，造成 {0}
 EFFECT_SLASH_SUM,召唤一个行走的伙伴，对敌人进行斩击，造成 {0} ({1}) 点伤害
 SET_SUMMON,召唤
 WEP_BROTATO_STAFF,土豆兄弟之杖
-WEP_MEAT_INSPECTOR,肉类检验员
+WEP_MEAT_INSPECTOR,血肉法杖
 WEP_COBRA_STAFF,眼镜蛇杖
 CHAR_SUMMONER,召唤师
 EFFECT_SLASH_ON_HIT,击中敌人会产生 {0} 次斩击攻击，造成 {1} ({3}) 点伤害
@@ -128,11 +128,11 @@ DESC_DO_SUMMONER,使用召唤师赢得一场比赛
 DESC_DF_SUMMONER,使用召唤师通关难度5
 DF_NAME_SUMMONER,这是必要的牺牲
 ITEM_SACRIFICE,献祭
-WEP_BUTCHER_RELIC,Butcher's Relic,Реликвия Мясника,Реліквія М'ясника
+WEP_BUTCHER_RELIC,屠夫的遗物
 ITEM_ROBOTICS,走地机器人
 ITEM_SOLDIER_BOT,士兵机器人
-DF_NAME_ENGINEER,Nanomachines Son!,Nanomachines Son!,Nanomachines Son!
-DESC_DF_ENGINEER,Beat danger 5 with Engineer,Пройти угрозу 5 за Инженера,Пройти складність 5 за Інженера
+DF_NAME_ENGINEER,纳米太阳！
+DESC_DF_ENGINEER,使用工程师通关难度5
 ITEM_CUBE_RICK,请转动这个立方体
 ITEM_GOLDEN_CHEST,金箱子
 ITEM_ARTIFACT,古代工艺
