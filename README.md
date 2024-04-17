@@ -23,5 +23,6 @@
 - Retromation-Infinite
 - Pasha-AutoBattler
 - bene_labs-WeaponDpsDisplay
+- MincedMeatMole-WeaponSettings
 
 github: https://github.com/scgm0/SCGM-i18n
