@@ -1,0 +1,6 @@
+keys,en,de,zh
+WEAPON_DPS,DPS,DPS,武器秒伤
+WEAPON_BURN_DPS,Burn DPS,Brandschaden DPS,燃烧秒伤
+STAND_STILL_DPS,Stand still DPS,Stillstand DPS,静止秒伤
+BURN_STACK_DPS,Burn DPS per stack,Brand-DPS pro Stack,每层燃烧秒伤
+BURN_MAX_DPS,Maximum burn DPS,Maximaler Brand-DPS,最大燃烧秒伤
