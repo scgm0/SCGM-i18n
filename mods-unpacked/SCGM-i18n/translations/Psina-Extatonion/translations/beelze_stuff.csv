@@ -1,138 +1,217 @@
-keys,zh
-EFFECT_BUB_SWARM,敌人死亡时，从尸体释放出4只追踪飞蝇，对敌人造成 {1} ({3}) 点伤害
-EFFECT_SHOT_ORBITAL,生成一个伙伴环绕在你周围，并对敌人射击，造成 {0} ({1}) 点伤害
-EFFECT_SWARM,敌人死亡时，从尸体释放出2只追踪飞蝇，对敌人造成 {1} ({3}) 点伤害
-EFFECT_GLITCH_ONE,无能力
-EFFECT_GLITCH_TWO,开始时可选择任意 Extatonion 武器
-EFFECT_REDUCE_SURVIVAL,生命修改减少35%
-EFFECT_INCREASE_DAMAGE,伤害修改增加35%
-EFFECT_WORKS_BOTH,双向生效
-EFFECT_HEAL_ORBITAL,生成一个伙伴环绕在你周围，并对敌人射击，造成 {0} ({1}) 点伤害和 20% 吸血
-CHAR_GLITCHED,故障
-CHAR_AGENT,特工
-CHAR_BEELZEBUB,别西卜
-CHAR_BIOPUNK,生物朋克
-CHAR_LONG_ARMS,长臂
-CHAR_PEASANT,中世纪农夫
-ITEM_BLANKET,毯子
-ITEM_BRUNS_BADGE,布伦的徽章
-ITEM_EXTRAONION,额外的洋葱
-ITEM_GABRIEL_GLOVES,加百列的手套
-ITEM_JOHN_COAT,约翰的外套
-ITEM_MIMICRY,拟态伪装面具
-ITEM_NOTRAT,禁鼠令
-ITEM_PATRIOTISM,爱国主义
-ITEM_PETERS_TRAP,彼得的诡计
-ITEM_PLAGUE_MASK,瘟疫面具
-ITEM_SKAL_FIREWORK,斯卡尔的烟花
-ITEM_TIJOE_MASK,提乔面膜
-ITEM_ABADDON,亚巴顿
-ITEM_DARK_ALTAR,黑暗祭坛
-ITEM_CURSED_DICE,诅咒骰子
-ITEM_FIREFLY,萤火虫
-ITEM_SAY_MY_NAME,海森堡的帽子
-ITEM_INVESTMENTS,投资
-ITEM_JUNE_TAIL,June的尾巴
-ITEM_MOD_GUIDE,改装指南
-ITEM_OLEXA_MANTLE,奥莱克萨的斗篷
-ITEM_CHAOS_ORB,混沌之眼
-ITEM_ATTRACTIVE_SPIRIT,魅力小精灵
-ITEM_DAMI_PLUSH,达米的玩具塔
-ITEM_DRONE,战斗无人机
-ITEM_FIGHT_SPIRIT,战斗小精灵
-ITEM_FRIENDLY_ALIEN,友善小精灵
-ITEM_INSECT_TURRET,昆虫炮塔
-ITEM_SLASHING_TURRET,光剑炮塔
-ITEM_SPIKY_BALL,刺球
-ITEM_CHAINSAW_MAN,电锯人
-ITEM_JUST_CHAOS,混沌
-ITEM_GROM_COUPON,格姆的优惠券
-ITEM_MONK_RELIC,蒙克触手
-ITEM_RHINO_RELIC,犀牛触手
-ITEM_SCALDING_BLANKET,燃烧毯子
-ITEM_MEGA_MUSH,大蘑菇
-ITEM_VURTFISH,鱼缸
-WEP_CLICK_FINGERS,咔哒手指
-ITEM_JOHN_CONTRACT,JOHN的合同
-ITEM_LIBRA,天秤
-ITEM_MAGICAL_PLANT,魔力草
-ITEM_MEAT_AMULET,肉制护身符
-ITEM_OUROHANDS,围成"O"的手
-ITEM_RAD_HEART,辐射之心
-ITEM_SUPER_FAN,超出寻常的追求者
-ITEM_SWARM,群巢苍蝇
-ITEM_TANK_MUZZLE,坦克炮口
-WEP_KNIFE_THROWER,飞刀手
-WEP_VASILEK_BOW,瓦西列克的弓
-DESC_DO_AGENT,使用特工赢得一场比赛
-DESC_DO_BEELZE,使用别西卜赢得一场比赛
-DESC_DO_BIOPUNK,使用生物朋克赢得一场比赛
-DESC_DO_LONGARMS,使用长臂赢得一场比赛
-DESC_DO_PEASANT,使用中世纪农夫赢得一场比赛
-DF_NAME_AGENT,任务完成
-DESC_DF_AGENT,使用特工通关难度5
-DF_NAME_BEELZE,蝇神
-DESC_DF_BEELZE,使用别西卜通关难度5
-DF_NAME_BIOPUNK,恭喜
-DESC_DF_BIOPUNK,使用生物朋克通关难度5
-DF_NAME_BRAWLER,击倒！
-DESC_DF_BRAWLER,使用斗士通关难度5
-DESC_DF_CHUNKY,使用大壮通关难度5
-DF_NAME_LONGARMS,窝嫩叠
-DESC_DF_LONGARMS,使用长臂通关难度5
-DF_NAME_PEASANT,暴乱！
-DESC_DF_PEASANT,使用中世纪农夫通关难度5
-DF_NAME_WELL_ROUNDED,公平公正
-DESC_DF_WELL_ROUNDED,使用全能通关难度5
-SET_BIOLOGICAL,生物
-SET_HOMING,追踪
-SET_INSECT,昆虫
-SET_TACTICAL,战术
-WEP_ARMAGEDDON,末日
-WEP_BEE_HIVE,蜂巢
-WEP_BIG_SPOON,大勺子
-WEP_BOW,长弓
-WEP_SEVERED_HAND,断手指
-WEP_DARK_MAGIC,黑魔法书
-WEP_DICE_GUN,骰子枪
-WEP_MEAT_CLUB,肉棒
-WEP_FLARE_GUN,信号枪
-WEP_GRENADE_LAUNCHER,榴弹发射器
-WEP_JAVELIN,标枪
-WEP_ABUNDANCE_KNIFE,丰饶之刃
-WEP_LEAFY_MACHINEGUN,叶爆机枪
-WEP_LIL_BROTATO,小弟弟
-WEP_LOCUST_GUN,蝗虫扩散器
-WEP_EYE_GUN,眼球枪
-WEP_MEAT_ROD,肉棍
-WEP_NECRORACCOON,死灵浣熊
-WEP_TAXES,税收
-WEP_PITCHFORK,干草叉
-WEP_SNIPER_RIFLE,狙击步枪
-WEP_ABUNDANCE_STAFF,丰饶法杖
-EFFECT_SUMMON,召唤一个行走的伙伴，向敌人射击，造成 {0} ({1}) 点伤害
-EFFECT_MEAT_SUM,召唤一个行走的伙伴，发射弹跳投射物，造成 {0} ({1}) 点伤害
-EFFECT_SLASH_SUM,召唤一个行走的伙伴，对敌人进行斩击，造成 {0} ({1}) 点伤害
-SET_SUMMON,召唤
-WEP_BROTATO_STAFF,土豆兄弟之杖
-WEP_MEAT_INSPECTOR,血肉法杖
-WEP_COBRA_STAFF,眼镜蛇杖
-CHAR_SUMMONER,召唤师
-EFFECT_SLASH_ON_HIT,击中敌人会产生 {0} 次斩击攻击，造成 {1} ({3}) 点伤害
-WEP_PALADIN_SWORD,圣骑士之剑
-SET_SLASHING,斩击
-WEP_KATANA,武士刀
-EFFECT_SUMMONS_COOLDOWN_REDUCTION,将你的召唤物的攻击冷却时间减少 {0} ({1})
-WEP_SLIMY_CLUB,黏糊糊的木棍
-DESC_DO_SUMMONER,使用召唤师赢得一场比赛
-DESC_DF_SUMMONER,使用召唤师通关难度5
-DF_NAME_SUMMONER,这是必要的牺牲
-ITEM_SACRIFICE,献祭
-WEP_BUTCHER_RELIC,屠夫的遗物
-ITEM_ROBOTICS,走地机器人
-ITEM_SOLDIER_BOT,士兵机器人
-DF_NAME_ENGINEER,纳米太阳！
-DESC_DF_ENGINEER,使用工程师通关难度5
-ITEM_CUBE_RICK,请转动这个立方体
-ITEM_GOLDEN_CHEST,金箱子
-ITEM_ARTIFACT,古代工艺
+keys,en,ru,uk,zh
+EFFECT_BUB_SWARM,When an enemy dies it releases 4 homing flies from its corpse dealing {1} ({3}) damage,Когда враг умирает из его трупа вылетает 4 самонаводящихся мухи наносящие {1} ({3}) урона,"Коли ворог помирає з його трупа вилітає 4 мухи, що самонаводяться та завдають {1} ({3}) шкоди",敌人死亡时，从尸体释放出4只追踪飞蝇，对敌人造成 {1} ({3}) 点伤害
+EFFECT_SHOT_ORBITAL,Spawns a companion that flies around you and shoots enemies for {0} ({1}) damage,Создаёт компаньона который летает вокруг тебя и стреляет во врагов нанося {0} ({1}) урона,"Створює компаньйона, який літає навколо тебе і стріляє у ворогів, завдаючи {0} ({1}) шкоди",生成一个伙伴环绕在你周围，并对敌人射击，造成 {0} ({1}) 点伤害
+EFFECT_SWARM,When an enemy dies it releases 2 homing flies from its corpse dealing {1} ({3}) damage,Когда враг умирает из его трупа вылетает 2 самонаводящихся мухи наносящие {1} ({3}) урона,"Коли ворог помирає з його трупа вилітає 2 мухи, що самонаводяться та завдають {1} ({3}) шкоди",敌人死亡时，从尸体释放出2只追踪飞蝇，对敌人造成 {1} ({3}) 点伤害
+EFFECT_GLITCH_ONE,Has no ability,Не имеет способностей,Не має здібностей,无能力
+EFFECT_GLITCH_TWO,Can start with any Extatonion weapon,Может начинать игру с любым Extatonion оружием,Може починати гру з будь-якою зброєю з Extatonion ,开始时可选择任意 Extatonion 武器
+EFFECT_REDUCE_SURVIVAL,Survivability modifications are reduced by 35%,не юзается,не використовується,生命修改减少35%
+EFFECT_INCREASE_DAMAGE,Damage modifications are increased by 35%,не юзается,не використовується,伤害修改增加35%
+EFFECT_WORKS_BOTH,Works both ways,Работает в обе стороны,Працює в обох напрямках,双向生效
+EFFECT_HEAL_ORBITAL,Spawns a companion that flies around you and shoots enemies for {0} ({1}) damage with [color=#00ff00]20%[/color] lifesteal,Создаёт компаньона который летает вокруг тебя и стреляет во врагов нанося {0} ({1}) урона с [color=#00ff00]20%[/color] кражей жизни,Створює компаньйона який літає навколо тебе і стріляє у ворогів завдаючи {0} ({1}) шкоди з [color=#00ff00]20%[/color] вампіризму ,生成一个伙伴环绕在你周围，并对敌人射击，造成 {0} ({1}) 点伤害和 20% 吸血
+CHAR_GLITCHED,Glitched,Глючный,Глючний,故障
+CHAR_AGENT,Agent,Агент,Агент,特工
+CHAR_BEELZEBUB,Beelzebub,Вельзевул,Вельзевул,别西卜
+CHAR_BIOPUNK,Biopunk,Биопанк,Біопанк,生物朋克
+CHAR_LONG_ARMS,Long Arms,Длиннорукий,Довгорукий,长臂
+CHAR_PEASANT,Peasant,Крестьянин,Селянин,中世纪农夫
+ITEM_BLANKET,Blanket,Одеяло,Ковдра,毯子
+ITEM_BRUNS_BADGE,Brun's Badge,Значок Бруна,Значок Бруна,布伦的徽章
+ITEM_EXTRAONION,Extra Onion,Бонусный Лук,Додаткова цибуля,额外的洋葱
+ITEM_GABRIELS_GLOVES,Gabriel's Gloves,Перчатки Габриэля,Рукавички Габріеля,加百列的手套
+ITEM_JOHNS_COAT,John's Coat,Пальто Джона,Куртка Джона,约翰的外套
+ITEM_MIMICRY,Mimicry,Мимикрия,Мімікрія,拟态伪装面具
+ITEM_NOT_A_RAT,Not a Rat,Некрыса,Нещур,不是老鼠
+ITEM_PATRIOTISM,Patriotism,Патриотизм,Патріотизм,爱国主义
+ITEM_PETERS_TRAP,Peter's Trap,Ловушка Питера,Пастка Петра,彼得的诡计
+ITEM_PLAGUE_MASK,Plague Mask,Маска Чумного,Маска чумного,瘟疫面具
+ITEM_SKALS_FIREWORK,Skal's Firework,Фейерверк Скала,Феєрверк Скала,斯卡尔的烟花
+ITEM_TIJOE_MASK,Tijoe Mask,Маска Тиджа,Маска Тіджа,提乔面膜
+ITEM_ABADDON,Abaddon,АБАДДООООН,Абаддон,亚巴顿
+ITEM_DARK_ALTAR,Dark Altar,Тёмный Алтарь,Темний вівтар,黑暗祭坛
+ITEM_CURSED_DICE,Cursed Dice,Проклятый Кубик,Проклятий кубик,诅咒骰子
+ITEM_FIREFLY,Firefly,Светлячок,Світлячок,萤火虫
+ITEM_SAY_MY_NAME,Heisenberg,Хайзенберг,Гейзенберг,海森堡的帽子
+ITEM_INVESTMENTS,Investments,Инвестиции,Інвестиції,投资
+ITEM_JUNES_TAIL,June's Tail,Хвост Джуна,Хвіст Джуна,六月的尾巴
+ITEM_MOD_GUIDE,Modding Guide,Гайд По Мододельству,Керівництво з Модоробства,改装指南
+ITEM_OLEXA_MANTLE,Olexa's Mantle,Мантия Olexa,Мантія Olexa,奥莱克萨的斗篷
+ITEM_CHAOS_ORB,Orb Of Chaos,Сфера Хаоса,Сфера хаосу,混沌之眼
+ITEM_ATTRACTIVE_SPIRIT,Attractive Spirit,Привлекательный Дух,Вабливий Дух,魅力小精灵
+ITEM_DAMI_PLUSH,Dami's Plushie,Плюш Дами,Плюш Дамі,达米的玩具塔
+ITEM_DRONE,Drone,Дрон,Дрон,战斗无人机
+ITEM_SPIRIT_YELLOW,Fighting Spirit,Боевой Дух,Бойовий дух,战斗精神
+ITEM_FRIENDLY_ALIEN,Friendly Alien,Дружелюбный Инопланетянин,Доброзичливий Прибулець,友善小精灵
+ITEM_INSECT_TURRET,Insect Turret,Мушиная Турель,Жучина Турель,昆虫炮塔
+ITEM_SLASHING_TURRET,Slashing Turret,Режущая Турель,Турель-Рубака,光剑炮塔
+ITEM_SPIKY_BALL,Spiky Ball,Шипастая Сфера,Шипаста сфера,刺球
+ITEM_CHAINSAW_MAN,Chainsaw Man,Человек Бензопила,Людина-бензопила,电锯人
+ITEM_JUST_CHAOS,Chaos,Хаос,Хаос,混沌
+ITEM_GROM_COUPON,Grom's Coupon,Купон Грома,Купон Ґрома,格姆的优惠券
+ITEM_MONK_RELIC,Monk's relic,Реликвия Монка,Реліквія Монка,蒙克触手
+ITEM_RHINO_RELIC,Rhino's relic,Реликвия Носорога,Реліквія носорога,犀牛触手
+ITEM_SCALDING_BLANKET,Scalding Blanket,Обжигающее Одеяло,Ошпарювальна Ковдра,燃烧毯子
+ITEM_MEGA_MUSH,Ultra Mush,Ультра Гриб,Ультра Гриб,大蘑菇
+ITEM_VURTFISH,Vurtfish,Вуртик,Вуртик,鱼缸
+WEP_CLICK_FINGERS,Click Fingers,Пальцы Щёлка,Пальці Клаца,咔哒手指
+ITEM_JHNCONTRACTUN,John's Contract,Контракт Джона,Контракт Джона,约翰的合同
+ITEM_LIBRA,Libra,Весы,Ваги,天秤
+ITEM_MAGICAL_PLANT,Magical Plant,Волшебное Растение,Чарівна рослина,魔力草
+ITEM_MEAT_AMULET,Meat Amulet,Мясной Амулет,М'ясний амулет,肉制护身符
+ITEM_OUROHANDS,Ourohands,Уро-руки,Уроруки,黑手
+ITEM_RAD_HEART,Radioactive Heart,Радиоактивное Сердце,Радіоактивне серце,辐射之心
+ITEM_SUPER_FAN,Mansion Super Fan,Супер Фан Особняка,Супер фан садиби,豪宅超级粉丝
+ITEM_SWARM,Swarm,Рой,Рій,群巢苍蝇
+ITEM_TANK_MUZZLE,Tank Muzzle,Дуло Танка,Дуло танка,坦克炮口
+WEP_KNIFE_THROWER,Knife Thrower,Метатель Ножей,Метальник ножів,飞刀手
+WEP_VASILEK_BOW,Vasilek's Bow,Лук Василька,Лук Василька,瓦西列克的弓
+DESC_DO_AGENT,Win a run with Agent,Пройти забег за Агента,Пройти забіг за Агента,使用特工赢得一场比赛
+DESC_DO_BEELZE,Win a run with Beelzebub,Пройти забег за Вельзевула,Пройти забіг за Вельзевула,使用别西卜赢得一场比赛
+DESC_DO_BIOPUNK,Win a run with Biopunk,Пройти забег за Биопанка,Пройти забіг за Біопанка,使用生物朋克赢得一场比赛
+DESC_DO_LONGARMS,Win a run with Long Arms,Пройти забег за Длиннорукого,Пройти забіг за Довгорукого,使用长臂赢得一场比赛
+DESC_DO_PEASANT,Win a run with Peasant,Пройти забег за Крестьянина,Пройти забіг за Селянина,使用中世纪农夫赢得一场比赛
+DF_NAME_AGENT,Mission Complete,Миссия Выполнена,Завдання виконано,任务完成
+DESC_DF_AGENT,Beat danger 5 with Agent,Пройти угрозу 5 за Агента,Пройти складність 5 за Агента,使用特工通关难度5
+DF_NAME_BEELZE,Locust God,Бог Саранчи,Бог сарани,蝗神
+DESC_DF_BEELZE,Beat danger 5 with Beelzebub,Пройти угрозу 5 за Вельзевула,Пройти складність 5 за Вельзевула,使用别西卜通关难度5
+DF_NAME_BIOPUNK,Congratulations,Поздравляем,Вітаю,恭喜
+DESC_DF_BIOPUNK,Beat danger 5 with Biopunk,Пройти угрозу 5 за Биопанка,Пройти складність 5 за Біопанка,使用生物朋克通关难度5
+DF_NAME_BRAWLER,Knockout!,Нокаут!,Нокаут!,击倒！
+DESC_DF_BRAWLER,Beat danger 5 with Brawler,Пройти угрозу 5 за Драчуна,Пройти складність 5 за Забіяку,使用斗士通关难度5
+DESC_DF_CHUNKY,Beat danger 5 with Chunky,Пройти угрозу 5 за Толстяка,Пройти складність 5 за Кремезного,使用大壮通关难度5
+DF_NAME_LONGARMS,Daddy Long Arms,Папочка Длинные Руки,Тато довгі руки,窝嫩叠
+DESC_DF_LONGARMS,Beat danger 5 with Long Arms,Пройти угрозу 5 за Длиннорукого,Пройти складність 5 за Довгорукого,使用长臂通关难度5
+DF_NAME_PEASANT,Riot!,Бунт!,Бунт!,暴乱！
+DESC_DF_PEASANT,Beat danger 5 with Peasant,Пройти угрозу 5 за Крестьянина,Пройти складність 5 за Селянина,使用中世纪农夫通关难度5
+DF_NAME_WELL_ROUNDED,Fair and Balanced,Справедливо и Балансно,Справедливо і збалансовано,公平公正
+DESC_DF_WELL_ROUNDED,Beat danger 5 with Well Rounded,Пройти угрозу 5 за Сбалансированного,Пройти складність 5 за Збалансованого,使用全能通关难度5
+SET_BIOLOGICAL,Biological,Биологическое,Біологічне,生物
+SET_HOMING,Homing,Самонаводится,Самонаводиться,追踪
+SET_INSECT,Insect,Насекомое,Комаха,昆虫
+SET_TACTICAL,Tactical,Тактическое,Тактичне,战术
+WEP_ARMAGEDDON,Armageddon,Армагеддон,Армагедон,末日
+WEP_BEE_HIVE,Bee Hive,Пчелиный Улей,Бджолиний вулик,蜂巢
+WEP_BIG_SPOON,Big Spoon,Большая Ложка,Велика Ложка,大勺子
+WEP_BOW,Bow,Лук,Лук,长弓
+WEP_SEVERED_HAND,Severed Hand,Отрубленная Рука,Відрубана рука,断手
+WEP_DARK_MAGIC,Dark Magic Book,Книга Тёмной Магии,Книга темної магії,黑魔法书
+WEP_DICE_GUN,Dice Gun,Удачливая Пушка,Щасливий пістолет,骰子枪
+WEP_MEAT_CLUB,Meat Club,Мясная Дубина,М'ясна дубина,肉棒
+WEP_FLARE_GUN,Flare Gun,Сигнальная Ракетница,Сигнальна ракетниця,信号枪
+WEP_GRENADE_LAUNCHER,Grenade Launcher,Гранатомёт,Гранатометник,榴弹发射器
+WEP_JAVELIN,Javelin,Джавелин,Джавелін,标枪
+WEP_ABUNDANCE_KNIFE,Knife Of Abundance,Кинжал Изобилия,Кинджал достатку,丰饶之刃
+WEP_LEAFY_MACHINEGUN,Leafy's Machinegun,Лифин Пулемёт,Кулемет Ліфі,叶爆机枪
+WEP_LIL_BROTATO,Lil Brotato,Крошка Бротошка,Крихітка бротопля,小弟弟
+WEP_LOCUST_GUN,Locust Spreader,Распрыскиватель Саранчи,Розповсюджувач сарани,蝗虫扩散器
+WEP_EYE_GUN,Eye Gun,Глазная Пушка,Очний пістолет,眼球枪
+WEP_MEAT_ROD,Meat Rod,Мясной Жезл,М'ясний жезл,肉棍
+WEP_NECRORACCOON,Necro Raccoon,Енот Некромант,Єнот-некромант,死灵浣熊
+WEP_TAXES,Taxes,Налоги,Податки,税收
+WEP_PITCHFORK,Pitchfork,Вилы,Вила,干草叉
+WEP_SNIPER_RIFLE,Sniper Rifle,Снайперская Винтовка,Снайперська гвинтівка,狙击步枪
+WEP_ABUNDANCE_STAFF,Staff Of Abundance,Посох Изобилия,Посох достатку,丰饶法杖
+EFFECT_SUMMON,Summons a walking companion that shoots enemies for {0} ({1}) damage,Призывает передвигающегося компаньона который стреляет снаряды наносящие {0} ({1}) урона,"Закликає пішого компаньйона, який стріляє снарядами що завдають {0} ({1}) шкоди",召唤一个步行同伴，向敌人射击，造成 {0} ({1}) 点伤害
+EFFECT_MEAT_SUM,Summons a walking companion that fires bouncing projectiles that deal {0} ({1}) damage,Призывает передвигающегося компаньона который стреляет снарядами которые рикошетят и наносят {0} ({1}) урона,"Закликає пішого компаньйона, який стріляє снарядами, що рикошетять та завдають {0} ({1}) шкоди",召唤一个步行同伴，发射弹跳投射物，造成 {0} ({1}) 点伤害
+EFFECT_MEAT_SUM_T2,Summons a walking companion that fires bouncing [color=#00ff00]2[/color] times projectiles that deal {0} ({1}) damage,Призывает передвигающегося компаньона который стреляет снарядами которые рикошетят [color=#00ff00]2[/color] раза и наносят {0} ({1}) урона,"Закликає пішого компаньйона, який стріляє снарядами, що рикошетять [color=#00ff00]2[/color] рази та завдають {0} ({1}) шкоди",召唤一个步行同伴，发射 [color=#00ff00]2[/color] 次弹跳射弹，造成 {0} ({1}) 点伤害
+EFFECT_MEAT_SUM_T3,Summons a walking companion that fires bouncing [color=#00ff00]3[/color] times projectiles that deal {0} ({1}) damage,Призывает передвигающегося компаньона который стреляет снарядами которые рикошетят [color=#00ff00]3[/color] раза и наносят {0} ({1}) урона,"Закликає пішого компаньйона, який стріляє снарядами, що рикошетять [color=#00ff00]3[/color] рази та завдають {0} ({1}) шкоди",召唤一个步行同伴，发射 [color=#00ff00]3[/color] 次弹跳射弹，造成 {0} ({1}) 点伤害
+EFFECT_MEAT_SUM_T4,Summons a walking companion that fires bouncing [color=#00ff00]4[/color] times projectiles that deal {0} ({1}) damage,Призывает передвигающегося компаньона который стреляет снарядами которые рикошетят [color=#00ff00]4[/color] раза и наносят {0} ({1}) урона,"Закликає пішого компаньйона, який стріляє снарядами, що рикошетять [color=#00ff00]4[/color] рази та завдають {0} ({1}) шкоди",召唤一个步行同伴，发射弹跳 [color=#00ff00]4[/color] 次射弹，造成 {0} ({1}) 点伤害
+EFFECT_SLASH_SUM,Summons a walking companion that slashes enemies for {0} ({1}) damage,Призывает передвигающегося компаньона который режет врагов нанося {0} ({1}) урона,"Закликає пішого компаньйона, який ріже ворогів завдаючи {0} ({1}) шкоди",召唤一个步行同伴，对敌人进行斩击，造成 {0} ({1}) 点伤害
+EFFECT_COBRA_SUM,Summons a walking companion that fires [color=#00ff00]3[/color] projectiles that deal {0} ({1}) damage,Призывает передвигающегося компаньона который стреляет [color=#00ff00]3[/color] снарядами которые наносят {0} ({1}) урона,"Закликає пішого компаньйона, який стріляє [color=#00ff00]3[/color] снарядами, що завдають {0} ({1}) шкоди",召唤一个步行同伴，发射 [color=#00ff00]3[/color] 枚射弹，造成 {0} ({1}) 点伤害
+EFFECT_COBRA_SUM_T2,Summons a walking companion that fires [color=#00ff00]4[/color] projectiles that deal {0} ({1}) damage,Призывает передвигающегося компаньона который стреляет [color=#00ff00]4[/color] снарядами которые наносят {0} ({1}) урона,"Закликає пішого компаньйона, який стріляє [color=#00ff00]4[/color] снарядами, що завдають {0} ({1}) шкоди",召唤一个步行同伴，发射 [color=#00ff00]4[/color] 枚射弹，造成 {0} ({1}) 点伤害
+EFFECT_COBRA_SUM_T3,Summons a walking companion that fires [color=#00ff00]5[/color] projectiles that deal {0} ({1}) damage,Призывает передвигающегося компаньона который стреляет [color=#00ff00]5[/color] снарядами которые наносят {0} ({1}) урона,"Закликає пішого компаньйона, який стріляє [color=#00ff00]5[/color] снарядами, що завдають {0} ({1}) шкоди",召唤一个步行同伴，发射 [color=#00ff00]5[/color] 枚射弹，造成 {0} ({1}) 点伤害
+EFFECT_COBRA_SUM_T4,Summons a walking companion that fires [color=#00ff00]6[/color] projectiles that deal {0} ({1}) damage,Призывает передвигающегося компаньона который стреляет [color=#00ff00]6[/color] снарядами которые наносят {0} ({1}) урона,"Закликає пішого компаньйона, який стріляє [color=#00ff00]6[/color] снарядами, що завдають {0} ({1}) шкоди",召唤一个步行同伴，发射 [color=#00ff00]6[/color] 枚射弹，造成 {0} ({1}) 点伤害
+EFFECT_EXPO_SUM,Summons a walking companion that fires explosive homing rockets that deal {0} ({1}) damage,Призывает передвигающегося компаньона который стреляет взрывными самонаводящимися ракетами которые наносят {0} ({1}) урона,"Закликає пішого компаньйона, який стріляє вибуховими ракетами, що самонаводяться та завдають {0} ({1}) шкоди",召唤一个步行同伴，发射爆炸性自导火箭，造成 {0} ({1}) 点伤害
+EFFECT_BRO_SUM,Summons a walking companion that shoots enemies for {0} ({1}) damage with [color=#00ff00]1[/color] piercing,Призывает передвигающегося компаньона который стреляет снаряды наносящие {0} ({1}) урона с [color=#00ff00]1[/color] пробиванием,"Закликає пішого компаньйона, який стріляє снарядами що завдають {0} ({1}) шкоди з [color=#00ff00]1[/color] пробиванням",召唤一个步行同伴，对敌人进行 [color=#00ff00]1[/color] 穿刺射击，造成 {0} ({1}) 点伤害
+EFFECT_BRO_SUM_T2,Summons a walking companion that shoots enemies for {0} ({1}) damage with [color=#00ff00]2[/color] piercing,Призывает передвигающегося компаньона который стреляет снаряды наносящие {0} ({1}) урона с [color=#00ff00]2[/color] пробиванием,"Закликає пішого компаньйона, який стріляє снарядами що завдають {0} ({1}) шкоди з [color=#00ff00]2[/color] пробиванням",召唤一个步行同伴，对敌人进行 [color=#00ff00]2[/color] 穿刺射击，造成 {0} ({1}) 点伤害
+EFFECT_BRO_SUM_T3,Summons a walking companion that shoots enemies for {0} ({1}) damage with [color=#00ff00]3[/color] piercing,Призывает передвигающегося компаньона который стреляет снаряды наносящие {0} ({1}) урона с [color=#00ff00]3[/color] пробиванием,"Закликає пішого компаньйона, який стріляє снарядами що завдають {0} ({1}) шкоди з [color=#00ff00]3[/color] пробиванням",召唤一个步行同伴，用 [color=#00ff00]3[/color] 穿刺射击敌人，造成 {0} ({1}) 点伤害
+EFFECT_BRO_SUM_T4,Summons a walking companion that shoots enemies for {0} ({1}) damage with [color=#00ff00]4[/color] piercing,Призывает передвигающегося компаньона который стреляет снаряды наносящие {0} ({1}) урона с [color=#00ff00]4[/color] пробиванием,"Закликає пішого компаньйона, який стріляє снарядами що завдають {0} ({1}) шкоди з [color=#00ff00]4[/color] пробиванням",召唤一个步行同伴，对敌人进行 [color=#00ff00]4[/color] 穿刺射击，造成 {0} ({1}) 点伤害
+SET_SUMMON,Summoning,Призывающее,Закликаюче,召唤
+WEP_BROTATO_STAFF,Staff Of Brotatoes,Посох Бротошки,Посох бротоплі,土豆兄弟之杖
+WEP_MEAT_INSPECTOR,Meat Inspector,Мясной Инспектор,М'ясний інспектор,血肉法杖
+WEP_COBRA_STAFF,Staff Of Cobras,Посох Кобры,Посох кобри,眼镜蛇杖
+CHAR_SUMMONER,Summoner,Призыватель,Закликач,召唤师
+EFFECT_SLASH_ON_HIT,Hitting an enemy spawns {0} slash attacks dealing {1} ({3}) damage,Попадание во врага создаёт {0} рубящих атак наносящих {1} ({3}) урона,"Попадання у ворога створює {0} ріжучих атак, що завдають {1} ({3}) шкоди",击中敌人会产生 {0} 次斩击攻击，造成 {1} ({3}) 点伤害
+WEP_PALADIN_SWORD,Paladin Sword,Меч Паладина,Меч паладина,圣骑士之剑
+SET_SLASHING,Slashing,Режущее,Ріжуче,斩击
+WEP_KATANA,Katana,Катана,Катана,武士刀
+EFFECT_SUMMONS_COOLDOWN_REDUCTION,Reduces the attack cooldown of your summons by {0} ({1}),Ускоряет восстановление атаки ваших существ на {0} ({1}),Скорочує час між пострілами ваших міньйонів на {0} ({1}),将你的召唤物的攻击冷却时间减少 {0} ({1})
+WEP_SLIMY_CLUB,Slimy Club,Слизкая Дубина,Слизька дубина,黏糊糊的木棍
+DESC_DO_SUMMONER,Win a run with Summoner,Пройти забег за Призывателя,Пройти забіг за Закликача,使用召唤师赢得一场比赛
+DESC_DF_SUMMONER,Beat danger 5 with Summoner,Пройти угрозу 5 за Призывателя,Пройти складність 5 за Закликача,使用召唤师通关难度5
+DF_NAME_SUMMONER,Sacrifices Must Be Made,Sacrifices Must Be Made,Sacrifices Must Be Made,这是必要的牺牲
+ITEM_SACRIFICE,Sacrifice,Жертвоприношение,Жертвопринесення,献祭
+WEP_BUTCHER_RELIC,Butcher's Relic,Реликвия Мясника,Реліквія м'ясника,屠夫的遗物
+ITEM_ROBOTICS,Robotics,Робототехника,Робототехніка,走地机器人
+ITEM_SOLDIER_BOT,Soldier Bot,Солдат Бот,Бот-солдат,士兵机器人
+DF_NAME_ENGINEER,Nanomachines Son!,Nanomachines Son!,"Наномашини, синку!",纳米太阳！
+DESC_DF_ENGINEER,Beat danger 5 with Engineer,Пройти угрозу 5 за Инженера,Пройти складність 5 за Інженера,使用工程师通关难度5
+ITEM_CUBE_RICK,Rick The Cube,Ри-Куб,Ри-Куб,请转动这个立方体
+ITEM_GOLDEN_CHEST,Chest Of Gold,Сундук Полный Золота,Скриня повна золота,金箱子
+ITEM_ARTIFACT,Ancient Artifact,Древний Артефакт,Стародавній артефакт,古代工艺
+WEP_POWER_HAMMER,Power-Hammer,Супер Молот,Супер Кувалда,动力锤
+WEP_CURSED_MIRROR,Cursed Mirror,Проклятое Зеркало,Прокляте дзеркало,被诅咒的镜子
+CHAR_ILLUSIONIST,Illusionist,Иллюзионист,Ілюзіоніст,魔术师
+DESC_DO_ILLUSIONIST,Win a run with Illusionist,Пройти забег за Иллюзиониста,Пройти забіг за Ілюзіоніста,与魔术师一起赢得比赛
+EFFECT_ILL_CLONE,Has [color=#00ff00]5[/color] clones that copy his weapons and scale from player stats,Имеет [color=#00ff00]5[/color] клонов которые копируют его оружие и характеристики,Має [color=#00ff00]5[/color] клонів які копіюють його зброю та характеристики,拥有 [color=#00ff00]5[/color] 个克隆体，复制玩家武器并根据属性进行缩放
+EFFECT_GHOST_SUM,Summons a roaming ghost that fires projectiles in all directions dealing [color=#f81919]{0}[/color] ({1}) damage to the player,Призывает бродячего призрака который стреляет снарядами во всех направлениях нанося игроку [color=#f81919]{0}[/color] ({1}) урона,Закликає мандрівного привиду який стріляє снарядами у всіх напрямках завдаючи гравцю [color=#f81919]{0}[/color] ({1}) шкоди,召唤一个漫游幽灵，向各个方向发射射弹，对玩家造成 [color=#f81919]{0}[/color] ({1}) 点伤害
+DF_NAME_ILLUSIONIST,We Are Illusionist,Мы Иллюзионист,Ми Ілюзіоніст,我们是魔术师
+DESC_DF_ILLUSIONIST,Beat danger 5 with Illusionist,Пройти угрозу 5 за Иллюзиониста,Пройти складність 5 за Ілюзіоніста,使用魔术师通关难度5
+ITEM_YOUR_CLONE,Your Clone,Твой Клон,Твій клон,你的克隆
+EFFECT_CLONEBOT,Summons a clone that moves around the player copying two of your weapons. Scales from player stats,Призывает клона который перемещается около игрока копируя два ваших оружия и характеристики,Закликає клона який переміщається навколо гравця копіюючи дві ваші зброї та характеристики,召唤一个克隆体，在玩家周围移动，复制你的两把武器。
+EFFECT_SHADOW,Every {0} kills summons a dark copy of you that moves near you and cuts enemies with {1} katanas. Scales from player stats,Каждые {0} убийств вызывает вашу темную копию которая перемещается рядом с вами и режет врагов {1} катанами. Копия зависит от характеристик игрока,Кожні {0} вбивств викликає вашу темну копію яка переміщається поряд з вами і ріже ворогів {1} катанами. Копія залежить від характеристик гравця,每击杀 {0} 个人，就会召唤一个你的黑暗分身，它会移动到你附近，并用 {1} 个武士刀砍杀敌人。
+WEP_SHADOW_KATANA,Shadow Katana,Теневая Катана,Тіньова катана,暗影武士刀
+SET_HIGH_TECH,High Tech,Продвинутое,Просунуте,高科技
+EFFECT_CLONE,Every {0} kills generates your clone that moves near you and shoots into enemies with 2 smgs. Scales from player stats,Каждые {0} убийств вызывает вашего клона который перемещается рядом с вами и стреляет во врагов двумя пистолетами пулемётами. Копия зависит от характеристик игрока,Кожні {0} вбивств викликає вашого клона який переміщається поряд з вами і стріляє у ворогів двома пістолетами кулеметами. Копія залежить від характеристик гравця,每杀死 {0} 个人就会生成一个克隆体，它会移动到您附近并用 2 发子弹射击敌人。
+EFFECT_CLONE_TWO,Every {0} kills generates your clone that moves near you and shoots into enemies with 2 [color=#00ff00]tier 2[/color] smgs. Scales from player stats,Каждые {0} убийств вызывает вашего клона который перемещается рядом с вами и стреляет во врагов двумя пистолетами пулемётами [color=#00ff00]2 тира[/color]. Копия зависит от характеристик игрока,Кожні {0} вбивств викликає вашого клона який переміщається поряд з вами і стріляє у ворогів двома пістолетами кулеметами [color=#00ff00]2 тира[/color]. Копія залежить від характеристик гравця,每杀死 {0} 个人就会生成一个克隆体，它会移动到您附近并用 2 发 [color=#00ff00]tier 2[/color] smg 射击敌人。
+EFFECT_CLONE_THREE,Every {0} kills generates your clone that moves near you and shoots into enemies with 2 [color=#00ff00]tier 3[/color] smgs. Scales from player stats,Каждые {0} убийств вызывает вашего клона который перемещается рядом с вами и стреляет во врагов двумя пистолетами пулемётами [color=#00ff00]3 тира[/color]. Копия зависит от характеристик игрока,Кожні {0} вбивств викликає вашого клона який переміщається поряд з вами і стріляє у ворогів двома пістолетами кулеметами [color=#00ff00]3 тира[/color]. Копія залежить від характеристик гравця,每杀死 {0} 个人就会生成一个克隆体，它会移动到您附近并用 2 个 [color=#00ff00]tier 3[/color] smg 射击敌人。
+EFFECT_CLONE_FOUR,Every {0} kills generates your clone that moves near you and shoots into enemies with 2 [color=#00ff00]tier 4[/color] smgs. Scales from player stats,Каждые {0} убийств вызывает вашего клона который перемещается рядом с вами и стреляет во врагов двумя пистолетами пулемётами [color=#00ff00]4 тира[/color]. Копия зависит от характеристик игрока,Кожні {0} вбивств викликає вашого клона який переміщається поряд з вами і стріляє у ворогів двома пістолетами кулеметами [color=#00ff00]4 тира[/color]. Копія залежить від характеристик гравця,每杀死 {0} 个人就会生成一个克隆体，它会移动到您附近并用 2 发 [color=#00ff00]4 级 [/color] smg 射击敌人。
+WEP_CLONE_GUN,Clone Gun,Клонирующая Пушка,Клонуючий пістолет,克隆枪
+WEP_CONTROLLER,Drone Controller,Контроллер Дронов,Контролер дронів,无人机控制器
+WEP_INSECT_STAFF,Staff Of Insects,Посох Насекомых,Посох Комах,昆虫之杖
+EFFECT_FLY_SUM,Summons a walking companion that fires its maggots at enemies for {0} ({1}) damage. Maggots create homing flies ([color=#00ff00]1[/color]) when they hit an enemy.,Вызывает передвигающегося компаньона который стреляет личинками во врагов нанося {0} ({1}) урона. Личинки создают самонаводящихся мух ([color=#00ff00]1[/color]) при попадании во врага.,Викликає пішого компаньйона який стріляє личинками у ворогів завдаючи {0} ({1}) шкоди. Личинки створюють самонавідних мух ([color=#00ff00]1[/color]) при попаданні у ворога.,召唤一个步行同伴，向敌人发射蛆虫，造成 {0} ({1}) 点伤害。
+EFFECT_FLY_SUM_T2,Summons a walking companion that fires its maggots at enemies for {0} ({1}) damage. Maggots create homing flies ([color=#00ff00]2[/color]) when they hit an enemy.,Вызывает передвигающегося компаньона который стреляет личинками во врагов нанося {0} ({1}) урона. Личинки создают самонаводящихся мух ([color=#00ff00]2[/color]) при попадании во врага.,Викликає пішого компаньйона який стріляє личинками у ворогів завдаючи {0} ({1}) шкоди. Личинки створюють самонавідних мух ([color=#00ff00]2[/color]) при попаданні у ворога.,召唤一个步行同伴，向敌人发射蛆虫，造成 {0} ({1}) 点伤害。
+EFFECT_FLY_SUM_T3,Summons a walking companion that fires its maggots at enemies for {0} ({1}) damage with [color=#00ff00]1[/color] piercing. Maggots create homing flies ([color=#00ff00]3[/color]) when they hit an enemy.,Вызывает передвигающегося компаньона который стреляет личинками во врагов нанося {0} ({1}) урона с [color=#00ff00]1[/color] пробиванием. Личинки создают самонаводящихся мух ([color=#00ff00]3[/color]) при попадании во врага.,Викликає пішого компаньйона який стріляє личинками у ворогів завдаючи {0} ({1}) шкоди з [color=#00ff00]1[/color] пробиванням. Личинки створюють самонавідних мух ([color=#00ff00]3[/color]) при попаданні у ворога.,召唤一个步行同伴，向敌人发射蛆虫，造成 {0} ({1}) 点伤害，并造成 [color=#00ff00]1[/color] 穿透。
+EFFECT_FLY_SUM_T4,Summons a walking companion that fires its maggots at enemies for {0} ({1}) damage with [color=#00ff00]1[/color] piercing. Maggots create homing flies ([color=#00ff00]4[/color]) when they hit an enemy.,Вызывает передвигающегося компаньона который стреляет личинками во врагов нанося {0} ({1}) урона с [color=#00ff00]1[/color] пробиванием. Личинки создают самонаводящихся мух ([color=#00ff00]4[/color]) при попадании во врага.,Викликає пішого компаньйона який стріляє личинками у ворогів завдаючи {0} ({1}) шкоди з [color=#00ff00]1[/color] пробиванням. Личинки створюють самонавідних мух ([color=#00ff00]4[/color]) при попаданні у ворога.,召唤一个步行同伴，向敌人发射蛆虫，造成 {0} ({1}) 点伤害，并造成 [color=#00ff00]1[/color] 穿透。
+ITEM_SYMBIOSIS,Symbiosis,Симбиоз,Симбіоз,共生
+ITEM_HELLFIRE,Hellfire,Адское Пламя,Пекельне полум'я,地狱火
+ITEM_HERITAGE,Heritage,Наследие,Спадщина,遗产
+ITEM_UNFORGETTABLE_BOOK,Unforgettable Book,Незабытая Книга,Незабутня Книга,难忘的书
+EFFECT_BUB_SOUL,[color=#00ff00]+2[/color] flies on enemy death,[color=#00ff00]+2[/color] мухи при смерти врага,[color=#00ff00]+2[/color] мухи при смерті ворога,敌人死亡时额外产生[color=#00ff00]+2[/color]只苍蝇。
+ITEM_BROTATO_SOUL,Brotato Soul,Душа Бротошки,Душа бротоплі,布罗塔托灵魂
+WEP_BESTIARY,Bestiary,Бестиарий,Бестіарій,动物寓言
+EFFECT_ILLUSIONIST_SOUL,[color=#00ff00]+1[/color] clone,[color=#00ff00]+1[/color] клон,[color=#00ff00]+1[/color] клон,[color=#00ff00]+1[/color] 克隆
+EFFECT_GLITCHED_SOUL,SDGS73509ad???9s0-620-048E??????0G92=S0-A-2849EFDSJA2FGGVXS????,SDGS73509ad???9s0-620-048E??????0G92=S0-A-2849EFDSJA2FGGVXS????,SDGS73509ad???9s0-620-048E??????0G92=S0-A-2849EFDSJA2FGGVXS????,SDGS73509ad???9s0-620-048E??????0G92=S0-A-2849EFDSJA2FGGVXS??????
+EFFECT_ROCKET_ORBITAL,Spawns a companion that flies around you and shoots enemies with explosive homing rockets for {0} ({1}) damage,Создаёт компаньона который летает вокруг тебя и стреляет взрывными самонаводящимися ракетами во врагов нанося {0} ({1}) урона,"Створює компаньйона, який літає навколо тебе і стріляє вибуховими ракетами, що самонаводяться та завдають {0} ({1}) шкоди",生成一个在您周围飞行的同伴，并用爆炸性自导火箭射击敌人，造成 {0} ({1}) 点伤害
+EFFECT_TAGGED_BONUS,Get a certain amount of stats you're tagged for. stats obtained :,Получите некоторое количество показателей к которым вы отмечены. Полученные показатели:,Отримайте кілька показників до яких ви відзначені. Отримані показники:,获得一定数量的已标记属性。获得的属性包括：
+EFFECT_CHAR_SPECIAL,Unique character effect:,Особый эффект персонажа:,Особливий ефект персонажа:,独特的人物效果：
+STAT_LEVELS,Level,Уровень персонажа,Рівень персонажа,等级
+EFFECT_DOUBLE_ILL_CLONE,Has [color=#00ff00]11[/color] clones that copy his weapons and scale from player stats,Имеет [color=#00ff00]11[/color] клонов которые копируют его оружие и характеристики,Має [color=#00ff00]11[/color] клонів які копіюють його зброю та характеристики,拥有 [color=#00ff00]11[/color] 个克隆体，可以从玩家统计数据中复制他的武器和规模
+ITEM_BALANCE_ORB,Orb Of Balance,Сфера Баланса,Сфера Балансу,平衡宝珠
+EFFECT_PLANT_SUM,[color=#00ff00]{5}%[/color] chance when picking up a consumable to summon a carnivorous plant. Shoots thorns at enemies for [color=#00ff00]{0}[/color] ({1}) damage but dies after {4} seconds,Шанс [color=#00ff00]{5}%[/color] при поднятии фрукта или ящика вызвать плотоядное растение. Стреляет колючками во врагов нанося [color=#00ff00]{0}[/color] ({1}) урона но погибает через {4} секунд,Шанс [color=#00ff00]{5}%[/color] при піднятті фрукта або ящика викликати м'ясоїдну рослину. Стріляє колючками у ворогів завдаючи [color=#00ff00]{0}[/color] ({1}) шкоди але гине через {4} секунд,[color=#00ff00]拾取消耗品时有 {5}%[/color] 几率召唤食肉植物。
+CHAR_GARDENER,Gardener,Садовод,Садівник,园丁
+ITEM_HEXONIUM_ARMOR,Hexonium Armor,Хексониумовые Доспехи,Хексоніумові Обладунки,己鎓装甲
+ITEM_BROTATO_CURSE,Brotato Curse,Проклятие Бротошки,Прокляття Бротоплі,肉汤诅咒
+EFFECT_TAGGED_DEBUFF,lose a certain amount of stats you're tagged for. stats lost :,Потеряйте некоторое количество показателей к которым вы отмечены. Потерянные показатели:,Втратьте деяку кількість показників до яких ви відзначені. Втрачені показники:,失去一定数量的标记的属性。失去的属性包括：
+EFFECT_PLANT_SUM_T2,[color=#00ff00]{5}%[/color] chance when picking up a consumable to summon a Tier 2 carnivorous plant. Shoots seeds at enemies for [color=#00ff00]{0}[/color] ({1}) damage and dies after {4} seconds. Seeds hitting enemies create one homing plant,Шанс [color=#00ff00]{5}%[/color] при поднятии фрукта или ящика вызвать плотоядное растение второго тира. Стреляет семечками во врагов нанося [color=#00ff00]{0}[/color] ({1}) урона и погибает через {4} секунд. Семечки попадая во врагов создают одно самонаводящееся растение,Шанс [color=#00ff00]{5}%[/color] при піднятті фрукта або ящика викликати м'ясоїдну рослину другого тиру. Стріляє насінням у ворогів завдаючи [color=#00ff00]{0}[/color] ({1}) шкоди але гине через {4} секунд. Насіння потрапляючи у ворогів створюють одну самонаводну рослину,[color=#00ff00]拾取消耗品时有 {5}%[/color] 几率召唤 2 级食肉植物。
+EFFECT_PLANT_SUM_T3,[color=#00ff00]{5}%[/color] chance when picking up a consumable to summon a Tier 3 carnivorous plant. Bites enemies for [color=#00ff00]{0}[/color] ({1}) damage but dies after {4} seconds. Bitten enemies create one homing plant,Шанс [color=#00ff00]{5}%[/color] при поднятии фрукта или ящика вызвать плотоядное растение третьего тира. Кусает врагов нанося [color=#00ff00]{0}[/color] ({1}) урона но погибает через {4} секунд. Укушенные враги создают одно самонаводящееся растение,Шанс [color=#00ff00]{5}%[/color] при піднятті фрукта або ящика викликати м'ясоїдну рослину третього тиру. Кусає ворогів завдаючи [color=#00ff00]{0}[/color] ({1}) шкоди але гине через {4} секунд. Укушені вороги створюють одну самонаводну рослину,[color=#00ff00]拾取消耗品时有 {5}%[/color] 几率召唤 3 级食肉植物。
+EFFECT_PLANT_SUM_T4,[color=#00ff00]{5}%[/color] chance when picking up a consumable to summon a Tier 4 carnivorous plant. Shoots three homing plants at enemies for [color=#00ff00]{0}[/color] ({1}) damage. Dies after {4} seconds,Шанс [color=#00ff00]{5}%[/color] при поднятии фрукта или ящика вызвать плотоядное растение четвёртого тира. Стреляет тремя самонаводящимися растениями во врагов нанося [color=#00ff00]{0}[/color] ({1}) урона. Погибает через {4} секунд,Шанс [color=#00ff00]{5}%[/color] при піднятті фрукта або ящика викликати м'ясоїдну рослину четвертого тиру. Стріляє трьома самонаводящимися рослинами у ворогів завдаючи [color=#00ff00]{0}[/color] ({1}) шкоди. Гине через {4} секунд,[color=#00ff00]拾起消耗品时有 {5}%[/color] 几率召唤 4 级食肉植物。
+EFFECT_GARDENER_SOUL,[color=#00ff00]+{5}%[/color] chance to summon a Tier 3 carnivorous plant,[color=#00ff00]+{5}%[/color] шанс вызвать растение третьего тира,[color=#00ff00]+{5}%[/color] шанс викликати рослину третього тиру,[color=#00ff00]+{5}%[/color] 几率召唤 3 级食肉植物
+EFFECT_GARDENER_SECOND_SOUL,[color=#00ff00]+{5}%[/color] chance to summon a Tier 4 carnivorous plant,[color=#00ff00]+{5}%[/color] шанс вызвать растение четвёртого тира,[color=#00ff00]+{5}%[/color] шанс викликати рослину четвертого тиру,[color=#00ff00]+{5}%[/color] 几率召唤 4 级食肉植物
+EFFECT_RETRO_ORBITAL,Spawns a little youtuber that flies around you and shoots bugs at enemies for {0} ({1}) damage,Создаёт маленького ютубера который летает вокруг вас и стреляет во врагов жуками нанося {0} ({1}) урона,Створює маленького ютубера який літає навколо вас і стріляє у ворогів жуками завдаючи {0} ({1}) шкоди,生成一个小油管博主，它会在您周围飞行并向敌人发射虫子，造成 {0} ({1}) 点伤害
+ITEM_RETROMATION_SPIRIT,Retromation Jr,Retromation Младший,Retromation молодший,复兴小
+ITEM_VASILEKS_BLESSING,Vasilek's Blessing,Благославление Василька,Благословення Василька,瓦西里克的祝福
+DESC_DO_GARDENER,Win a run with Gardener,Пройти забег за Садовода,Пройти забіг за Садівника,与园丁一起赢得比赛
+ITEM_FRUIT_BATTERY,Fruit Battery,Фруктовая Батарейка,Фруктова Батарейка,水果电池
+EFFECT_ROBOTICS_ON_FRUIT,[color=#00ff00]+{5}%[/color] chance when picking up a consumable to summon a robot. Shoots bullets at enemies for [color=#00ff00]{0}[/color] ({1}) damage but dies after {4} seconds,[color=#00ff00]+{5}%[/color] шанс при поднятии фрукта или ящика вызвать робота. Стреляет пулями во врагов нанося [color=#00ff00]{0}[/color] ({1}) урона но погибает через {4} секунд,[color=#00ff00]+{5}%[/color] шанс при піднятті фрукта або ящика викликати робота. Стріляє кулями у ворогів завдаючи [color=#00ff00]{0}[/color] ({1}) шкоди але гине через {4} секунд,[color=#00ff00]+{5}%[/color] 的几率在拾取消耗品时召唤一个机器人。向敌人射击子弹，造成[color=#00ff00]{0}[/color] ({1}) 点伤害，但在 {4} 秒后死亡。
+CHAR_TECHNOMAGE,Technomage,Техномаг,Техномаг,技术法师
+WEP_KSEROCK_HAND,Kserock's Hand,Рука Ксерока,Рука Ксерока,克塞罗克之手
+DESC_DO_TECHNOMAGE,Win a run with Technomage,Пройти забег за Техномага,Пройти забіг за Техномага,与技术法师一起赢得比赛
+WEP_GOLDEN_NUKE_LAUNCHER,GNL,GNL,GNL,液化天然气
+DF_NAME_GARDENER,Brains!,Мозги!,Мізки!,脑子！
+DESC_DF_GARDENER,Beat danger 5 with Gardener,Пройти угрозу 5 за Садовода,Пройти складність 5 за Садівника,使用园丁通关难度5
+ITEM_SKALS_TECH,Skal's Technology,Технология Скала,Технологія Скала,斯卡尔的技术
+DF_NAME_TECHNOMAGE,Technomagic,Техномагия,Техномагія,技术魔法
+DESC_DF_TECHNOMAGE,Beat danger 5 with Technomage,Пройти угрозу 5 за Техномага,Пройти складність 5 за Техномага,使用技术法师通关难度5
+ITEM_CORPSTAR_HELMET,Corpstar's Helmet,Шлем Корпстара,Шолом Корпстара,军团明星的头盔
+EFFECT_FISHERMAN_SOUL,{0} {1} for every 5 living enemies [{4}],{0} {1} за каждые 5 живых врагов [{4}],{0} {1} за кожні 5 живих ворогів [{4}],每 5 个活着的敌人，{0} {1} [{4}]
+EFFECT_MULTITASKER_SOUL,[color=#00ff00]+1[/color] weapon slot,[color=#00ff00]+1[/color] слот оружия,[color=#00ff00]+1[/color] слот зброї,[color=#00ff00]+1[/color] 武器槽
