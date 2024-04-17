@@ -1,39 +1,39 @@
 keys,en,zh
 OLD,---OLD STUFF FROM INVASION---------,---入侵时留下的旧东西---------
 EFFECT_BOUNCE_DAMAGE_CUSTOM,[color=#00ff00]+[/color]{0}[color=#00ff00]%[/color] Bounce Damage. Can't go above base damage,[color=#00ff00]+[/color]{0}[color=#00ff00]%[/color] 反弹伤害，不能超过基础伤害
-EFFECT_REDUCE_NEGATIVE_STAT,"Reduce a random negative stat to half its negative value. [color=#555555]No effect if no stats are negative[/color] \n\nAffected stat: {1} \nIncrease: {0}","将一个随机负属性减少到其负值的一半。  [color=#555555]如果没有属性是负面的，则没有影响[/color] \n\n受影响的属性：{1} \n增加：{0}"
-EFFECT_SHOP_MIN_TIER,Shops always sell weapons at tier {0} or above,商店总是出售等级 {0} 或以上的武器
+EFFECT_REDUCE_NEGATIVE_STAT,"Reduce a random negative stat to half its negative value. [color=#555555]No effect if no stats are negative[/color] \n\nAffected stat: {1} \nIncrease: {0}",将随机的负面属性减少到其负值的一半。[color=#555555]如果没有负面属性，则没有效果[/color] \n\n受影响的属性：{1}\n增加：{0}
+EFFECT_SHOP_MIN_TIER,Shops always sell weapons at tier {0} or above,商店始终以 {0} 级或更高级别出售武器
 EFFECT_SHOP_NO_RANGED_WEAPONS,Shops no longer sell ranged weapons,商店不再出售远程武器
 EFFECT_SHOP_NO_MELEE_WEAPONS,Shops no longer sell melee weapons,商店不再出售近战武器
 EFFECT_GIFT,Gain {0} random items.\n{2},获得 {0} 个随机物品。\n{2}
 EFFECT_DAMAGE_ALL_NOTE,[color=#555555]Applies to ALL damage modifications[/color],[color=#555555]适用于所有伤害修改[/color]
-EFFECT_MULTIPLY_STAT,Your current {1} is {2} by {0} [{3}],您当前的 {1} 是 {2} {0} [{3}]
-EFFECT_MULTIPLY_DOUBLE,Doubles your current {1} [{3}],使您当前的 {1} [{3}] 加倍
-EFFECT_MULTIPLY_HALF,Halves your current {1} [{3}],将您当前的 {1} [{3}] 减半
-EFFECT_WEAPON_SLOT_ADD,Increase your weapon slots by {0},将您的武器位增加 {0}
+EFFECT_MULTIPLY_STAT,Your current {1} is {2} by {0} [{3}],你当前的 {1} 是 {2}，由 {0} [{3}] 影响。
+EFFECT_MULTIPLY_DOUBLE,Doubles your current {1} [{3}],你当前的 {1} [{3}] 加倍
+EFFECT_MULTIPLY_HALF,Halves your current {1} [{3}],你当前的 {1} [{3}] 减半
+EFFECT_WEAPON_SLOT_ADD,Increase your weapon slots by {0},你的武器槽位增加 {0}
 EFF,---EFFECTS-------------------------,---效果-------------------------
 EFFECT_BFX_GAIN_ITEMS_END_OF_WAVE,Gain {0} random items at the end of the next wave. [color=#555555]Items and tiers are random and unaffected by Luck[/color],在下一波结束时获得 {0} 个随机物品。[color=#555555]物品和等级是随机的，不受幸运影响[/color]
 EFFECT_BFX_IFRAMES_DURATION_MULTIPLIER,{0} Invulnerability Time,{0} 无敌时间
-EFFECT_BFX_ON_LEVELUP_GAIN_RANDOM_STAT,Gain [color=#00ff00]+1[/color] to {0} random stats when you level up,升级时获得 [color=#00ff00]+1[/color] 到 {0} 个随机属性
+EFFECT_BFX_ON_LEVELUP_GAIN_RANDOM_STAT,Gain [color=#00ff00]+1[/color] to {0} random stats when you level up,升级时随机增加[color=#00ff00]+1[/color] 至 {0} 个属性
 EFFECT_BFX_REROLL_COST,{0} Reroll Cost,{0} 刷新价格
-EFFECT_BFX_EXPLODE_ON_HIT,You explode for {1} ({2}) damage when you take damage. [color=#555555]Doesn't trigger with items/traits that don't give invulnerability time[/color],当你受到伤害时，你会爆炸，造成 {1} ({2}) 点伤害。[color=#555555]不提供无敌帧的物品/特性不会触发[/color]
-EFFECT_BFX_EXPLODE_ON_HIT_CHANCE,{0}% chance to explode for {1} ({2}) damage when you take damage. [color=#555555]Doesn't trigger with items/traits that don't give invulnerability time[/color],当您受到伤害时，有 {0}% 的几率爆炸造成 {1} ({2}) 点伤害。[color=#555555]不提供无敌帧的物品/特性不会触发[/color]
-EFFECT_BFX_EXPLODE_ON_CONSUMABLE_COLLECT,Consumables explode for {1} ({2}) when you collect them,当您收集消耗品时，它们会爆炸 {1} ({2})
-EFFECT_BFX_EXPLODE_ON_CONSUMABLE_COLLECT_CHANCE,{0}% chance for consumables explode for {1} ({2}) when you collect them,当您收集消耗品时，{0}% 的消耗品爆炸几率为 {1} ({2})
-EFFECT_BFX_EXPLODE_ON_FRUIT_COLLECT,Fruits explode for {1} ({2}) when you collect them,当您收集水果时，它们会爆炸 {1} ({2})
-EFFECT_BFX_EXPLODE_ON_FRUIT_COLLECT_CHANCE,{0}% chance for fruits explode for {1} ({2}) when you collect them,当您收集水果时，{0}% 的水果爆炸几率为 {1} ({2})
-EFFECT_BFX_EXPLODE_ON_CRATE_COLLECT,Crates explode for {1} ({2}) when you collect them,当您收集箱子时，它们会爆炸 {1} ({2})
-EFFECT_BFX_EXPLODE_ON_CRATE_COLLECT_CHANCE,{0}% chance for crates explode for {1} ({2}) when you collect them,当您收集箱子时，{0}% 的箱子爆炸概率为 {1} ({2})
+EFFECT_BFX_EXPLODE_ON_HIT,You explode for {1} ({2}) damage when you take damage. [color=#555555]Doesn't trigger with items/traits that don't give invulnerability time[/color],当你受到伤害时，会爆炸造成 {1} ({2}) 点伤害。[color=#555555]仅对提供无敌时间的伤害生效[/color]
+EFFECT_BFX_EXPLODE_ON_HIT_CHANCE,{0}% chance to explode for {1} ({2}) damage when you take damage. [color=#555555]Doesn't trigger with items/traits that don't give invulnerability time[/color],当你受到伤害时，有 {0}% 的几率爆炸，造成 {1} ({2}) 点伤害。[color=#555555]仅对提供无敌时间的伤害生效[/color]
+EFFECT_BFX_EXPLODE_ON_CONSUMABLE_COLLECT,Consumables explode for {1} ({2}) when you collect them,当你收集消耗品时，它们会爆炸 {1} ({2})
+EFFECT_BFX_EXPLODE_ON_CONSUMABLE_COLLECT_CHANCE,{0}% chance for consumables explode for {1} ({2}) when you collect them,当你收集消耗品时，{0}% 的几率会爆炸 {1} ({2})
+EFFECT_BFX_EXPLODE_ON_FRUIT_COLLECT,Fruits explode for {1} ({2}) when you collect them,当你收集水果时，它们会爆炸 {1} ({2})
+EFFECT_BFX_EXPLODE_ON_FRUIT_COLLECT_CHANCE,{0}% chance for fruits explode for {1} ({2}) when you collect them,当你收集水果时，{0}% 的几率会爆炸 {1} ({2})
+EFFECT_BFX_EXPLODE_ON_CRATE_COLLECT,Crates explode for {1} ({2}) when you collect them,当你收集箱子时，它们会爆炸 {1} ({2})
+EFFECT_BFX_EXPLODE_ON_CRATE_COLLECT_CHANCE,{0}% chance for crates explode for {1} ({2}) when you collect them,当你收集箱子时，{0}% 的几率会爆炸 {1} ({2})
 EFFECT_BFX_TEMP_STATS_ON_DODGE,{0} {1} when you dodge until the end of the wave,当你闪避时 {0} {1} 直到敌袭结束时
-EFFECT_BFX_TEMP_STATS_ON_HIT,{0} {1} when you take damage until the end of the wave. [color=#555555]Doesn't trigger with items/traits that don't give invulnerability time[/color],当您受到伤害时 {0} {1} 直到敌袭结束。[color=#555555]不提供无敌帧的物品/特性不会触发[/color]
-EFFECT_BFX_BOSS_HP,Boss and Elite HP is modified by {0},头目和精英的生命由 {0} 修改
-EFFECT_BFX_BOSS_HP_INCREASE,Boss and Elite HP is increased by {0} %,头目和精英的生命增加 {0}%
-EFFECT_BFX_BOSS_HP_DECREASE,Boss and Elite HP is decreased by {0} %,头目和精英的生命减少 {0}%
-EFFECT_BFX_DAMAGE_TO_BURNING_ENEMIES,{0} damage to enemies that are burning,{0} 对正在燃烧的敌人造成伤害
+EFFECT_BFX_TEMP_STATS_ON_HIT,{0} {1} when you take damage until the end of the wave. [color=#555555]Doesn't trigger with items/traits that don't give invulnerability time[/color],当你受到伤害时 {0} {1} 直到波次结束。[color=#555555]仅对提供无敌时间的伤害生效[/color]
+EFFECT_BFX_BOSS_HP,Boss and Elite HP is modified by {0},首领和精英的生命由 {0} 修改
+EFFECT_BFX_BOSS_HP_INCREASE,Boss and Elite HP is increased by {0} %,首领和精英的生命增加 {0}%
+EFFECT_BFX_BOSS_HP_DECREASE,Boss and Elite HP is decreased by {0} %,首领和精英的生命减少 {0}%
+EFFECT_BFX_DAMAGE_TO_BURNING_ENEMIES,{0} damage to enemies that are burning,对正在燃烧的敌人造成 {0} 点伤害
 EFFECT_BFX_TURRET_ATTACK_SPEED,{0} % Turret Attack Speed,{0}% 炮塔攻击速度
 EFFECT_BFX_TURRET_CRIT_CHANCE,Turrets gain {0} Crit Chance,炮塔获得 {0} 暴击率
 EFFECT_BFX_TURRET_DAMAGE,{0} % Turret Damage,{0}% 炮塔伤害
-EFFECT_BFX_GAIN_MATERIALS_ON_FRUIT_COLLECT,{0} materials when you pick up a fruit,拾取水果时的材料 {0}
+EFFECT_BFX_GAIN_MATERIALS_ON_FRUIT_COLLECT,{0} materials when you pick up a fruit,拾取水果时 {0} 材料
 FLT,---FLOATING TEXT POPUPS------------,---浮动文本弹出窗口------------
-FLOATING_GIFT_TEXT,Gift opened,礼物打开
+FLOATING_GIFT_TEXT,Gift opened,礼物已打开
 CHL,---CHALLENGES----------------------,---挑战------------------------
