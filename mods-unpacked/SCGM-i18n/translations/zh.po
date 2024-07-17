@@ -25,3 +25,6 @@ msgstr "杰克"
 
 msgid "CHARACTER_LICH"
 msgstr "巫妖"
+
+msgid "ADDITIONAL_COOLDOWN_EVERY_X_SHOTS"
+msgstr "射击 {1} 次后冷却需冷却 {0}"
