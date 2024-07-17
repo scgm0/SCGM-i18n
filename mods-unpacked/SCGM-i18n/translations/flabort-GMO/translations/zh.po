@@ -1,0 +1,249 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.2\n"
+
+msgid "GMO_TEXT"
+msgstr "基因过载重组"
+
+msgid "CHARACTER_GMO_DUMMY"
+msgstr "基因过载重组"
+
+msgid "GMO_COMBINES CHARACTER_ARMS_DEALER"
+msgstr "从军火商开始"
+
+msgid "GMO_COMBINES CHARACTER_ARTIFICER"
+msgstr "从技工开始"
+
+msgid "GMO_COMBINES CHARACTER_BRAWLER"
+msgstr "从斗士开始"
+
+msgid "GMO_COMBINES CHARACTER_BULL"
+msgstr "从公牛开始"
+
+msgid "GMO_COMBINES CHARACTER_CHUNKY"
+msgstr "从大壮开始"
+
+msgid "GMO_COMBINES CHARACTER_CRAZY"
+msgstr "从狂人开始"
+
+msgid "GMO_COMBINES CHARACTER_CYBORG"
+msgstr "从赛博格开始"
+
+msgid "GMO_COMBINES CHARACTER_DEMON"
+msgstr "从恶魔开始"
+
+msgid "GMO_COMBINES CHARACTER_DOCTOR"
+msgstr "从医生开始"
+
+msgid "GMO_COMBINES CHARACTER_ENGINEER"
+msgstr "从工程师开始"
+
+msgid "GMO_COMBINES CHARACTER_ENTREPRENEUR"
+msgstr "从企业家开始"
+
+msgid "GMO_COMBINES CHARACTER_EXPLORER"
+msgstr "从探险家开始"
+
+msgid "GMO_COMBINES CHARACTER_FARMER"
+msgstr "从农夫开始"
+
+msgid "GMO_COMBINES CHARACTER_GENERALIST"
+msgstr "从博学家开始"
+
+msgid "GMO_COMBINES CHARACTER_GHOST"
+msgstr "以幽灵开始"
+
+msgid "GMO_COMBINES CHARACTER_GLADIATOR"
+msgstr "从角斗士开始"
+
+msgid "GMO_COMBINES CHARACTER_GLUTTON"
+msgstr "从暴食者开始"
+
+msgid "GMO_COMBINES CHARACTER_HUNTER"
+msgstr "从猎人开始"
+
+msgid "GMO_COMBINES CHARACTER_JACK"
+msgstr "从杰克开始"
+
+msgid "GMO_COMBINES CHARACTER_KNIGHT"
+msgstr "从骑士开始"
+
+msgid "GMO_COMBINES CHARACTER_LICH"
+msgstr "从巫妖开始"
+
+msgid "GMO_COMBINES CHARACTER_LOUD"
+msgstr "从大嗓门开始"
+
+msgid "GMO_COMBINES CHARACTER_LUCKY"
+msgstr "从幸运星开始"
+
+msgid "GMO_COMBINES CHARACTER_MAGE"
+msgstr "从法师开始"
+
+msgid "GMO_COMBINES CHARACTER_MASOCHIST"
+msgstr "从受虐狂开始"
+
+msgid "GMO_COMBINES CHARACTER_MULTITASKER"
+msgstr "从多面手开始"
+
+msgid "GMO_COMBINES CHARACTER_MUTANT"
+msgstr "从异变体开始"
+
+msgid "GMO_COMBINES CHARACTER_OLD"
+msgstr "从老叟开始"
+
+msgid "GMO_COMBINES CHARACTER_ONE_ARM"
+msgstr "从独臂开始"
+
+msgid "GMO_COMBINES CHARACTER_PACIFIST"
+msgstr "从和平主义者开始"
+
+msgid "GMO_COMBINES CHARACTER_RANGER"
+msgstr "从游侠开始"
+
+msgid "GMO_COMBINES CHARACTER_SAVER"
+msgstr "从节俭者开始"
+
+msgid "GMO_COMBINES CHARACTER_SICK"
+msgstr "从病人开始"
+
+msgid "GMO_COMBINES CHARACTER_SOLDIER"
+msgstr "从士兵开始"
+
+msgid "GMO_COMBINES CHARACTER_SPEEDY"
+msgstr "从飞毛腿开始"
+
+msgid "GMO_COMBINES CHARACTER_STREAMER"
+msgstr "从网络主播开始"
+
+msgid "GMO_COMBINES CHARACTER_WELL_ROUNDED"
+msgstr "从全能王开始"
+
+msgid "GMO_COMBINES CHARACTER_WILDLING"
+msgstr "从野人开始"
+
+msgid "WEAPON_LOADED_DICE"
+msgstr "灌铅骰子"
+
+msgid "GMO_FEDORA"
+msgstr "染尘毡帽"
+
+msgid "GMO_PRACTICAL_RESEARCH"
+msgstr "实践研究"
+
+msgid "WEAPON_PITCHFORK"
+msgstr "钢叉"
+
+msgid "GMO_CHALLENGE_BASE"
+msgstr "基因过载重组"
+
+msgid "GMO_CHALLENGE_ARTIFICER_LUCKY"
+msgstr "赌局"
+
+msgid "GMO_CHALLENGE_OLD_EXPLORER"
+msgstr "我讨厌蛇"
+
+msgid "GMO_CHALLENGE_ENGINEER_DOCTOR"
+msgstr "毕业"
+
+msgid "GMO_CHALLENGE_DEMON_GLADIATOR"
+msgstr "深渊恶魔"
+
+msgid "GMO_CHALLENGE_CRAZY_JACK"
+msgstr "松土"
+
+msgid "GMO_RAZOR_BLADE"
+msgstr "剃须刀片"
+
+msgid "GMO_CHALLENGE_LOUD_PACIFIST"
+msgstr "抗议者"
+
+msgid "GMO_PROTEST_SIGN"
+msgstr "纠察标志"
+
+msgid "WEAPON_GMO_FIST_WRAPPINGS"
+msgstr "有机拳套"
+
+msgid "GMO_CHALLENGE_MULTITASKER_WILDLING"
+msgstr "丛林之王"
+
+msgid "GMO_MONEY_TREE"
+msgstr "摇钱树"
+
+msgid "GMO_CHALLENGE_FARMER_ENTREPRENEUR"
+msgstr "经济作物"
+
+msgid "GMO_FLABORT"
+msgstr "花花公子"
+
+msgid "GMO_FLABORT_TEXT"
+msgstr "无耻的模组作者自我插入"
+
+msgid "GMO_CHALLENGE_ONE_ARM_LICH"
+msgstr "不要脸"
+
+msgid "GMO_CHALLENGE_RANGER_HUNTER"
+msgstr "靶心"
+
+msgid "GMO_MARKSMANSHIP"
+msgstr "瞄准"
+
+msgid "GMO_TAKE_OUT"
+msgstr "外卖"
+
+msgid "GMO_CHALLENGE_SPEEDY_BULL"
+msgstr "横冲直撞"
+
+msgid "WEAPON_GMO_POLTERLIMB"
+msgstr "波尔特肢体"
+
+msgid "GMO_CHALLENGE_GHOST_CHUNKY"
+msgstr "幻影之触"
+
+msgid "GMO_MAGIC_BARRIER"
+msgstr "魔法屏障"
+
+msgid "GMO_GOLD_PLATED_TEETH"
+msgstr "金牙"
+
+msgid "GMO_CHALLENGE_GENERALIST_ARMS_DEALER"
+msgstr "银样镴枪头"
+
+msgid "GMO_CHALLENGE_MAGE_HUNTER"
+msgstr "奥术狙击手"
+
+msgid "EFFECT_WEAPON_WAVE_STATS"
+msgstr "每波 {1} 都会增加 {0}。 [{3}]"
+
+msgid "WEAPON_GMO_MUSKET"
+msgstr "古董火枪"
+
+msgid "GMO_CHALLENGE_OLD_SOLDIER"
+msgstr "近战老兵"
+
+msgid "GMO_ELUSIVEGHOST"
+msgstr "神出“鬼”没"
+
+msgid "GMO_ELUSIVE_GHOST_URL"
+msgstr "https://www.youtube.com/@ElusiveGhost"
+
+msgid "GMO_JEFFS_SHADES"
+msgstr "杰夫的太阳镜"
+
+msgid "GMO_JEFF_URL"
+msgstr "https://www.youtube.com/@gamingwithjeff"
+
+msgid "GMO_CHALLENGE_MASOCHIST_KNIGHT"
+msgstr "打不死的小强"
+
+msgid "GMO_CHALLENGE_BRAWLER_GHOST"
+msgstr "我现在真是High到不行"

@@ -1,0 +1,17 @@
+msgid ""
+msgstr ""
+
+msgid "WEAPON_DPS"
+msgstr "DPS"
+
+msgid "WEAPON_BURN_DPS"
+msgstr "Burn DPS"
+
+msgid "STAND_STILL_DPS"
+msgstr "Stand still DPS"
+
+msgid "BURN_STACK_DPS"
+msgstr "Burn DPS per stack"
+
+msgid "BURN_MAX_DPS"
+msgstr "Maximum burn DPS"

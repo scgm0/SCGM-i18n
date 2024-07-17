@@ -1,0 +1,161 @@
+msgid ""
+msgstr ""
+
+msgid "WEAPON_SETTINGS_HEADLINE"
+msgstr "Weapon Settings"
+
+msgid "WEAPON_SETTINGS_RESET"
+msgstr "Reset Weapon"
+
+msgid "WEAPON_SETTINGS_MELEE"
+msgstr "Melee"
+
+msgid "WEAPON_SETTINGS_RANGED"
+msgstr "Ranged"
+
+msgid "WEAPON_SETTINGS_PRICE"
+msgstr "Base Price"
+
+msgid "WEAPON_SETTINGS_COOLDOWN"
+msgstr "Cooldown"
+
+msgid "WEAPON_SETTINGS_DAMAGE"
+msgstr "Damage"
+
+msgid "WEAPON_SETTINGS_CRIT_CHANGE"
+msgstr "% Crit Chance"
+
+msgid "WEAPON_SETTINGS_CRIT_DAMAGE"
+msgstr "Crit Damage"
+
+msgid "WEAPON_SETTINGS_MIN_RANGE"
+msgstr "Minimum Range"
+
+msgid "WEAPON_SETTINGS_MAX_RANGE"
+msgstr "Maximum Range"
+
+msgid "WEAPON_SETTINGS_KNOCKBACK"
+msgstr "Knockback"
+
+msgid "WEAPON_SETTINGS_LIFESTEAL"
+msgstr "Lifesteal"
+
+msgid "WEAPON_SETTINGS_RECOIL"
+msgstr "Recoil"
+
+msgid "WEAPON_SETTINGS_RECOIL_DURATION"
+msgstr "Recoil Duration"
+
+msgid "WEAPON_SETTINGS_ADDED_COOLDOWN"
+msgstr "Additional Cooldown every X Shots"
+
+msgid "WEAPON_SETTINGS_ADDED_COOLDOWN_MULTIPLIER"
+msgstr "Additional Cooldown Multiplier"
+
+msgid "WEAPON_SETTINGS_ACCURACY"
+msgstr "% Accuracy"
+
+msgid "WEAPON_SETTINGS_ATTACK_TYPE"
+msgstr "Stab or Swing Attack"
+
+msgid "WEAPON_SETTINGS_ALTERNATE_ATTACK_TYPE"
+msgstr "Alternate Attack Modes"
+
+msgid "WEAPON_SETTINGS_NB_PROJECTILES"
+msgstr "Number of Projectiles"
+
+msgid "WEAPON_SETTINGS_PROJECTILE_SPREAD"
+msgstr "Projectile Spread"
+
+msgid "WEAPON_SETTINGS_PIERCING"
+msgstr "Piercing Amount"
+
+msgid "WEAPON_SETTINGS_PIERCING_DMG_REDUCTION"
+msgstr "Piercing Damage Reduction"
+
+msgid "WEAPON_SETTINGS_BOUNCE"
+msgstr "Bounce Amount"
+
+msgid "WEAPON_SETTINGS_BOUNCE_DMG_REDUCTION"
+msgstr "Bounce Damage Reduction"
+
+msgid "WEAPON_SETTINGS_PROJECTILE_SPEED"
+msgstr "Projectile Speed"
+
+msgid "WEAPON_SETTINGS_INCREASE_PROJECTILE_SPEED_WITH_RANGE"
+msgstr "Increase projectile speed with range"
+
+msgid "WEAPON_SETTINGS_YES"
+msgstr "Yes"
+
+msgid "WEAPON_SETTINGS_NO"
+msgstr "No"
+
+msgid "WEAPON_SETTINGS_SWING"
+msgstr "Swing"
+
+msgid "WEAPON_SETTINGS_STAB"
+msgstr "Stab"
+
+msgid "WEAPON_SETTINGS_TIER_INFO"
+msgstr "Changing these values will undo any changes to all other Tiers of the chosen Value"
+
+msgid "WEAPON_SETTINGS_RESET_TIER"
+msgstr "Reset Tier"
+
+msgid "WEAPON_SETTINGS_RESET_WEAPON"
+msgstr "Reset Weapon"
+
+msgid "WEAPON_SETTINGS_SCALING_BUTTON"
+msgstr "Show/Hide Scaling"
+
+msgid "WEAPON_SETTINGS_STAT_MAX_HP"
+msgstr "Max HP"
+
+msgid "WEAPON_SETTINGS_STAT_HP_REGENERATION"
+msgstr "HP Regeneration"
+
+msgid "WEAPON_SETTINGS_STAT_LIFESTEAL"
+msgstr "Lifesteal"
+
+msgid "WEAPON_SETTINGS_STAT_PERCENT_DAMAGE"
+msgstr "Percent Damage"
+
+msgid "WEAPON_SETTINGS_STAT_MELEE_DAMAGE"
+msgstr "Melee Damage"
+
+msgid "WEAPON_SETTINGS_STAT_RANGED_DAMAGE"
+msgstr "Ranged Damage"
+
+msgid "WEAPON_SETTINGS_STAT_ELEMENTAL_DAMAGE"
+msgstr "Elemental Damage"
+
+msgid "WEAPON_SETTINGS_STAT_ATTACK_SPEED"
+msgstr "Attack Speed"
+
+msgid "WEAPON_SETTINGS_STAT_CRIT_CHANCE"
+msgstr "Crit Chance"
+
+msgid "WEAPON_SETTINGS_STAT_ENGINEERING"
+msgstr "Engineering"
+
+msgid "WEAPON_SETTINGS_STAT_RANGE"
+msgstr "Range"
+
+msgid "WEAPON_SETTINGS_STAT_ARMOR"
+msgstr "Armor"
+
+msgid "WEAPON_SETTINGS_STAT_DODGE"
+msgstr "Dodge"
+
+msgid "WEAPON_SETTINGS_STAT_SPEED"
+msgstr "Speed"
+
+msgid "WEAPON_SETTINGS_STAT_LUCK"
+msgstr "Luck"
+
+msgid "WEAPON_SETTINGS_STAT_HARVESTING"
+msgstr "Harvesting"
+
+msgid "WEAPON_SETTINGS_STAT_LEVELS"
+msgstr "Level"

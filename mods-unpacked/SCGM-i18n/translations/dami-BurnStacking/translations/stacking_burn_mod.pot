@@ -1,0 +1,5 @@
+msgid ""
+msgstr ""
+
+msgid "EFFECT_BURNING_DAMI"
+msgstr "Inflige {0}x{1} ({2}) dégâts de brûlure. Max. {3} propagation(s) et {4} cumuls"

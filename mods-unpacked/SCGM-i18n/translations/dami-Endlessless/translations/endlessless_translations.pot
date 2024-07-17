@@ -1,0 +1,14 @@
+msgid ""
+msgstr ""
+
+msgid "ENDLESS_HARVESTING_GROWTH"
+msgstr "Montée de la récolte (sans fin) (-5 = Vanilla)"
+
+msgid "ENDLESS_PIGGY_EFFICACY"
+msgstr "Efficacité de Tirelire (sans fin) (0 = Vanilla)"
+
+msgid "ENDLESS_SCALING"
+msgstr "Mise à l'échelle (sans fin) (100 = Vanilla)"
+
+msgid "ENDLESS_SCALING_PAST_35"
+msgstr "Mise à l'échelle (vagues 35+) (100 = Vanilla)"

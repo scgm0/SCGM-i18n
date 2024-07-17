@@ -1,0 +1,249 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.2\n"
+
+msgid "GMO_TEXT"
+msgstr "Genetically Modified Overkill"
+
+msgid "CHARACTER_GMO_DUMMY"
+msgstr "Genetically Modified Overkill"
+
+msgid "GMO_COMBINES CHARACTER_ARMS_DEALER"
+msgstr "Starts with Arms Dealer"
+
+msgid "GMO_COMBINES CHARACTER_ARTIFICER"
+msgstr "Starts with Artificer"
+
+msgid "GMO_COMBINES CHARACTER_BRAWLER"
+msgstr "Starts with Brawler"
+
+msgid "GMO_COMBINES CHARACTER_BULL"
+msgstr "Starts with Bull"
+
+msgid "GMO_COMBINES CHARACTER_CHUNKY"
+msgstr "Starts with Chunky"
+
+msgid "GMO_COMBINES CHARACTER_CRAZY"
+msgstr "Starts with Crazy"
+
+msgid "GMO_COMBINES CHARACTER_CYBORG"
+msgstr "Starts with Cyborg"
+
+msgid "GMO_COMBINES CHARACTER_DEMON"
+msgstr "Starts with Demon"
+
+msgid "GMO_COMBINES CHARACTER_DOCTOR"
+msgstr "Starts with Doctor"
+
+msgid "GMO_COMBINES CHARACTER_ENGINEER"
+msgstr "Starts with Engineer"
+
+msgid "GMO_COMBINES CHARACTER_ENTREPRENEUR"
+msgstr "Starts with Entrepreneur"
+
+msgid "GMO_COMBINES CHARACTER_EXPLORER"
+msgstr "Starts with Explorer"
+
+msgid "GMO_COMBINES CHARACTER_FARMER"
+msgstr "Starts with Farmer"
+
+msgid "GMO_COMBINES CHARACTER_GENERALIST"
+msgstr "Starts with Generalist"
+
+msgid "GMO_COMBINES CHARACTER_GHOST"
+msgstr "Starts with Ghost"
+
+msgid "GMO_COMBINES CHARACTER_GLADIATOR"
+msgstr "Starts with Gladiator"
+
+msgid "GMO_COMBINES CHARACTER_GLUTTON"
+msgstr "Starts with Glutton"
+
+msgid "GMO_COMBINES CHARACTER_HUNTER"
+msgstr "Starts with Hunter"
+
+msgid "GMO_COMBINES CHARACTER_JACK"
+msgstr "Starts with Jack"
+
+msgid "GMO_COMBINES CHARACTER_KNIGHT"
+msgstr "Starts with Knight"
+
+msgid "GMO_COMBINES CHARACTER_LICH"
+msgstr "Starts with Lich"
+
+msgid "GMO_COMBINES CHARACTER_LOUD"
+msgstr "Starts with Loud"
+
+msgid "GMO_COMBINES CHARACTER_LUCKY"
+msgstr "Starts with Lucky"
+
+msgid "GMO_COMBINES CHARACTER_MAGE"
+msgstr "Starts with Mage"
+
+msgid "GMO_COMBINES CHARACTER_MASOCHIST"
+msgstr "Starts with Masochist"
+
+msgid "GMO_COMBINES CHARACTER_MULTITASKER"
+msgstr "Starts with Multitasker"
+
+msgid "GMO_COMBINES CHARACTER_MUTANT"
+msgstr "Starts with Mutant"
+
+msgid "GMO_COMBINES CHARACTER_OLD"
+msgstr "Starts with Old"
+
+msgid "GMO_COMBINES CHARACTER_ONE_ARM"
+msgstr "Starts with One Arm"
+
+msgid "GMO_COMBINES CHARACTER_PACIFIST"
+msgstr "Starts with Pacifist"
+
+msgid "GMO_COMBINES CHARACTER_RANGER"
+msgstr "Starts with Ranger"
+
+msgid "GMO_COMBINES CHARACTER_SAVER"
+msgstr "Starts with Saver"
+
+msgid "GMO_COMBINES CHARACTER_SICK"
+msgstr "Starts with Sick"
+
+msgid "GMO_COMBINES CHARACTER_SOLDIER"
+msgstr "Starts with Soldier"
+
+msgid "GMO_COMBINES CHARACTER_SPEEDY"
+msgstr "Starts with Speedy"
+
+msgid "GMO_COMBINES CHARACTER_STREAMER"
+msgstr "Starts with Streamer"
+
+msgid "GMO_COMBINES CHARACTER_WELL_ROUNDED"
+msgstr "Starts with Well Rounded"
+
+msgid "GMO_COMBINES CHARACTER_WILDLING"
+msgstr "Starts with Wildling"
+
+msgid "WEAPON_LOADED_DICE"
+msgstr "Loaded Dice"
+
+msgid "GMO_FEDORA"
+msgstr "Dusty Fedora"
+
+msgid "GMO_PRACTICAL_RESEARCH"
+msgstr "Practical Research"
+
+msgid "WEAPON_PITCHFORK"
+msgstr "Pitchfork"
+
+msgid "GMO_CHALLENGE_BASE"
+msgstr "Genetically Modified Overkill"
+
+msgid "GMO_CHALLENGE_ARTIFICER_LUCKY"
+msgstr "Gambling"
+
+msgid "GMO_CHALLENGE_OLD_EXPLORER"
+msgstr "I Hate Snakes"
+
+msgid "GMO_CHALLENGE_ENGINEER_DOCTOR"
+msgstr "Graduate"
+
+msgid "GMO_CHALLENGE_DEMON_GLADIATOR"
+msgstr "Pit Fiend"
+
+msgid "GMO_CHALLENGE_CRAZY_JACK"
+msgstr "The Ripper"
+
+msgid "GMO_RAZOR_BLADE"
+msgstr "Razor Blade"
+
+msgid "GMO_CHALLENGE_LOUD_PACIFIST"
+msgstr "Protester"
+
+msgid "GMO_PROTEST_SIGN"
+msgstr "Picket Sign"
+
+msgid "WEAPON_GMO_FIST_WRAPPINGS"
+msgstr "Organic Fist Wrappings"
+
+msgid "GMO_CHALLENGE_MULTITASKER_WILDLING"
+msgstr "King of the Jungle"
+
+msgid "GMO_MONEY_TREE"
+msgstr "Money Tree"
+
+msgid "GMO_CHALLENGE_FARMER_ENTREPRENEUR"
+msgstr "Cash Crop"
+
+msgid "GMO_FLABORT"
+msgstr "Flabort"
+
+msgid "GMO_FLABORT_TEXT"
+msgstr "A Shameless Mod-Author Self Insert"
+
+msgid "GMO_CHALLENGE_ONE_ARM_LICH"
+msgstr "Shameless"
+
+msgid "GMO_CHALLENGE_RANGER_HUNTER"
+msgstr "Bullseye"
+
+msgid "GMO_MARKSMANSHIP"
+msgstr "Marksmanship"
+
+msgid "GMO_TAKE_OUT"
+msgstr "Take-out"
+
+msgid "GMO_CHALLENGE_SPEEDY_BULL"
+msgstr "Like a Bull in a chinese resteraunt"
+
+msgid "WEAPON_GMO_POLTERLIMB"
+msgstr "Polterlimb"
+
+msgid "GMO_CHALLENGE_GHOST_CHUNKY"
+msgstr "Phantom Touch"
+
+msgid "GMO_MAGIC_BARRIER"
+msgstr "Magic Barrier"
+
+msgid "GMO_GOLD_PLATED_TEETH"
+msgstr "Gold Plated Teeth"
+
+msgid "GMO_CHALLENGE_GENERALIST_ARMS_DEALER"
+msgstr "Gaudy and Attractive"
+
+msgid "GMO_CHALLENGE_MAGE_HUNTER"
+msgstr "Arcane Sniper"
+
+msgid "EFFECT_WEAPON_WAVE_STATS"
+msgstr "{1} is increased by {0} for every wave. [{3}]"
+
+msgid "WEAPON_GMO_MUSKET"
+msgstr "Antique Musket"
+
+msgid "GMO_CHALLENGE_OLD_SOLDIER"
+msgstr "Close Quarters Veteran"
+
+msgid "GMO_ELUSIVEGHOST"
+msgstr "Elusive Ghost"
+
+msgid "GMO_ELUSIVE_GHOST_URL"
+msgstr "https://www.youtube.com/@ElusiveGhost"
+
+msgid "GMO_JEFFS_SHADES"
+msgstr "Jeff's Shades"
+
+msgid "GMO_JEFF_URL"
+msgstr "https://www.youtube.com/@gamingwithjeff"
+
+msgid "GMO_CHALLENGE_MASOCHIST_KNIGHT"
+msgstr "You can never have enough head injuries"
+
+msgid "GMO_CHALLENGE_BRAWLER_GHOST"
+msgstr "Busting Makes Me Feel Good"

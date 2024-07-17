@@ -1,25 +1,25 @@
-keys,en,zh
-ENABLE_AUTOBATTLER,Enable AutoBattler,启用自动战斗
-ENABLE_SMOOTHING,Enable Camera Smoothing,启用相机平滑
-SMOOTHING_SPEED,Camera Smoothing Speed,相机平滑速度
-ITEM_WEIGHT,Item Weight,物品权重
-PROJECTILE_WEIGHT,Projectile Weight,射弹权重
-TREE_WEIGHT,Tree Weight,树木权重
-BOSS_WEIGHT,Boss Weight,Boss权重
-BUMPER_WEIGHT,Wall bumper Weight,防撞墙权重
-EGG_WEIGHT,Egg Weight,蛋权重
-BUMPER_DISTANCE,Wall Bumper Distance,防撞墙距离
-ENABLE_AI_VISUALS,Enable AI Visualization,启用 AI 可视化
-ENABLE_AI_MARKER,Show AI Marker,显示 AI 标记
-ENABLE_AUTOBATTLER_TOOLTIP,"Enable the AutoBattler.  When activated a bot will take control of the game during the wave attempting to keep an optimals distance from enemies and projectiles.",启用自动战斗。激活后，机器人将在波次期间控制游戏，试图与敌人和射弹保持最佳距离。
-ENABLE_AI_VISUALS_TOOLTIP,"Enable Visualizations for the AI.  When active, elements that the bot cares about will be highlighted with bigger highlights for objects the bot cares about more.",启用 AI 的可视化功能。激活后，机器人关心的元素将以更大的高亮显示，对于机器人更关心的对象，高亮会更明显。
-ENABLE_AI_MARKER_TOOLTIP,"Show a marker next to the player when the AI is Active.  This is intended for streaming and video recording when you want to highlight the fact that a human is not in control of the game.",当 AI 处于活动状态时，在玩家旁边显示一个标记。当你想要强调人类无法控制游戏的事实时，这适用于流媒体和视频录制。
-ENABLE_SMOOTHING_TOOLTIP,"Enable Camera smoothing.  Many find the AI's sudden movements painful to follow.  Smoothing prevents the camera from being hard snapped to the player's position.",启用相机平滑。许多人发现 AI 突然的移动很难跟随。平滑功能可以防止相机被硬性切换到玩家的位置。
-SMOOTHING_SPEED_TOOLTIP,"The rate at which the smoothing camera will follow the player.",平滑相机跟随玩家的速率。
-ITEM_WEIGHT_TOOLTIP,"Controls how strongly the bot will be attracted to gold pickups.",控制机器人被金币拾取物吸引的强度。
-PROJECTILE_WEIGHT_TOOLTIP,"Controls how strongly the bot will be repelled by enemy projectiles.",控制机器人被敌方射弹击退的强度。
-TREE_WEIGHT_TOOLTIP,"Controls how strongly the bot will be attracted to trees.",控制机器人被树木吸引的强度。
-BOSS_WEIGHT_TOOLTIP,"Controls how strongly the bot will be attracted to bosses.",控制机器人被首领吸引的强度。
-BUMPER_WEIGHT_TOOLTIP,"Controls how strongly the bot will be repelled by walls.",控制机器人被墙壁排斥的强度。
-EGG_WEIGHT_TOOLTIP,"Controls how strongly the bot will be attracted to unhatched eggs.",控制机器人被未孵化的蛋吸引的强度。
-BUMPER_DISTANCE_TOOLTIP,"Controls the minimum distance to a wall the bot will try to maintain.",控制机器人试图保持的与墙壁的最小距离。
+keys,en
+ENABLE_AUTOBATTLER,Enable AutoBattler
+ENABLE_SMOOTHING,Enable Camera Smoothing
+SMOOTHING_SPEED,Camera Smoothing Speed
+ITEM_WEIGHT,Item Weight
+PROJECTILE_WEIGHT,Projectile Weight
+TREE_WEIGHT,Tree Weight
+BOSS_WEIGHT,Boss Weight
+BUMPER_WEIGHT,Wall bumper Weight
+EGG_WEIGHT,Egg Weight
+BUMPER_DISTANCE,Wall Bumper Distance
+ENABLE_AI_VISUALS,Enable AI Visualization
+ENABLE_AI_MARKER,Show AI Marker
+ENABLE_AUTOBATTLER_TOOLTIP,"Enable the AutoBattler.  When activated a bot will take control of the game during the wave attempting to keep an optimals distance from enemies and projectiles."
+ENABLE_AI_VISUALS_TOOLTIP,"Enable Visualizations for the AI.  When active, elements that the bot cares about will be highlighted with bigger highlights for objects the bot cares about more."
+ENABLE_AI_MARKER_TOOLTIP,"Show a marker next to the player when the AI is Active.  This is intended for streaming and video recording when you want to highlight the fact that a human is not in control of the game."
+ENABLE_SMOOTHING_TOOLTIP,"Enable Camera smoothing.  Many find the AI's sudden movements painful to follow.  Smoothing prevents the camera from being hard snapped to the player's position."
+SMOOTHING_SPEED_TOOLTIP,"The rate at which the smoothing camera will follow the player."
+ITEM_WEIGHT_TOOLTIP,"Controls how strongly the bot will be attracted to gold pickups."
+PROJECTILE_WEIGHT_TOOLTIP,"Controls how strongly the bot will be repelled by enemy projectiles."
+TREE_WEIGHT_TOOLTIP,"Controls how strongly the bot will be attracted to trees."
+BOSS_WEIGHT_TOOLTIP,"Controls how strongly the bot will be attracted to bosses."
+BUMPER_WEIGHT_TOOLTIP,"Controls how strongly the bot will be repelled by walls."
+EGG_WEIGHT_TOOLTIP,"Controls how strongly the bot will be attracted to unhatched eggs."
+BUMPER_DISTANCE_TOOLTIP,"Controls the minimum distance to a wall the bot will try to maintain."

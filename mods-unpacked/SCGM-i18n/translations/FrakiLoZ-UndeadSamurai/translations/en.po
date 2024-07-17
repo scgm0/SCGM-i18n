@@ -1,0 +1,30 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.2\n"
+
+msgid "CHARACTER_UNDEAD_SAMURAI"
+msgstr "Undead Samurai"
+
+msgid "ITEM_DECAYING_BODY"
+msgstr "Decaying Body"
+
+msgid "WEAPON_GREATBOW"
+msgstr "Great Bow"
+
+msgid "WEAPON_NAGINATA"
+msgstr "Naginata"
+
+msgid "WEAPON_KATANA"
+msgstr "Katana"
+
+msgid "EFFECT_FRAKILOZ_DECAYING_BODY"
+msgstr "Spawns 10 flies orbiting around player dealing {0} ({1}) contact damages."

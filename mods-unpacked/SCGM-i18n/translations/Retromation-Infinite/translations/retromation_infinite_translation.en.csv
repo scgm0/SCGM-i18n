@@ -1,4 +1,4 @@
-keys,en,zh
-EFFECT_INFINITE_NEGATIVE_MODIFIERS,Add 1-3 negative quirks,增加[color=red] 1-3 [/color]个负面特性
-EFFECT_INFINITE_POSITIVE_MODIFIERS,Add 2-3 positive quirks,增加[color=#00FF00] 2-3 [/color]个正面特性
-3_FREE_SHOP_1_REROLLS,Gain 3 rerolls in shop 1,第一波敌袭结束后，商店免费刷新[color=#00FF00]+3[/color]次
+keys,en
+EFFECT_INFINITE_NEGATIVE_MODIFIERS,Add 1-3 negative quirks
+EFFECT_INFINITE_POSITIVE_MODIFIERS,Add 2-3 positive quirks
+3_FREE_SHOP_1_REROLLS,Gain 3 rerolls in shop 1

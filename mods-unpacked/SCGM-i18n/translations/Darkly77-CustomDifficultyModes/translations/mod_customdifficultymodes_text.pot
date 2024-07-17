@@ -1,0 +1,41 @@
+msgid ""
+msgstr ""
+
+msgid "DIFF_D77_NOHIT_D2"
+msgstr "No-Hit (D2)"
+
+msgid "DIFF_D77_NOHIT_D5"
+msgstr "No-Hit (D5)"
+
+msgid "DIFF_D77_HEAVEN_HELL_D2"
+msgstr "Heaven or Hell"
+
+msgid "DIFF_D77_NO_STANDSTILL"
+msgstr "No Stand-Still"
+
+msgid "ITEM_DIFF_D77_NOHIT_D2"
+msgstr "No-Hit (D2)"
+
+msgid "ITEM_DIFF_D77_NOHIT_D5"
+msgstr "No-Hit (D5)"
+
+msgid "ITEM_DIFF_D77_HEAVEN_HELL_D2"
+msgstr "Heaven or Hell"
+
+msgid "ITEM_DIFF_D77_NO_STANDSTILL"
+msgstr "No Stand-Still"
+
+msgid "ITEM_DIFF_D77_NO_STANDSTILL_EFFECT"
+msgstr "You can't stop moving"
+
+msgid "DIFF_D77_NOTE_CUSTOM"
+msgstr "[color=#555555]Custom:[/color]"
+
+msgid "DIFF_D77_NOTE_DAMAGE"
+msgstr "[color=#555555]''Damage modifications'' refers to all forms of damage (%Damage, Ranged, Melee, Elemental, Explosion, Piercing, Bounce), and also applies to Engineering[/color]"
+
+msgid "DIFF_D77_NOTE_HP_BAD"
+msgstr "[color=red]-9999[/color] Max HP"
+
+msgid "DIFF_D77_NOTE_DMG_GAINS"
+msgstr "[color=#00FF00]Damage[/color] modifications are increased by [color=#00FF00]100%[/color]"

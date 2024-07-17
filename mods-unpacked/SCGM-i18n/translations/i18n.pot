@@ -1,0 +1,17 @@
+msgid ""
+msgstr ""
+
+msgid "LOADED_NUMBER_TEXT"
+msgstr "已加载本地化文件数量: "
+
+msgid "CHARACTER_CYBORG"
+msgstr "赛博格"
+
+msgid "CHARACTER_GLUTTON"
+msgstr "暴食者"
+
+msgid "CHARACTER_JACK"
+msgstr "杰克"
+
+msgid "CHARACTER_LICH"
+msgstr "巫妖"

@@ -1,0 +1,14 @@
+msgid ""
+msgstr ""
+
+msgid "CHARACTER_BLADE_DANCER"
+msgstr "Blade Dancer"
+
+msgid "CHAL_CHARACTER_DESC"
+msgstr "Win a run with Blade Dancer in any difficulty"
+
+msgid "WEAPON_DANCING_BLADE"
+msgstr "Dancing Blade"
+
+msgid "WEAPON_ENCHANTED_CUTLASS"
+msgstr "Enchanted Cutlass"

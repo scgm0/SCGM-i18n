@@ -1,14 +1,14 @@
-key,en,zh
-DIFF_D77_NOHIT_D2,No-Hit (D2),无命中（D2）
-DIFF_D77_NOHIT_D5,No-Hit (D5),无命中（D5）
-DIFF_D77_HEAVEN_HELL_D2,Heaven or Hell,天堂或地狱
-DIFF_D77_NO_STANDSTILL,No Stand-Still,没有停顿
-ITEM_DIFF_D77_NOHIT_D2,No-Hit (D2),无命中（D2）
-ITEM_DIFF_D77_NOHIT_D5,No-Hit (D5),无命中（D5）
-ITEM_DIFF_D77_HEAVEN_HELL_D2,Heaven or Hell,天堂或地狱
-ITEM_DIFF_D77_NO_STANDSTILL,No Stand-Still,没有停顿
-ITEM_DIFF_D77_NO_STANDSTILL_EFFECT,You can't stop moving,你不能停止移动
-DIFF_D77_NOTE_CUSTOM,[color=#555555]Custom:[/color],[color=#555555]自定义：[/color]
-DIFF_D77_NOTE_DAMAGE,"[color=#555555]''Damage modifications'' refers to all forms of damage (%Damage, Ranged, Melee, Elemental, Explosion, Piercing, Bounce), and also applies to Engineering[/color]","[color=#555555]“伤害修改”是指所有形式的伤害（伤害，远程，近战，元素，爆炸，穿刺，反弹），也适用于工程学[/color]"
-DIFF_D77_NOTE_HP_BAD,[color=red]-9999[/color] Max HP,最大生命值[color=red]-9999[/color]
-DIFF_D77_NOTE_DMG_GAINS,[color=#00FF00]Damage[/color] modifications are increased by [color=#00FF00]100%[/color],[color=#00FF00]伤害[/color]修改增加[color=#00FF00]100%[/color]
+key,en
+DIFF_D77_NOHIT_D2,No-Hit (D2)
+DIFF_D77_NOHIT_D5,No-Hit (D5)
+DIFF_D77_HEAVEN_HELL_D2,Heaven or Hell
+DIFF_D77_NO_STANDSTILL,No Stand-Still
+ITEM_DIFF_D77_NOHIT_D2,No-Hit (D2)
+ITEM_DIFF_D77_NOHIT_D5,No-Hit (D5)
+ITEM_DIFF_D77_HEAVEN_HELL_D2,Heaven or Hell
+ITEM_DIFF_D77_NO_STANDSTILL,No Stand-Still
+ITEM_DIFF_D77_NO_STANDSTILL_EFFECT,You can't stop moving
+DIFF_D77_NOTE_CUSTOM,[color=#555555]Custom:[/color]
+DIFF_D77_NOTE_DAMAGE,"[color=#555555]''Damage modifications'' refers to all forms of damage (%Damage, Ranged, Melee, Elemental, Explosion, Piercing, Bounce), and also applies to Engineering[/color]"
+DIFF_D77_NOTE_HP_BAD,[color=red]-9999[/color] Max HP
+DIFF_D77_NOTE_DMG_GAINS,[color=#00FF00]Damage[/color] modifications are increased by [color=#00FF00]100%[/color]

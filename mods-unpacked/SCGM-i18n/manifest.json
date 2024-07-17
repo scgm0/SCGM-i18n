@@ -1,18 +1,21 @@
 {
 	"name": "i18n",
 	"namespace": "SCGM",
-	"version_number": "0.1.9",
+	"version_number": "0.2.5",
 	"description": "本地化翻译。",
 	"website_url": "",
 	"dependencies": [],
 	"extra": {
 		"godot": {
-			"incompatibilities": [
-				
+			"incompatibilities": [],
+			"authors": [
+				"神麤詭末",
+				"常清"
 			],
-			"authors": ["神麤詭末", "常清"],
 			"compatible_mod_loader_version": "4.1.0",
-			"compatible_game_version": ["0.8.0.3"],
+			"compatible_game_version": [
+				"0.8.0.3"
+			],
 			"config_defaults": {}
 		}
 	}

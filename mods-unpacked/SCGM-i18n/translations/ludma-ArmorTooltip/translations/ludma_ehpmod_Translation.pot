@@ -1,0 +1,8 @@
+msgid ""
+msgstr ""
+
+msgid "EHPMOD_STAT_EHP"
+msgstr "Effective HP"
+
+msgid "INFO_POS_EHPMOD_STAT_EHP"
+msgstr "Effective healthpoints describes the amount of unmitigated damage it takes to kill you. It is calculated using only Armor and Max HP."

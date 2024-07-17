@@ -1,0 +1,20 @@
+msgid ""
+msgstr ""
+
+msgid "CHARACTER_UNDEAD_SAMURAI"
+msgstr "Undead Samurai"
+
+msgid "ITEM_DECAYING_BODY"
+msgstr "Decaying Body"
+
+msgid "WEAPON_GREATBOW"
+msgstr "Great Bow"
+
+msgid "WEAPON_NAGINATA"
+msgstr "Naginata"
+
+msgid "WEAPON_KATANA"
+msgstr "Katana"
+
+msgid "EFFECT_FRAKILOZ_DECAYING_BODY"
+msgstr "Spawns 10 flies orbiting around player dealing {0} ({1}) contact damages."

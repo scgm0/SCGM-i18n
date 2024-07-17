@@ -1,0 +1,84 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.2\n"
+
+msgid "ENABLE_AUTOBATTLER"
+msgstr "Enable AutoBattler"
+
+msgid "ENABLE_SMOOTHING"
+msgstr "Enable Camera Smoothing"
+
+msgid "SMOOTHING_SPEED"
+msgstr "Camera Smoothing Speed"
+
+msgid "ITEM_WEIGHT"
+msgstr "Item Weight"
+
+msgid "PROJECTILE_WEIGHT"
+msgstr "Projectile Weight"
+
+msgid "TREE_WEIGHT"
+msgstr "Tree Weight"
+
+msgid "BOSS_WEIGHT"
+msgstr "Boss Weight"
+
+msgid "BUMPER_WEIGHT"
+msgstr "Wall bumper Weight"
+
+msgid "EGG_WEIGHT"
+msgstr "Egg Weight"
+
+msgid "BUMPER_DISTANCE"
+msgstr "Wall Bumper Distance"
+
+msgid "ENABLE_AI_VISUALS"
+msgstr "Enable AI Visualization"
+
+msgid "ENABLE_AI_MARKER"
+msgstr "Show AI Marker"
+
+msgid "ENABLE_AUTOBATTLER_TOOLTIP"
+msgstr "Enable the AutoBattler.  When activated a bot will take control of the game during the wave attempting to keep an optimals distance from enemies and projectiles."
+
+msgid "ENABLE_AI_VISUALS_TOOLTIP"
+msgstr "Enable Visualizations for the AI.  When active, elements that the bot cares about will be highlighted with bigger highlights for objects the bot cares about more."
+
+msgid "ENABLE_AI_MARKER_TOOLTIP"
+msgstr "Show a marker next to the player when the AI is Active.  This is intended for streaming and video recording when you want to highlight the fact that a human is not in control of the game."
+
+msgid "ENABLE_SMOOTHING_TOOLTIP"
+msgstr "Enable Camera smoothing.  Many find the AI's sudden movements painful to follow.  Smoothing prevents the camera from being hard snapped to the player's position."
+
+msgid "SMOOTHING_SPEED_TOOLTIP"
+msgstr "The rate at which the smoothing camera will follow the player."
+
+msgid "ITEM_WEIGHT_TOOLTIP"
+msgstr "Controls how strongly the bot will be attracted to gold pickups."
+
+msgid "PROJECTILE_WEIGHT_TOOLTIP"
+msgstr "Controls how strongly the bot will be repelled by enemy projectiles."
+
+msgid "TREE_WEIGHT_TOOLTIP"
+msgstr "Controls how strongly the bot will be attracted to trees."
+
+msgid "BOSS_WEIGHT_TOOLTIP"
+msgstr "Controls how strongly the bot will be attracted to bosses."
+
+msgid "BUMPER_WEIGHT_TOOLTIP"
+msgstr "Controls how strongly the bot will be repelled by walls."
+
+msgid "EGG_WEIGHT_TOOLTIP"
+msgstr "Controls how strongly the bot will be attracted to unhatched eggs."
+
+msgid "BUMPER_DISTANCE_TOOLTIP"
+msgstr "Controls the minimum distance to a wall the bot will try to maintain."

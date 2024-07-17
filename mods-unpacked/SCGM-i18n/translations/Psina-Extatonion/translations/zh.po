@@ -1,0 +1,660 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.2\n"
+
+msgid "EFFECT_BUB_SWARM"
+msgstr "敌人死亡时，从尸体释放出4只追踪飞蝇，对敌人造成 {1} ({3}) 点伤害"
+
+msgid "EFFECT_SHOT_ORBITAL"
+msgstr "生成一个伙伴环绕在你周围，并对敌人射击，造成 {0} ({1}) 点伤害"
+
+msgid "EFFECT_SWARM"
+msgstr "敌人死亡时，从尸体释放出2只追踪飞蝇，对敌人造成 {1} ({3}) 点伤害"
+
+msgid "EFFECT_GLITCH_ONE"
+msgstr "无能力"
+
+msgid "EFFECT_GLITCH_TWO"
+msgstr "开始时可选择任意 Extatonion 武器"
+
+msgid "EFFECT_REDUCE_SURVIVAL"
+msgstr "生命修改减少35%"
+
+msgid "EFFECT_INCREASE_DAMAGE"
+msgstr "伤害修改增加35%"
+
+msgid "EFFECT_WORKS_BOTH"
+msgstr "双向生效"
+
+msgid "EFFECT_HEAL_ORBITAL"
+msgstr "生成一个伙伴环绕在你周围，并对敌人射击，造成 {0} ({1}) 点伤害和 20% 吸血"
+
+msgid "CHAR_GLITCHED"
+msgstr "故障"
+
+msgid "CHAR_AGENT"
+msgstr "特工"
+
+msgid "CHAR_BEELZEBUB"
+msgstr "别西卜"
+
+msgid "CHAR_BIOPUNK"
+msgstr "生物朋克"
+
+msgid "CHAR_LONG_ARMS"
+msgstr "长臂"
+
+msgid "CHAR_PEASANT"
+msgstr "中世纪农夫"
+
+msgid "ITEM_BLANKET"
+msgstr "毯子"
+
+msgid "ITEM_BRUNS_BADGE"
+msgstr "布伦的徽章"
+
+msgid "ITEM_EXTRAONION"
+msgstr "额外的洋葱"
+
+msgid "ITEM_GABRIELS_GLOVES"
+msgstr "加百列的手套"
+
+msgid "ITEM_JOHNS_COAT"
+msgstr "约翰的外套"
+
+msgid "ITEM_MIMICRY"
+msgstr "拟态伪装面具"
+
+msgid "ITEM_NOT_A_RAT"
+msgstr "不是老鼠"
+
+msgid "ITEM_PATRIOTISM"
+msgstr "爱国主义"
+
+msgid "ITEM_PETERS_TRAP"
+msgstr "彼得的诡计"
+
+msgid "ITEM_PLAGUE_MASK"
+msgstr "瘟疫面具"
+
+msgid "ITEM_SKALS_FIREWORK"
+msgstr "斯卡尔的烟花"
+
+msgid "ITEM_TIJOE_MASK"
+msgstr "提乔面膜"
+
+msgid "ITEM_ABADDON"
+msgstr "亚巴顿"
+
+msgid "ITEM_DARK_ALTAR"
+msgstr "黑暗祭坛"
+
+msgid "ITEM_CURSED_DICE"
+msgstr "诅咒骰子"
+
+msgid "ITEM_FIREFLY"
+msgstr "萤火虫"
+
+msgid "ITEM_SAY_MY_NAME"
+msgstr "海森堡的帽子"
+
+msgid "ITEM_INVESTMENTS"
+msgstr "投资"
+
+msgid "ITEM_JUNES_TAIL"
+msgstr "六月的尾巴"
+
+msgid "ITEM_MOD_GUIDE"
+msgstr "改装指南"
+
+msgid "ITEM_OLEXA_MANTLE"
+msgstr "奥莱克萨的斗篷"
+
+msgid "ITEM_CHAOS_ORB"
+msgstr "混沌之眼"
+
+msgid "ITEM_ATTRACTIVE_SPIRIT"
+msgstr "魅力小精灵"
+
+msgid "ITEM_DAMI_PLUSH"
+msgstr "达米的玩具塔"
+
+msgid "ITEM_DRONE"
+msgstr "战斗无人机"
+
+msgid "ITEM_SPIRIT_YELLOW"
+msgstr "战斗精神"
+
+msgid "ITEM_FRIENDLY_ALIEN"
+msgstr "友善小精灵"
+
+msgid "ITEM_INSECT_TURRET"
+msgstr "昆虫炮塔"
+
+msgid "ITEM_SLASHING_TURRET"
+msgstr "光剑炮塔"
+
+msgid "ITEM_SPIKY_BALL"
+msgstr "刺球"
+
+msgid "ITEM_CHAINSAW_MAN"
+msgstr "电锯人"
+
+msgid "ITEM_JUST_CHAOS"
+msgstr "混沌"
+
+msgid "ITEM_GROM_COUPON"
+msgstr "格姆的优惠券"
+
+msgid "ITEM_MONK_RELIC"
+msgstr "蒙克触手"
+
+msgid "ITEM_RHINO_RELIC"
+msgstr "犀牛触手"
+
+msgid "ITEM_SCALDING_BLANKET"
+msgstr "燃烧毯子"
+
+msgid "ITEM_MEGA_MUSH"
+msgstr "大蘑菇"
+
+msgid "ITEM_VURTFISH"
+msgstr "鱼缸"
+
+msgid "WEP_CLICK_FINGERS"
+msgstr "咔哒手指"
+
+msgid "ITEM_JHNCONTRACTUN"
+msgstr "约翰的合同"
+
+msgid "ITEM_LIBRA"
+msgstr "天秤"
+
+msgid "ITEM_MAGICAL_PLANT"
+msgstr "魔力草"
+
+msgid "ITEM_MEAT_AMULET"
+msgstr "肉制护身符"
+
+msgid "ITEM_OUROHANDS"
+msgstr "黑手"
+
+msgid "ITEM_RAD_HEART"
+msgstr "辐射之心"
+
+msgid "ITEM_SUPER_FAN"
+msgstr "豪宅超级粉丝"
+
+msgid "ITEM_SWARM"
+msgstr "群巢苍蝇"
+
+msgid "ITEM_TANK_MUZZLE"
+msgstr "坦克炮口"
+
+msgid "WEP_KNIFE_THROWER"
+msgstr "飞刀手"
+
+msgid "WEP_VASILEK_BOW"
+msgstr "瓦西列克的弓"
+
+msgid "DESC_DO_AGENT"
+msgstr "使用特工赢得一场比赛"
+
+msgid "DESC_DO_BEELZE"
+msgstr "使用别西卜赢得一场比赛"
+
+msgid "DESC_DO_BIOPUNK"
+msgstr "使用生物朋克赢得一场比赛"
+
+msgid "DESC_DO_LONGARMS"
+msgstr "使用长臂赢得一场比赛"
+
+msgid "DESC_DO_PEASANT"
+msgstr "使用中世纪农夫赢得一场比赛"
+
+msgid "DF_NAME_AGENT"
+msgstr "任务完成"
+
+msgid "DESC_DF_AGENT"
+msgstr "使用特工通关难度5"
+
+msgid "DF_NAME_BEELZE"
+msgstr "蝗神"
+
+msgid "DESC_DF_BEELZE"
+msgstr "使用别西卜通关难度5"
+
+msgid "DF_NAME_BIOPUNK"
+msgstr "恭喜"
+
+msgid "DESC_DF_BIOPUNK"
+msgstr "使用生物朋克通关难度5"
+
+msgid "DF_NAME_BRAWLER"
+msgstr "击倒！"
+
+msgid "DESC_DF_BRAWLER"
+msgstr "使用斗士通关难度5"
+
+msgid "DESC_DF_CHUNKY"
+msgstr "使用大壮通关难度5"
+
+msgid "DF_NAME_LONGARMS"
+msgstr "窝嫩叠"
+
+msgid "DESC_DF_LONGARMS"
+msgstr "使用长臂通关难度5"
+
+msgid "DF_NAME_PEASANT"
+msgstr "暴乱！"
+
+msgid "DESC_DF_PEASANT"
+msgstr "使用中世纪农夫通关难度5"
+
+msgid "DF_NAME_WELL_ROUNDED"
+msgstr "公平公正"
+
+msgid "DESC_DF_WELL_ROUNDED"
+msgstr "使用全能通关难度5"
+
+msgid "SET_BIOLOGICAL"
+msgstr "生物"
+
+msgid "SET_HOMING"
+msgstr "追踪"
+
+msgid "SET_INSECT"
+msgstr "昆虫"
+
+msgid "SET_TACTICAL"
+msgstr "战术"
+
+msgid "WEP_ARMAGEDDON"
+msgstr "末日"
+
+msgid "WEP_BEE_HIVE"
+msgstr "蜂巢"
+
+msgid "WEP_BIG_SPOON"
+msgstr "大勺子"
+
+msgid "WEP_BOW"
+msgstr "长弓"
+
+msgid "WEP_SEVERED_HAND"
+msgstr "断手"
+
+msgid "WEP_DARK_MAGIC"
+msgstr "黑魔法书"
+
+msgid "WEP_DICE_GUN"
+msgstr "骰子枪"
+
+msgid "WEP_MEAT_CLUB"
+msgstr "肉棒"
+
+msgid "WEP_FLARE_GUN"
+msgstr "信号枪"
+
+msgid "WEP_GRENADE_LAUNCHER"
+msgstr "榴弹发射器"
+
+msgid "WEP_JAVELIN"
+msgstr "标枪"
+
+msgid "WEP_ABUNDANCE_KNIFE"
+msgstr "丰饶之刃"
+
+msgid "WEP_LEAFY_MACHINEGUN"
+msgstr "叶爆机枪"
+
+msgid "WEP_LIL_BROTATO"
+msgstr "小弟弟"
+
+msgid "WEP_LOCUST_GUN"
+msgstr "蝗虫扩散器"
+
+msgid "WEP_EYE_GUN"
+msgstr "眼球枪"
+
+msgid "WEP_MEAT_ROD"
+msgstr "肉棍"
+
+msgid "WEP_NECRORACCOON"
+msgstr "死灵浣熊"
+
+msgid "WEP_TAXES"
+msgstr "税收"
+
+msgid "WEP_PITCHFORK"
+msgstr "干草叉"
+
+msgid "WEP_SNIPER_RIFLE"
+msgstr "狙击步枪"
+
+msgid "WEP_ABUNDANCE_STAFF"
+msgstr "丰饶法杖"
+
+msgid "EFFECT_SUMMON"
+msgstr "召唤一个步行同伴，向敌人射击，造成 {0} ({1}) 点伤害"
+
+msgid "EFFECT_MEAT_SUM"
+msgstr "召唤一个步行同伴，发射弹跳投射物，造成 {0} ({1}) 点伤害"
+
+msgid "EFFECT_MEAT_SUM_T2"
+msgstr "召唤一个步行同伴，发射 [color=#00ff00]2[/color] 次弹跳射弹，造成 {0} ({1}) 点伤害"
+
+msgid "EFFECT_MEAT_SUM_T3"
+msgstr "召唤一个步行同伴，发射 [color=#00ff00]3[/color] 次弹跳射弹，造成 {0} ({1}) 点伤害"
+
+msgid "EFFECT_MEAT_SUM_T4"
+msgstr "召唤一个步行同伴，发射弹跳 [color=#00ff00]4[/color] 次射弹，造成 {0} ({1}) 点伤害"
+
+msgid "EFFECT_SLASH_SUM"
+msgstr "召唤一个步行同伴，对敌人进行斩击，造成 {0} ({1}) 点伤害"
+
+msgid "EFFECT_COBRA_SUM"
+msgstr "召唤一个步行同伴，发射 [color=#00ff00]3[/color] 枚射弹，造成 {0} ({1}) 点伤害"
+
+msgid "EFFECT_COBRA_SUM_T2"
+msgstr "召唤一个步行同伴，发射 [color=#00ff00]4[/color] 枚射弹，造成 {0} ({1}) 点伤害"
+
+msgid "EFFECT_COBRA_SUM_T3"
+msgstr "召唤一个步行同伴，发射 [color=#00ff00]5[/color] 枚射弹，造成 {0} ({1}) 点伤害"
+
+msgid "EFFECT_COBRA_SUM_T4"
+msgstr "召唤一个步行同伴，发射 [color=#00ff00]6[/color] 枚射弹，造成 {0} ({1}) 点伤害"
+
+msgid "EFFECT_EXPO_SUM"
+msgstr "召唤一个步行同伴，发射爆炸性自导火箭，造成 {0} ({1}) 点伤害"
+
+msgid "EFFECT_BRO_SUM"
+msgstr "召唤一个步行同伴，对敌人进行 [color=#00ff00]1[/color] 穿刺射击，造成 {0} ({1}) 点伤害"
+
+msgid "EFFECT_BRO_SUM_T2"
+msgstr "召唤一个步行同伴，对敌人进行 [color=#00ff00]2[/color] 穿刺射击，造成 {0} ({1}) 点伤害"
+
+msgid "EFFECT_BRO_SUM_T3"
+msgstr "召唤一个步行同伴，用 [color=#00ff00]3[/color] 穿刺射击敌人，造成 {0} ({1}) 点伤害"
+
+msgid "EFFECT_BRO_SUM_T4"
+msgstr "召唤一个步行同伴，对敌人进行 [color=#00ff00]4[/color] 穿刺射击，造成 {0} ({1}) 点伤害"
+
+msgid "SET_SUMMON"
+msgstr "召唤"
+
+msgid "WEP_BROTATO_STAFF"
+msgstr "土豆兄弟之杖"
+
+msgid "WEP_MEAT_INSPECTOR"
+msgstr "血肉法杖"
+
+msgid "WEP_COBRA_STAFF"
+msgstr "眼镜蛇杖"
+
+msgid "CHAR_SUMMONER"
+msgstr "召唤师"
+
+msgid "EFFECT_SLASH_ON_HIT"
+msgstr "击中敌人会产生 {0} 次斩击攻击，造成 {1} ({3}) 点伤害"
+
+msgid "WEP_PALADIN_SWORD"
+msgstr "圣骑士之剑"
+
+msgid "SET_SLASHING"
+msgstr "斩击"
+
+msgid "WEP_KATANA"
+msgstr "武士刀"
+
+msgid "EFFECT_SUMMONS_COOLDOWN_REDUCTION"
+msgstr "将你的召唤物的攻击冷却时间减少 {0} ({1})"
+
+msgid "WEP_SLIMY_CLUB"
+msgstr "黏糊糊的木棍"
+
+msgid "DESC_DO_SUMMONER"
+msgstr "使用召唤师赢得一场比赛"
+
+msgid "DESC_DF_SUMMONER"
+msgstr "使用召唤师通关难度5"
+
+msgid "DF_NAME_SUMMONER"
+msgstr "这是必要的牺牲"
+
+msgid "ITEM_SACRIFICE"
+msgstr "献祭"
+
+msgid "WEP_BUTCHER_RELIC"
+msgstr "屠夫的遗物"
+
+msgid "ITEM_ROBOTICS"
+msgstr "走地机器人"
+
+msgid "ITEM_SOLDIER_BOT"
+msgstr "士兵机器人"
+
+msgid "DF_NAME_ENGINEER"
+msgstr "纳米太阳！"
+
+msgid "DESC_DF_ENGINEER"
+msgstr "使用工程师通关难度5"
+
+msgid "ITEM_CUBE_RICK"
+msgstr "请转动这个立方体"
+
+msgid "ITEM_GOLDEN_CHEST"
+msgstr "金箱子"
+
+msgid "ITEM_ARTIFACT"
+msgstr "古代工艺"
+
+msgid "WEP_POWER_HAMMER"
+msgstr "动力锤"
+
+msgid "WEP_CURSED_MIRROR"
+msgstr "被诅咒的镜子"
+
+msgid "CHAR_ILLUSIONIST"
+msgstr "魔术师"
+
+msgid "DESC_DO_ILLUSIONIST"
+msgstr "与魔术师一起赢得比赛"
+
+msgid "EFFECT_ILL_CLONE"
+msgstr "拥有 [color=#00ff00]5[/color] 个克隆体，武器与属性跟随玩家"
+
+msgid "EFFECT_GHOST_SUM"
+msgstr "召唤一个漫游幽灵，向各个方向发射射弹，对玩家造成 [color=#f81919]{0}[/color] ({1}) 点伤害"
+
+msgid "DF_NAME_ILLUSIONIST"
+msgstr "我们是魔术师"
+
+msgid "DESC_DF_ILLUSIONIST"
+msgstr "使用魔术师通关难度5"
+
+msgid "ITEM_YOUR_CLONE"
+msgstr "你的克隆体"
+
+msgid "EFFECT_CLONEBOT"
+msgstr "召唤一个克隆体，在玩家周围移动，复制你的两把武器。"
+
+msgid "EFFECT_SHADOW"
+msgstr "每{0}次击杀召唤一个黑暗分身，它会移动到你附近，并用 {1} 个武士刀砍杀敌人。"
+
+msgid "WEP_SHADOW_KATANA"
+msgstr "暗影武士刀"
+
+msgid "SET_HIGH_TECH"
+msgstr "高科技"
+
+msgid "EFFECT_CLONE"
+msgstr "每{0}次击杀生成一个克隆体，它会靠近你并使用两把冲锋枪向敌人射击，其属性跟随玩家。"
+
+msgid "EFFECT_CLONE_TWO"
+msgstr "每{0}次击杀生成一个克隆体，它会靠近你并使用两把[color=#00ff00]2级[/color]冲锋枪向敌人射击，其属性跟随玩家。"
+
+msgid "EFFECT_CLONE_THREE"
+msgstr "每{0}次击杀生成一个克隆体，它会靠近你并使用两把[color=#00ff00]3级[/color]冲锋枪向敌人射击，其属性跟随玩家。"
+
+msgid "EFFECT_CLONE_FOUR"
+msgstr "每{0}次击杀生成一个克隆体，它会靠近你并使用两把[color=#00ff00]4级[/color]冲锋枪向敌人射击，其属性跟随玩家。"
+
+msgid "WEP_CLONE_GUN"
+msgstr "克隆枪"
+
+msgid "WEP_CONTROLLER"
+msgstr "无人机控制器"
+
+msgid "WEP_INSECT_STAFF"
+msgstr "昆虫之杖"
+
+msgid "EFFECT_FLY_SUM"
+msgstr "召唤一个步行同伴，向敌人发射蛆虫，造成 {0} ({1}) 点伤害。"
+
+msgid "EFFECT_FLY_SUM_T2"
+msgstr "召唤一个步行同伴，向敌人发射蛆虫，造成 {0} ({1}) 点伤害。"
+
+msgid "EFFECT_FLY_SUM_T3"
+msgstr "召唤一个步行同伴，向敌人发射蛆虫，造成 {0} ({1}) 点伤害，并造成 [color=#00ff00]1[/color] 穿透。"
+
+msgid "EFFECT_FLY_SUM_T4"
+msgstr "召唤一个步行同伴，向敌人发射蛆虫，造成 {0} ({1}) 点伤害，并造成 [color=#00ff00]1[/color] 穿透。"
+
+msgid "ITEM_SYMBIOSIS"
+msgstr "共生"
+
+msgid "ITEM_HELLFIRE"
+msgstr "地狱火"
+
+msgid "ITEM_HERITAGE"
+msgstr "遗产"
+
+msgid "ITEM_UNFORGETTABLE_BOOK"
+msgstr "难忘的书"
+
+msgid "EFFECT_BUB_SOUL"
+msgstr "敌人死亡时额外产生[color=#00ff00]+2[/color]只苍蝇。"
+
+msgid "ITEM_BROTATO_SOUL"
+msgstr "布罗塔托灵魂"
+
+msgid "WEP_BESTIARY"
+msgstr "动物寓言"
+
+msgid "EFFECT_ILLUSIONIST_SOUL"
+msgstr "[color=#00ff00]+1[/color] 克隆体"
+
+msgid "EFFECT_GLITCHED_SOUL"
+msgstr "SDGS73509ad???9s0-620-048E??????0G92=S0-A-2849EFDSJA2FGGVXS??????"
+
+msgid "EFFECT_ROCKET_ORBITAL"
+msgstr "生成一个在您周围飞行的同伴，并用爆炸性自导火箭射击敌人，造成 {0} ({1}) 点伤害"
+
+msgid "EFFECT_TAGGED_BONUS"
+msgstr "获得一定数量的已标记属性。获得的属性包括："
+
+msgid "EFFECT_CHAR_SPECIAL"
+msgstr "独特的人物效果："
+
+msgid "STAT_LEVELS"
+msgstr "等级"
+
+msgid "EFFECT_DOUBLE_ILL_CLONE"
+msgstr "拥有 [color=#00ff00]11[/color] 个克隆体，武器与属性跟随玩家"
+
+msgid "ITEM_BALANCE_ORB"
+msgstr "平衡宝珠"
+
+msgid "EFFECT_PLANT_SUM"
+msgstr "[color=#00ff00]拾取消耗品时有 {5}%[/color] 几率召唤食肉植物。"
+
+msgid "CHAR_GARDENER"
+msgstr "园丁"
+
+msgid "ITEM_HEXONIUM_ARMOR"
+msgstr "己鎓装甲"
+
+msgid "ITEM_BROTATO_CURSE"
+msgstr "肉汤诅咒"
+
+msgid "EFFECT_TAGGED_DEBUFF"
+msgstr "失去一定数量的标记的属性。失去的属性包括："
+
+msgid "EFFECT_PLANT_SUM_T2"
+msgstr "[color=#00ff00]拾取消耗品时有 {5}%[/color] 几率召唤 2 级食肉植物。"
+
+msgid "EFFECT_PLANT_SUM_T3"
+msgstr "[color=#00ff00]拾取消耗品时有 {5}%[/color] 几率召唤 3 级食肉植物。"
+
+msgid "EFFECT_PLANT_SUM_T4"
+msgstr "[color=#00ff00]拾起消耗品时有 {5}%[/color] 几率召唤 4 级食肉植物。"
+
+msgid "EFFECT_GARDENER_SOUL"
+msgstr "[color=#00ff00]+{5}%[/color] 几率召唤 3 级食肉植物"
+
+msgid "EFFECT_GARDENER_SECOND_SOUL"
+msgstr "[color=#00ff00]+{5}%[/color] 几率召唤 4 级食肉植物"
+
+msgid "EFFECT_RETRO_ORBITAL"
+msgstr "生成一个小油管博主，它会在您周围飞行并向敌人发射虫子，造成 {0} ({1}) 点伤害"
+
+msgid "ITEM_RETROMATION_SPIRIT"
+msgstr "复兴小"
+
+msgid "ITEM_VASILEKS_BLESSING"
+msgstr "瓦西里克的祝福"
+
+msgid "DESC_DO_GARDENER"
+msgstr "与园丁一起赢得比赛"
+
+msgid "ITEM_FRUIT_BATTERY"
+msgstr "水果电池"
+
+msgid "EFFECT_ROBOTICS_ON_FRUIT"
+msgstr "[color=#00ff00]+{5}%[/color] 的几率在拾取消耗品时召唤一个机器人。向敌人射击子弹，造成[color=#00ff00]{0}[/color] ({1}) 点伤害，但在 {4} 秒后死亡。"
+
+msgid "CHAR_TECHNOMAGE"
+msgstr "技术法师"
+
+msgid "WEP_KSEROCK_HAND"
+msgstr "克塞罗克之手"
+
+msgid "DESC_DO_TECHNOMAGE"
+msgstr "与技术法师一起赢得比赛"
+
+msgid "WEP_GOLDEN_NUKE_LAUNCHER"
+msgstr "液化天然气"
+
+msgid "DF_NAME_GARDENER"
+msgstr "脑子！"
+
+msgid "DESC_DF_GARDENER"
+msgstr "使用园丁通关难度5"
+
+msgid "ITEM_SKALS_TECH"
+msgstr "斯卡尔的技术"
+
+msgid "DF_NAME_TECHNOMAGE"
+msgstr "技术魔法"
+
+msgid "DESC_DF_TECHNOMAGE"
+msgstr "使用技术法师通关难度5"
+
+msgid "ITEM_CORPSTAR_HELMET"
+msgstr "军团明星的头盔"
+
+msgid "EFFECT_FISHERMAN_SOUL"
+msgstr "每 5 个活着的敌人，{0} {1} [{4}]"
+
+msgid "EFFECT_MULTITASKER_SOUL"
+msgstr "[color=#00ff00]+1[/color] 武器槽"

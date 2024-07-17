@@ -1,0 +1,34 @@
+msgid ""
+msgstr ""
+
+msgid "EXT_CHAL_CHAR_DANGER_0"
+msgstr "Win a run with {0}"
+
+msgid "EXT_CHAL_CHAR_DANGER_ANY"
+msgstr "Win a run in Danger {1} with {0}"
+
+msgid "EXT_CHAL_STAT"
+msgstr "Reach {6} {7}"
+
+msgid "EXT_CHAL_HOLD_ITEMS_ALL"
+msgstr "Hold all of these items at the same time: \n"
+"{4}"
+
+msgid "EXT_CHAL_HOLD_ITEMS_ANY"
+msgstr "Hold any of these items at the same time: \n"
+"{4}"
+
+msgid "EXT_CHAL_HOLD_WEAPONS_ALL"
+msgstr "Hold all of these weapons at the same time: \n"
+"{4}"
+
+msgid "EXT_CHAL_HOLD_WEAPONS_ANY"
+msgstr "Hold any of these weapons at the same time: \n"
+"{4}"
+
+msgid "EXT_CHAL_TEST_ALL_OPTIONS"
+msgstr "Win a run in danger {1} with {0}; \n"
+"while holding these weapons: {2}; \n"
+"as well as either of these weapons: {3}; \n"
+"and these items: {4}; \n"
+"and either of these items: {5}"

@@ -1,0 +1,44 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.2\n"
+
+msgid "EXT_CHAL_CHAR_DANGER_0"
+msgstr "用 {0} 通关一次"
+
+msgid "EXT_CHAL_CHAR_DANGER_ANY"
+msgstr "用 {0} 通关危险 {1}"
+
+msgid "EXT_CHAL_STAT"
+msgstr "达到 {6} {7}"
+
+msgid "EXT_CHAL_HOLD_ITEMS_ALL"
+msgstr "同时持有所有这些物品：\n"
+"{4}"
+
+msgid "EXT_CHAL_HOLD_ITEMS_ANY"
+msgstr "同时持有这些物品中的任何一个：\n"
+"{4}"
+
+msgid "EXT_CHAL_HOLD_WEAPONS_ALL"
+msgstr "同时持有所有这些武器：\n"
+"{4}"
+
+msgid "EXT_CHAL_HOLD_WEAPONS_ANY"
+msgstr "同时持有这些武器中的任何一个：\n"
+"{4}"
+
+msgid "EXT_CHAL_TEST_ALL_OPTIONS"
+msgstr "在持有这些武器：{2}；\n"
+"以及这些武器中的任何一个：{3}；\n"
+"以及这些物品：{4}；\n"
+"以及这些物品中的任何一个：{5}\n"
+"的同时，用 {0} 通关危险 {1}"

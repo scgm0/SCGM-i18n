@@ -1,6 +1,6 @@
-key,en,zh
-CHARACTER_SPELL_THIEF,Spell Thief,窃法者
-CHAL_CHARACTER_DESC,Win a run with Spell Thief in any difficulty,使用窃法者赢一场比赛
-WEAPON_SOUL_SLICER,Soul Slicer,切魂器
-WEAPON_ARCANA_ORB,Arcana Orb,奥术球
-ITEM_BLUE_STONE,Blue Stone,蓝宝石
+key,en
+CHARACTER_SPELL_THIEF,Spell Thief
+CHAL_CHARACTER_DESC,Win a run with Spell Thief in any difficulty
+WEAPON_SOUL_SLICER,Soul Slicer
+WEAPON_ARCANA_ORB,Arcana Orb
+ITEM_BLUE_STONE,Blue Stone

@@ -1,0 +1,17 @@
+msgid ""
+msgstr ""
+
+msgid "MENU_SCREEN_STRETCH"
+msgstr "Screen Stretch"
+
+msgid "MENU_INFO_TEXT_NEXT_WAVE"
+msgstr "Changes apply on next wave"
+
+msgid "OPTION_SCREEN_STRETCH_KEEP"
+msgstr "default"
+
+msgid "OPTION_SCREEN_STRETCH_EXPAND"
+msgstr "expand"
+
+msgid "OPTION_SCREEN_STRETCH_EXPAND_WIDTH"
+msgstr "expand width"

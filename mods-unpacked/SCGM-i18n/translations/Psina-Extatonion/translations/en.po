@@ -1,0 +1,660 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.2\n"
+
+msgid "EFFECT_BUB_SWARM"
+msgstr "When an enemy dies it releases 4 homing flies from its corpse dealing {1} ({3}) damage"
+
+msgid "EFFECT_SHOT_ORBITAL"
+msgstr "Spawns a companion that flies around you and shoots enemies for {0} ({1}) damage"
+
+msgid "EFFECT_SWARM"
+msgstr "When an enemy dies it releases 2 homing flies from its corpse dealing {1} ({3}) damage"
+
+msgid "EFFECT_GLITCH_ONE"
+msgstr "Has no ability"
+
+msgid "EFFECT_GLITCH_TWO"
+msgstr "Can start with any Extatonion weapon"
+
+msgid "EFFECT_REDUCE_SURVIVAL"
+msgstr "Survivability modifications are reduced by 35%"
+
+msgid "EFFECT_INCREASE_DAMAGE"
+msgstr "Damage modifications are increased by 35%"
+
+msgid "EFFECT_WORKS_BOTH"
+msgstr "Works both ways"
+
+msgid "EFFECT_HEAL_ORBITAL"
+msgstr "Spawns a companion that flies around you and shoots enemies for {0} ({1}) damage with [color=#00ff00]20%[/color] lifesteal"
+
+msgid "CHAR_GLITCHED"
+msgstr "Glitched"
+
+msgid "CHAR_AGENT"
+msgstr "Agent"
+
+msgid "CHAR_BEELZEBUB"
+msgstr "Beelzebub"
+
+msgid "CHAR_BIOPUNK"
+msgstr "Biopunk"
+
+msgid "CHAR_LONG_ARMS"
+msgstr "Long Arms"
+
+msgid "CHAR_PEASANT"
+msgstr "Peasant"
+
+msgid "ITEM_BLANKET"
+msgstr "Blanket"
+
+msgid "ITEM_BRUNS_BADGE"
+msgstr "Brun's Badge"
+
+msgid "ITEM_EXTRAONION"
+msgstr "Extra Onion"
+
+msgid "ITEM_GABRIELS_GLOVES"
+msgstr "Gabriel's Gloves"
+
+msgid "ITEM_JOHNS_COAT"
+msgstr "John's Coat"
+
+msgid "ITEM_MIMICRY"
+msgstr "Mimicry"
+
+msgid "ITEM_NOT_A_RAT"
+msgstr "Not a Rat"
+
+msgid "ITEM_PATRIOTISM"
+msgstr "Patriotism"
+
+msgid "ITEM_PETERS_TRAP"
+msgstr "Peter's Trap"
+
+msgid "ITEM_PLAGUE_MASK"
+msgstr "Plague Mask"
+
+msgid "ITEM_SKALS_FIREWORK"
+msgstr "Skal's Firework"
+
+msgid "ITEM_TIJOE_MASK"
+msgstr "Tijoe Mask"
+
+msgid "ITEM_ABADDON"
+msgstr "Abaddon"
+
+msgid "ITEM_DARK_ALTAR"
+msgstr "Dark Altar"
+
+msgid "ITEM_CURSED_DICE"
+msgstr "Cursed Dice"
+
+msgid "ITEM_FIREFLY"
+msgstr "Firefly"
+
+msgid "ITEM_SAY_MY_NAME"
+msgstr "Heisenberg"
+
+msgid "ITEM_INVESTMENTS"
+msgstr "Investments"
+
+msgid "ITEM_JUNES_TAIL"
+msgstr "June's Tail"
+
+msgid "ITEM_MOD_GUIDE"
+msgstr "Modding Guide"
+
+msgid "ITEM_OLEXA_MANTLE"
+msgstr "Olexa's Mantle"
+
+msgid "ITEM_CHAOS_ORB"
+msgstr "Orb Of Chaos"
+
+msgid "ITEM_ATTRACTIVE_SPIRIT"
+msgstr "Attractive Spirit"
+
+msgid "ITEM_DAMI_PLUSH"
+msgstr "Dami's Plushie"
+
+msgid "ITEM_DRONE"
+msgstr "Drone"
+
+msgid "ITEM_SPIRIT_YELLOW"
+msgstr "Fighting Spirit"
+
+msgid "ITEM_FRIENDLY_ALIEN"
+msgstr "Friendly Alien"
+
+msgid "ITEM_INSECT_TURRET"
+msgstr "Insect Turret"
+
+msgid "ITEM_SLASHING_TURRET"
+msgstr "Slashing Turret"
+
+msgid "ITEM_SPIKY_BALL"
+msgstr "Spiky Ball"
+
+msgid "ITEM_CHAINSAW_MAN"
+msgstr "Chainsaw Man"
+
+msgid "ITEM_JUST_CHAOS"
+msgstr "Chaos"
+
+msgid "ITEM_GROM_COUPON"
+msgstr "Grom's Coupon"
+
+msgid "ITEM_MONK_RELIC"
+msgstr "Monk's relic"
+
+msgid "ITEM_RHINO_RELIC"
+msgstr "Rhino's relic"
+
+msgid "ITEM_SCALDING_BLANKET"
+msgstr "Scalding Blanket"
+
+msgid "ITEM_MEGA_MUSH"
+msgstr "Ultra Mush"
+
+msgid "ITEM_VURTFISH"
+msgstr "Vurtfish"
+
+msgid "WEP_CLICK_FINGERS"
+msgstr "Click Fingers"
+
+msgid "ITEM_JHNCONTRACTUN"
+msgstr "John's Contract"
+
+msgid "ITEM_LIBRA"
+msgstr "Libra"
+
+msgid "ITEM_MAGICAL_PLANT"
+msgstr "Magical Plant"
+
+msgid "ITEM_MEAT_AMULET"
+msgstr "Meat Amulet"
+
+msgid "ITEM_OUROHANDS"
+msgstr "Ourohands"
+
+msgid "ITEM_RAD_HEART"
+msgstr "Radioactive Heart"
+
+msgid "ITEM_SUPER_FAN"
+msgstr "Mansion Super Fan"
+
+msgid "ITEM_SWARM"
+msgstr "Swarm"
+
+msgid "ITEM_TANK_MUZZLE"
+msgstr "Tank Muzzle"
+
+msgid "WEP_KNIFE_THROWER"
+msgstr "Knife Thrower"
+
+msgid "WEP_VASILEK_BOW"
+msgstr "Vasilek's Bow"
+
+msgid "DESC_DO_AGENT"
+msgstr "Win a run with Agent"
+
+msgid "DESC_DO_BEELZE"
+msgstr "Win a run with Beelzebub"
+
+msgid "DESC_DO_BIOPUNK"
+msgstr "Win a run with Biopunk"
+
+msgid "DESC_DO_LONGARMS"
+msgstr "Win a run with Long Arms"
+
+msgid "DESC_DO_PEASANT"
+msgstr "Win a run with Peasant"
+
+msgid "DF_NAME_AGENT"
+msgstr "Mission Complete"
+
+msgid "DESC_DF_AGENT"
+msgstr "Beat danger 5 with Agent"
+
+msgid "DF_NAME_BEELZE"
+msgstr "Locust God"
+
+msgid "DESC_DF_BEELZE"
+msgstr "Beat danger 5 with Beelzebub"
+
+msgid "DF_NAME_BIOPUNK"
+msgstr "Congratulations"
+
+msgid "DESC_DF_BIOPUNK"
+msgstr "Beat danger 5 with Biopunk"
+
+msgid "DF_NAME_BRAWLER"
+msgstr "Knockout!"
+
+msgid "DESC_DF_BRAWLER"
+msgstr "Beat danger 5 with Brawler"
+
+msgid "DESC_DF_CHUNKY"
+msgstr "Beat danger 5 with Chunky"
+
+msgid "DF_NAME_LONGARMS"
+msgstr "Daddy Long Arms"
+
+msgid "DESC_DF_LONGARMS"
+msgstr "Beat danger 5 with Long Arms"
+
+msgid "DF_NAME_PEASANT"
+msgstr "Riot!"
+
+msgid "DESC_DF_PEASANT"
+msgstr "Beat danger 5 with Peasant"
+
+msgid "DF_NAME_WELL_ROUNDED"
+msgstr "Fair and Balanced"
+
+msgid "DESC_DF_WELL_ROUNDED"
+msgstr "Beat danger 5 with Well Rounded"
+
+msgid "SET_BIOLOGICAL"
+msgstr "Biological"
+
+msgid "SET_HOMING"
+msgstr "Homing"
+
+msgid "SET_INSECT"
+msgstr "Insect"
+
+msgid "SET_TACTICAL"
+msgstr "Tactical"
+
+msgid "WEP_ARMAGEDDON"
+msgstr "Armageddon"
+
+msgid "WEP_BEE_HIVE"
+msgstr "Bee Hive"
+
+msgid "WEP_BIG_SPOON"
+msgstr "Big Spoon"
+
+msgid "WEP_BOW"
+msgstr "Bow"
+
+msgid "WEP_SEVERED_HAND"
+msgstr "Severed Hand"
+
+msgid "WEP_DARK_MAGIC"
+msgstr "Dark Magic Book"
+
+msgid "WEP_DICE_GUN"
+msgstr "Dice Gun"
+
+msgid "WEP_MEAT_CLUB"
+msgstr "Meat Club"
+
+msgid "WEP_FLARE_GUN"
+msgstr "Flare Gun"
+
+msgid "WEP_GRENADE_LAUNCHER"
+msgstr "Grenade Launcher"
+
+msgid "WEP_JAVELIN"
+msgstr "Javelin"
+
+msgid "WEP_ABUNDANCE_KNIFE"
+msgstr "Knife Of Abundance"
+
+msgid "WEP_LEAFY_MACHINEGUN"
+msgstr "Leafy's Machinegun"
+
+msgid "WEP_LIL_BROTATO"
+msgstr "Lil Brotato"
+
+msgid "WEP_LOCUST_GUN"
+msgstr "Locust Spreader"
+
+msgid "WEP_EYE_GUN"
+msgstr "Eye Gun"
+
+msgid "WEP_MEAT_ROD"
+msgstr "Meat Rod"
+
+msgid "WEP_NECRORACCOON"
+msgstr "Necro Raccoon"
+
+msgid "WEP_TAXES"
+msgstr "Taxes"
+
+msgid "WEP_PITCHFORK"
+msgstr "Pitchfork"
+
+msgid "WEP_SNIPER_RIFLE"
+msgstr "Sniper Rifle"
+
+msgid "WEP_ABUNDANCE_STAFF"
+msgstr "Staff Of Abundance"
+
+msgid "EFFECT_SUMMON"
+msgstr "Summons a walking companion that shoots enemies for {0} ({1}) damage"
+
+msgid "EFFECT_MEAT_SUM"
+msgstr "Summons a walking companion that fires bouncing projectiles that deal {0} ({1}) damage"
+
+msgid "EFFECT_MEAT_SUM_T2"
+msgstr "Summons a walking companion that fires bouncing [color=#00ff00]2[/color] times projectiles that deal {0} ({1}) damage"
+
+msgid "EFFECT_MEAT_SUM_T3"
+msgstr "Summons a walking companion that fires bouncing [color=#00ff00]3[/color] times projectiles that deal {0} ({1}) damage"
+
+msgid "EFFECT_MEAT_SUM_T4"
+msgstr "Summons a walking companion that fires bouncing [color=#00ff00]4[/color] times projectiles that deal {0} ({1}) damage"
+
+msgid "EFFECT_SLASH_SUM"
+msgstr "Summons a walking companion that slashes enemies for {0} ({1}) damage"
+
+msgid "EFFECT_COBRA_SUM"
+msgstr "Summons a walking companion that fires [color=#00ff00]3[/color] projectiles that deal {0} ({1}) damage"
+
+msgid "EFFECT_COBRA_SUM_T2"
+msgstr "Summons a walking companion that fires [color=#00ff00]4[/color] projectiles that deal {0} ({1}) damage"
+
+msgid "EFFECT_COBRA_SUM_T3"
+msgstr "Summons a walking companion that fires [color=#00ff00]5[/color] projectiles that deal {0} ({1}) damage"
+
+msgid "EFFECT_COBRA_SUM_T4"
+msgstr "Summons a walking companion that fires [color=#00ff00]6[/color] projectiles that deal {0} ({1}) damage"
+
+msgid "EFFECT_EXPO_SUM"
+msgstr "Summons a walking companion that fires explosive homing rockets that deal {0} ({1}) damage"
+
+msgid "EFFECT_BRO_SUM"
+msgstr "Summons a walking companion that shoots enemies for {0} ({1}) damage with [color=#00ff00]1[/color] piercing"
+
+msgid "EFFECT_BRO_SUM_T2"
+msgstr "Summons a walking companion that shoots enemies for {0} ({1}) damage with [color=#00ff00]2[/color] piercing"
+
+msgid "EFFECT_BRO_SUM_T3"
+msgstr "Summons a walking companion that shoots enemies for {0} ({1}) damage with [color=#00ff00]3[/color] piercing"
+
+msgid "EFFECT_BRO_SUM_T4"
+msgstr "Summons a walking companion that shoots enemies for {0} ({1}) damage with [color=#00ff00]4[/color] piercing"
+
+msgid "SET_SUMMON"
+msgstr "Summoning"
+
+msgid "WEP_BROTATO_STAFF"
+msgstr "Staff Of Brotatoes"
+
+msgid "WEP_MEAT_INSPECTOR"
+msgstr "Meat Inspector"
+
+msgid "WEP_COBRA_STAFF"
+msgstr "Staff Of Cobras"
+
+msgid "CHAR_SUMMONER"
+msgstr "Summoner"
+
+msgid "EFFECT_SLASH_ON_HIT"
+msgstr "Hitting an enemy spawns {0} slash attacks dealing {1} ({3}) damage"
+
+msgid "WEP_PALADIN_SWORD"
+msgstr "Paladin Sword"
+
+msgid "SET_SLASHING"
+msgstr "Slashing"
+
+msgid "WEP_KATANA"
+msgstr "Katana"
+
+msgid "EFFECT_SUMMONS_COOLDOWN_REDUCTION"
+msgstr "Reduces the attack cooldown of your summons by {0} ({1})"
+
+msgid "WEP_SLIMY_CLUB"
+msgstr "Slimy Club"
+
+msgid "DESC_DO_SUMMONER"
+msgstr "Win a run with Summoner"
+
+msgid "DESC_DF_SUMMONER"
+msgstr "Beat danger 5 with Summoner"
+
+msgid "DF_NAME_SUMMONER"
+msgstr "Sacrifices Must Be Made"
+
+msgid "ITEM_SACRIFICE"
+msgstr "Sacrifice"
+
+msgid "WEP_BUTCHER_RELIC"
+msgstr "Butcher's Relic"
+
+msgid "ITEM_ROBOTICS"
+msgstr "Robotics"
+
+msgid "ITEM_SOLDIER_BOT"
+msgstr "Soldier Bot"
+
+msgid "DF_NAME_ENGINEER"
+msgstr "Nanomachines Son!"
+
+msgid "DESC_DF_ENGINEER"
+msgstr "Beat danger 5 with Engineer"
+
+msgid "ITEM_CUBE_RICK"
+msgstr "Rick The Cube"
+
+msgid "ITEM_GOLDEN_CHEST"
+msgstr "Chest Of Gold"
+
+msgid "ITEM_ARTIFACT"
+msgstr "Ancient Artifact"
+
+msgid "WEP_POWER_HAMMER"
+msgstr "Power-Hammer"
+
+msgid "WEP_CURSED_MIRROR"
+msgstr "Cursed Mirror"
+
+msgid "CHAR_ILLUSIONIST"
+msgstr "Illusionist"
+
+msgid "DESC_DO_ILLUSIONIST"
+msgstr "Win a run with Illusionist"
+
+msgid "EFFECT_ILL_CLONE"
+msgstr "Has [color=#00ff00]5[/color] clones that copy his weapons and scale from player stats"
+
+msgid "EFFECT_GHOST_SUM"
+msgstr "Summons a roaming ghost that fires projectiles in all directions dealing [color=#f81919]{0}[/color] ({1}) damage to the player"
+
+msgid "DF_NAME_ILLUSIONIST"
+msgstr "We Are Illusionist"
+
+msgid "DESC_DF_ILLUSIONIST"
+msgstr "Beat danger 5 with Illusionist"
+
+msgid "ITEM_YOUR_CLONE"
+msgstr "Your Clone"
+
+msgid "EFFECT_CLONEBOT"
+msgstr "Summons a clone that moves around the player copying two of your weapons. Scales from player stats"
+
+msgid "EFFECT_SHADOW"
+msgstr "Every {0} kills summons a dark copy of you that moves near you and cuts enemies with {1} katanas. Scales from player stats"
+
+msgid "WEP_SHADOW_KATANA"
+msgstr "Shadow Katana"
+
+msgid "SET_HIGH_TECH"
+msgstr "High Tech"
+
+msgid "EFFECT_CLONE"
+msgstr "Every {0} kills generates your clone that moves near you and shoots into enemies with 2 smgs. Scales from player stats"
+
+msgid "EFFECT_CLONE_TWO"
+msgstr "Every {0} kills generates your clone that moves near you and shoots into enemies with 2 [color=#00ff00]tier 2[/color] smgs. Scales from player stats"
+
+msgid "EFFECT_CLONE_THREE"
+msgstr "Every {0} kills generates your clone that moves near you and shoots into enemies with 2 [color=#00ff00]tier 3[/color] smgs. Scales from player stats"
+
+msgid "EFFECT_CLONE_FOUR"
+msgstr "Every {0} kills generates your clone that moves near you and shoots into enemies with 2 [color=#00ff00]tier 4[/color] smgs. Scales from player stats"
+
+msgid "WEP_CLONE_GUN"
+msgstr "Clone Gun"
+
+msgid "WEP_CONTROLLER"
+msgstr "Drone Controller"
+
+msgid "WEP_INSECT_STAFF"
+msgstr "Staff Of Insects"
+
+msgid "EFFECT_FLY_SUM"
+msgstr "Summons a walking companion that fires its maggots at enemies for {0} ({1}) damage. Maggots create homing flies ([color=#00ff00]1[/color]) when they hit an enemy."
+
+msgid "EFFECT_FLY_SUM_T2"
+msgstr "Summons a walking companion that fires its maggots at enemies for {0} ({1}) damage. Maggots create homing flies ([color=#00ff00]2[/color]) when they hit an enemy."
+
+msgid "EFFECT_FLY_SUM_T3"
+msgstr "Summons a walking companion that fires its maggots at enemies for {0} ({1}) damage with [color=#00ff00]1[/color] piercing. Maggots create homing flies ([color=#00ff00]3[/color]) when they hit an enemy."
+
+msgid "EFFECT_FLY_SUM_T4"
+msgstr "Summons a walking companion that fires its maggots at enemies for {0} ({1}) damage with [color=#00ff00]1[/color] piercing. Maggots create homing flies ([color=#00ff00]4[/color]) when they hit an enemy."
+
+msgid "ITEM_SYMBIOSIS"
+msgstr "Symbiosis"
+
+msgid "ITEM_HELLFIRE"
+msgstr "Hellfire"
+
+msgid "ITEM_HERITAGE"
+msgstr "Heritage"
+
+msgid "ITEM_UNFORGETTABLE_BOOK"
+msgstr "Unforgettable Book"
+
+msgid "EFFECT_BUB_SOUL"
+msgstr "[color=#00ff00]+2[/color] flies on enemy death"
+
+msgid "ITEM_BROTATO_SOUL"
+msgstr "Brotato Soul"
+
+msgid "WEP_BESTIARY"
+msgstr "Bestiary"
+
+msgid "EFFECT_ILLUSIONIST_SOUL"
+msgstr "[color=#00ff00]+1[/color] clone"
+
+msgid "EFFECT_GLITCHED_SOUL"
+msgstr "SDGS73509ad???9s0-620-048E??????0G92=S0-A-2849EFDSJA2FGGVXS????"
+
+msgid "EFFECT_ROCKET_ORBITAL"
+msgstr "Spawns a companion that flies around you and shoots enemies with explosive homing rockets for {0} ({1}) damage"
+
+msgid "EFFECT_TAGGED_BONUS"
+msgstr "Get a certain amount of stats you're tagged for. stats obtained :"
+
+msgid "EFFECT_CHAR_SPECIAL"
+msgstr "Unique character effect:"
+
+msgid "STAT_LEVELS"
+msgstr "Level"
+
+msgid "EFFECT_DOUBLE_ILL_CLONE"
+msgstr "Has [color=#00ff00]11[/color] clones that copy his weapons and scale from player stats"
+
+msgid "ITEM_BALANCE_ORB"
+msgstr "Orb Of Balance"
+
+msgid "EFFECT_PLANT_SUM"
+msgstr "[color=#00ff00]{5}%[/color] chance when picking up a consumable to summon a carnivorous plant. Shoots thorns at enemies for [color=#00ff00]{0}[/color] ({1}) damage but dies after {4} seconds"
+
+msgid "CHAR_GARDENER"
+msgstr "Gardener"
+
+msgid "ITEM_HEXONIUM_ARMOR"
+msgstr "Hexonium Armor"
+
+msgid "ITEM_BROTATO_CURSE"
+msgstr "Brotato Curse"
+
+msgid "EFFECT_TAGGED_DEBUFF"
+msgstr "lose a certain amount of stats you're tagged for. stats lost :"
+
+msgid "EFFECT_PLANT_SUM_T2"
+msgstr "[color=#00ff00]{5}%[/color] chance when picking up a consumable to summon a Tier 2 carnivorous plant. Shoots seeds at enemies for [color=#00ff00]{0}[/color] ({1}) damage and dies after {4} seconds. Seeds hitting enemies create one homing plant"
+
+msgid "EFFECT_PLANT_SUM_T3"
+msgstr "[color=#00ff00]{5}%[/color] chance when picking up a consumable to summon a Tier 3 carnivorous plant. Bites enemies for [color=#00ff00]{0}[/color] ({1}) damage but dies after {4} seconds. Bitten enemies create one homing plant"
+
+msgid "EFFECT_PLANT_SUM_T4"
+msgstr "[color=#00ff00]{5}%[/color] chance when picking up a consumable to summon a Tier 4 carnivorous plant. Shoots three homing plants at enemies for [color=#00ff00]{0}[/color] ({1}) damage. Dies after {4} seconds"
+
+msgid "EFFECT_GARDENER_SOUL"
+msgstr "[color=#00ff00]+{5}%[/color] chance to summon a Tier 3 carnivorous plant"
+
+msgid "EFFECT_GARDENER_SECOND_SOUL"
+msgstr "[color=#00ff00]+{5}%[/color] chance to summon a Tier 4 carnivorous plant"
+
+msgid "EFFECT_RETRO_ORBITAL"
+msgstr "Spawns a little youtuber that flies around you and shoots bugs at enemies for {0} ({1}) damage"
+
+msgid "ITEM_RETROMATION_SPIRIT"
+msgstr "Retromation Jr"
+
+msgid "ITEM_VASILEKS_BLESSING"
+msgstr "Vasilek's Blessing"
+
+msgid "DESC_DO_GARDENER"
+msgstr "Win a run with Gardener"
+
+msgid "ITEM_FRUIT_BATTERY"
+msgstr "Fruit Battery"
+
+msgid "EFFECT_ROBOTICS_ON_FRUIT"
+msgstr "[color=#00ff00]+{5}%[/color] chance when picking up a consumable to summon a robot. Shoots bullets at enemies for [color=#00ff00]{0}[/color] ({1}) damage but dies after {4} seconds"
+
+msgid "CHAR_TECHNOMAGE"
+msgstr "Technomage"
+
+msgid "WEP_KSEROCK_HAND"
+msgstr "Kserock's Hand"
+
+msgid "DESC_DO_TECHNOMAGE"
+msgstr "Win a run with Technomage"
+
+msgid "WEP_GOLDEN_NUKE_LAUNCHER"
+msgstr "GNL"
+
+msgid "DF_NAME_GARDENER"
+msgstr "Brains!"
+
+msgid "DESC_DF_GARDENER"
+msgstr "Beat danger 5 with Gardener"
+
+msgid "ITEM_SKALS_TECH"
+msgstr "Skal's Technology"
+
+msgid "DF_NAME_TECHNOMAGE"
+msgstr "Technomagic"
+
+msgid "DESC_DF_TECHNOMAGE"
+msgstr "Beat danger 5 with Technomage"
+
+msgid "ITEM_CORPSTAR_HELMET"
+msgstr "Corpstar's Helmet"
+
+msgid "EFFECT_FISHERMAN_SOUL"
+msgstr "{0} {1} for every 5 living enemies [{4}]"
+
+msgid "EFFECT_MULTITASKER_SOUL"
+msgstr "[color=#00ff00]+1[/color] weapon slot"

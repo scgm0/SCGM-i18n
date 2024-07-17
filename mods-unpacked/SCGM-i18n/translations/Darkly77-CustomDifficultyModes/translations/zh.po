@@ -1,0 +1,51 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.2\n"
+
+msgid "DIFF_D77_NOHIT_D2"
+msgstr "无命中（D2）"
+
+msgid "DIFF_D77_NOHIT_D5"
+msgstr "无命中（D5）"
+
+msgid "DIFF_D77_HEAVEN_HELL_D2"
+msgstr "天堂或地狱"
+
+msgid "DIFF_D77_NO_STANDSTILL"
+msgstr "没有停顿"
+
+msgid "ITEM_DIFF_D77_NOHIT_D2"
+msgstr "无命中（D2）"
+
+msgid "ITEM_DIFF_D77_NOHIT_D5"
+msgstr "无命中（D5）"
+
+msgid "ITEM_DIFF_D77_HEAVEN_HELL_D2"
+msgstr "天堂或地狱"
+
+msgid "ITEM_DIFF_D77_NO_STANDSTILL"
+msgstr "没有停顿"
+
+msgid "ITEM_DIFF_D77_NO_STANDSTILL_EFFECT"
+msgstr "你不能停止移动"
+
+msgid "DIFF_D77_NOTE_CUSTOM"
+msgstr "[color=#555555]自定义：[/color]"
+
+msgid "DIFF_D77_NOTE_DAMAGE"
+msgstr "[color=#555555]“伤害修改”是指所有形式的伤害（伤害，远程，近战，元素，爆炸，穿刺，反弹），也适用于工程学[/color]"
+
+msgid "DIFF_D77_NOTE_HP_BAD"
+msgstr "最大生命值[color=red]-9999[/color]"
+
+msgid "DIFF_D77_NOTE_DMG_GAINS"
+msgstr "[color=#00FF00]伤害[/color]修改增加[color=#00FF00]100%[/color]"

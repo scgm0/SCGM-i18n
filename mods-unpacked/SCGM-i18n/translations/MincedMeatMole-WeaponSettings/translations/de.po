@@ -1,0 +1,171 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.2\n"
+
+msgid "WEAPON_SETTINGS_HEADLINE"
+msgstr "Einstellungen Waffen"
+
+msgid "WEAPON_SETTINGS_RESET"
+msgstr "Waffe zurücksetzen"
+
+msgid "WEAPON_SETTINGS_MELEE"
+msgstr "Nahkampf"
+
+msgid "WEAPON_SETTINGS_RANGED"
+msgstr "Fernkampf"
+
+msgid "WEAPON_SETTINGS_PRICE"
+msgstr "Basispreis"
+
+msgid "WEAPON_SETTINGS_COOLDOWN"
+msgstr "Abklingzeit"
+
+msgid "WEAPON_SETTINGS_DAMAGE"
+msgstr "Schaden"
+
+msgid "WEAPON_SETTINGS_CRIT_CHANGE"
+msgstr "% Crit Chance"
+
+msgid "WEAPON_SETTINGS_CRIT_DAMAGE"
+msgstr "Crit Schaden"
+
+msgid "WEAPON_SETTINGS_MIN_RANGE"
+msgstr "Minimale Reichweite"
+
+msgid "WEAPON_SETTINGS_MAX_RANGE"
+msgstr "Maximale Reichweite"
+
+msgid "WEAPON_SETTINGS_KNOCKBACK"
+msgstr "Rückschlag"
+
+msgid "WEAPON_SETTINGS_LIFESTEAL"
+msgstr "Lebensraub"
+
+msgid "WEAPON_SETTINGS_RECOIL"
+msgstr "Rückstoß"
+
+msgid "WEAPON_SETTINGS_RECOIL_DURATION"
+msgstr "Rückstoß Dauer"
+
+msgid "WEAPON_SETTINGS_ADDED_COOLDOWN"
+msgstr "Zusätzliche Abklingzeit alle X Schüsse"
+
+msgid "WEAPON_SETTINGS_ADDED_COOLDOWN_MULTIPLIER"
+msgstr "Zusätzlicher Abkühlungsmultiplikator"
+
+msgid "WEAPON_SETTINGS_ACCURACY"
+msgstr "% Genauigkiet"
+
+msgid "WEAPON_SETTINGS_ATTACK_TYPE"
+msgstr "Stich oder Schwinganriff"
+
+msgid "WEAPON_SETTINGS_ALTERNATE_ATTACK_TYPE"
+msgstr "Wechsel von Angriffsarten"
+
+msgid "WEAPON_SETTINGS_NB_PROJECTILES"
+msgstr "Anzahl der Geschosse"
+
+msgid "WEAPON_SETTINGS_PROJECTILE_SPREAD"
+msgstr "Projektilausbreitung"
+
+msgid "WEAPON_SETTINGS_PIERCING"
+msgstr "Durchdringungs Menge"
+
+msgid "WEAPON_SETTINGS_PIERCING_DMG_REDUCTION"
+msgstr "Schadensreduktion Durchdringung"
+
+msgid "WEAPON_SETTINGS_BOUNCE"
+msgstr "Menge Abpraller"
+
+msgid "WEAPON_SETTINGS_BOUNCE_DMG_REDUCTION"
+msgstr "Reduzierung des Abprallschadens"
+
+msgid "WEAPON_SETTINGS_PROJECTILE_SPEED"
+msgstr "Geschossgeschwindigkeit"
+
+msgid "WEAPON_SETTINGS_INCREASE_PROJECTILE_SPEED_WITH_RANGE"
+msgstr "Projektilgeschwindigkeit mit Reichweite erhöhen"
+
+msgid "WEAPON_SETTINGS_YES"
+msgstr "Ja"
+
+msgid "WEAPON_SETTINGS_NO"
+msgstr "Nein"
+
+msgid "WEAPON_SETTINGS_SWING"
+msgstr "Schwung"
+
+msgid "WEAPON_SETTINGS_STAB"
+msgstr "Stich"
+
+msgid "WEAPON_SETTINGS_TIER_INFO"
+msgstr "Diese Werte zu ändern, wird alle Änderungen an allen anderen Ebenen des gewählten Wertes rückgängig machen"
+
+msgid "WEAPON_SETTINGS_RESET_TIER"
+msgstr "Ebene zurücksetzen"
+
+msgid "WEAPON_SETTINGS_RESET_WEAPON"
+msgstr "Waffe zurücksetzen"
+
+msgid "WEAPON_SETTINGS_SCALING_BUTTON"
+msgstr "Zeige/Verstecke Skalierung"
+
+msgid "WEAPON_SETTINGS_STAT_MAX_HP"
+msgstr "Max Gesundheit"
+
+msgid "WEAPON_SETTINGS_STAT_HP_REGENERATION"
+msgstr "Gesundheits-Regeneration"
+
+msgid "WEAPON_SETTINGS_STAT_LIFESTEAL"
+msgstr "Lebensraub"
+
+msgid "WEAPON_SETTINGS_STAT_PERCENT_DAMAGE"
+msgstr "Prozentualer Schaden"
+
+msgid "WEAPON_SETTINGS_STAT_MELEE_DAMAGE"
+msgstr "Nahkampfschaden"
+
+msgid "WEAPON_SETTINGS_STAT_RANGED_DAMAGE"
+msgstr "Fernkampfschaden"
+
+msgid "WEAPON_SETTINGS_STAT_ELEMENTAL_DAMAGE"
+msgstr "Elementarschaden"
+
+msgid "WEAPON_SETTINGS_STAT_ATTACK_SPEED"
+msgstr "Angriffsgeschwindigkeit"
+
+msgid "WEAPON_SETTINGS_STAT_CRIT_CHANCE"
+msgstr "Crit Chance"
+
+msgid "WEAPON_SETTINGS_STAT_ENGINEERING"
+msgstr "Ingenieurskunst"
+
+msgid "WEAPON_SETTINGS_STAT_RANGE"
+msgstr "Reichweite"
+
+msgid "WEAPON_SETTINGS_STAT_ARMOR"
+msgstr "Rüstung"
+
+msgid "WEAPON_SETTINGS_STAT_DODGE"
+msgstr "Ausweichen"
+
+msgid "WEAPON_SETTINGS_STAT_SPEED"
+msgstr "Geschwindigkeit"
+
+msgid "WEAPON_SETTINGS_STAT_LUCK"
+msgstr "Glück"
+
+msgid "WEAPON_SETTINGS_STAT_HARVESTING"
+msgstr "Ernte"
+
+msgid "WEAPON_SETTINGS_STAT_LEVELS"
+msgstr "Level"

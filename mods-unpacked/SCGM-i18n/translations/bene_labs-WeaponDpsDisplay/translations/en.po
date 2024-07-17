@@ -1,0 +1,27 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.2\n"
+
+msgid "WEAPON_DPS"
+msgstr "DPS"
+
+msgid "WEAPON_BURN_DPS"
+msgstr "Burn DPS"
+
+msgid "STAND_STILL_DPS"
+msgstr "Stand still DPS"
+
+msgid "BURN_STACK_DPS"
+msgstr "Burn DPS per stack"
+
+msgid "BURN_MAX_DPS"
+msgstr "Maximum burn DPS"

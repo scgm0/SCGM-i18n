@@ -1,3 +1,3 @@
-keys,en,zh
-EHPMOD_STAT_EHP,Effective HP,有效生命
-INFO_POS_EHPMOD_STAT_EHP,Effective healthpoints describes the amount of unmitigated damage it takes to kill you. It is calculated using only Armor and Max HP.,有效生命描述了杀死你所需要的最大伤害值，只使用护甲和最大生命来计算。
+keys,en
+EHPMOD_STAT_EHP,Effective HP
+INFO_POS_EHPMOD_STAT_EHP,Effective healthpoints describes the amount of unmitigated damage it takes to kill you. It is calculated using only Armor and Max HP.

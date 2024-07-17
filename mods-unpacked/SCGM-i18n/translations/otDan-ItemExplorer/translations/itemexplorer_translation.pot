@@ -1,0 +1,14 @@
+msgid ""
+msgstr ""
+
+msgid "MENU_MODS"
+msgstr "Mods"
+
+msgid "MENU_ITEM_NOT_UNLOCKED"
+msgstr "Not Unlocked"
+
+msgid "MENU_TAGGED_CHARACTERS"
+msgstr "Weighted Characters"
+
+msgid "MENU_START_RUN"
+msgstr "Start Run"

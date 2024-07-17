@@ -1,0 +1,108 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.2\n"
+
+msgid "CHARACTER_COLLECTOR"
+msgstr "Collector"
+
+msgid "CHARACTER_DWARF"
+msgstr "Dwarf"
+
+msgid "CHARACTER_PERFECTIONIST"
+msgstr "Perfectionist"
+
+msgid "CHARACTER_STUCK"
+msgstr "Stuck"
+
+msgid "CHARACTER_CATATO"
+msgstr "Catato"
+
+msgid "CHARACTER_MAGNETIC"
+msgstr "Magnetic"
+
+msgid "CHARACTER_DUAL_WIELDER"
+msgstr "Dual Wielder"
+
+msgid "CHARACTER_BUILDER"
+msgstr "Builder"
+
+msgid "GMO_COMBINES CHARACTER_COLLECTOR"
+msgstr "Starts with Collector"
+
+msgid "GMO_COMBINES CHARACTER_DWARF"
+msgstr "Starts with Dwarf"
+
+msgid "GMO_COMBINES CHARACTER_PERFECTIONIST"
+msgstr "Starts with Perfectionist"
+
+msgid "GMO_COMBINES CHARACTER_STUCK"
+msgstr "Starts with Stuck"
+
+msgid "GMO_COMBINES CHARACTER_CATATO"
+msgstr "Starts with Catato"
+
+msgid "GMO_COMBINES CHARACTER_MAGNETIC"
+msgstr "Starts with Magnetic"
+
+msgid "GMO_COMBINES CHARACTER_DUAL_WIELDER"
+msgstr "Starts with Dual Wielder"
+
+msgid "GMO_COMBINES CHARACTER_BUILDER"
+msgstr "Starts with Builder"
+
+msgid "ITEM_MONOCLE"
+msgstr "Monocle"
+
+msgid "ITEM_FORTRESS"
+msgstr "Fortress"
+
+msgid "ITEM_BULLET_TIME"
+msgstr "Bullet Time"
+
+msgid "ITEM_BELL_COLLAR"
+msgstr "Bell Collar"
+
+msgid "ITEM_FISHING_MAGNET"
+msgstr "Fishing Magnet"
+
+msgid "ITEM_DOMINO"
+msgstr "Domino"
+
+msgid "ITEM_BLUEPRINTS"
+msgstr "Blueprints"
+
+msgid "WEAPON_HOOKSHOT"
+msgstr "Hookshot"
+
+msgid "EFFECT_RECYCLING_LOSSES"
+msgstr "Gain [color=red]99%[/color] less materials from recyling it"
+
+msgid "EFFECT_STUCK_NULLIFIED"
+msgstr "[color=#00ff00]5[/color] hits taken are nullified every wave"
+
+msgid "EFFECT_CATATO_NULLIFIED"
+msgstr "[color=#00ff00]8[/color] hits taken are nullified every wave"
+
+msgid "EFFECT_TWO_WEAPON_SLOT_LIMIT"
+msgstr "You can only equip two weapons at a time"
+
+msgid "EFFECT_GAIN_ENEMIES_FOR_EVERY_STAT"
+msgstr "+{0}% {1} for every {2} {3} you have [+{4}%]"
+
+msgid "EFFECT_NO_HARVESTING_GROWTH"
+msgstr "{0}% Harvesting growth between waves"
+
+msgid "EFFECT_GAIN_ALL_DAMAGE_TYPES"
+msgstr "All damage types are linked ([color=#00ff00]2 Melee Damage[/color] = [color=#00ff00]1 Ranged Damage[/color] = [color=#00ff00]1 Elemental Damage[/color] = [color=#00ff00]2 Engineering[/color])"
+
+msgid "EFFECT_CAP_MAP_SIZE"
+msgstr "Map Size stops increasing at Wave 20"

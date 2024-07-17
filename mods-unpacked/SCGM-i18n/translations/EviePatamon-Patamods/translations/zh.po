@@ -1,0 +1,108 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.2\n"
+
+msgid "CHARACTER_COLLECTOR"
+msgstr "收藏家"
+
+msgid "CHARACTER_DWARF"
+msgstr "矮人"
+
+msgid "CHARACTER_PERFECTIONIST"
+msgstr "完美主义者"
+
+msgid "CHARACTER_STUCK"
+msgstr "斯塔克"
+
+msgid "CHARACTER_CATATO"
+msgstr "猫铃薯"
+
+msgid "CHARACTER_MAGNETIC"
+msgstr "磁场"
+
+msgid "CHARACTER_DUAL_WIELDER"
+msgstr "双枪手"
+
+msgid "CHARACTER_BUILDER"
+msgstr "建筑商"
+
+msgid "GMO_COMBINES CHARACTER_COLLECTOR"
+msgstr "从收藏家开始"
+
+msgid "GMO_COMBINES CHARACTER_DWARF"
+msgstr "从矮人开始"
+
+msgid "GMO_COMBINES CHARACTER_PERFECTIONIST"
+msgstr "从完美主义者开始"
+
+msgid "GMO_COMBINES CHARACTER_STUCK"
+msgstr "从斯托克开始"
+
+msgid "GMO_COMBINES CHARACTER_CATATO"
+msgstr "从猫铃薯开始"
+
+msgid "GMO_COMBINES CHARACTER_MAGNETIC"
+msgstr "从磁场开始"
+
+msgid "GMO_COMBINES CHARACTER_DUAL_WIELDER"
+msgstr "从双枪手开始"
+
+msgid "GMO_COMBINES CHARACTER_BUILDER"
+msgstr "从建筑商开始"
+
+msgid "ITEM_MONOCLE"
+msgstr "单片眼镜"
+
+msgid "ITEM_FORTRESS"
+msgstr "堡垒"
+
+msgid "ITEM_BULLET_TIME"
+msgstr "子弹时间"
+
+msgid "ITEM_BELL_COLLAR"
+msgstr "铃铛项圈"
+
+msgid "ITEM_FISHING_MAGNET"
+msgstr "钓鱼磁铁"
+
+msgid "ITEM_DOMINO"
+msgstr "多米诺骨牌"
+
+msgid "ITEM_BLUEPRINTS"
+msgstr "蓝图"
+
+msgid "WEAPON_HOOKSHOT"
+msgstr "钩爪"
+
+msgid "EFFECT_RECYCLING_LOSSES"
+msgstr "回收道具时额外获得[color=red]-99%[/color]个材料"
+
+msgid "EFFECT_STUCK_NULLIFIED"
+msgstr "在每一波敌袭中会抵消受到的[color=#00ff00]前5次[/color]攻击伤害"
+
+msgid "EFFECT_CATATO_NULLIFIED"
+msgstr "在每一波敌袭中会抵消受到的[color=#00ff00]前8次[/color]攻击伤害"
+
+msgid "EFFECT_TWO_WEAPON_SLOT_LIMIT"
+msgstr "同时只能装备两把武器"
+
+msgid "EFFECT_GAIN_ENEMIES_FOR_EVERY_STAT"
+msgstr "你每有{2}{3}就有+{0}%{1}[+{4}%]"
+
+msgid "EFFECT_NO_HARVESTING_GROWTH"
+msgstr "敌袭结束时，收获提高{0}% "
+
+msgid "EFFECT_GAIN_ALL_DAMAGE_TYPES"
+msgstr "所有的伤害类型都是相连的（[color=#00ff00]2近战伤害[/color] = [color=#00ff00]1远程伤害[/color] = [color=#00ff00]1元素伤害[/color] = [color=#00ff00]2工程学[/color]）"
+
+msgid "EFFECT_CAP_MAP_SIZE"
+msgstr "第20波敌袭后地图尺寸停止增长"

@@ -1,0 +1,660 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.2\n"
+
+msgid "EFFECT_BUB_SWARM"
+msgstr "Когда враг умирает из его трупа вылетает 4 самонаводящихся мухи наносящие {1} ({3}) урона"
+
+msgid "EFFECT_SHOT_ORBITAL"
+msgstr "Создаёт компаньона который летает вокруг тебя и стреляет во врагов нанося {0} ({1}) урона"
+
+msgid "EFFECT_SWARM"
+msgstr "Когда враг умирает из его трупа вылетает 2 самонаводящихся мухи наносящие {1} ({3}) урона"
+
+msgid "EFFECT_GLITCH_ONE"
+msgstr "Не имеет способностей"
+
+msgid "EFFECT_GLITCH_TWO"
+msgstr "Может начинать игру с любым Extatonion оружием"
+
+msgid "EFFECT_REDUCE_SURVIVAL"
+msgstr "не юзается"
+
+msgid "EFFECT_INCREASE_DAMAGE"
+msgstr "не юзается"
+
+msgid "EFFECT_WORKS_BOTH"
+msgstr "Работает в обе стороны"
+
+msgid "EFFECT_HEAL_ORBITAL"
+msgstr "Создаёт компаньона который летает вокруг тебя и стреляет во врагов нанося {0} ({1}) урона с [color=#00ff00]20%[/color] кражей жизни"
+
+msgid "CHAR_GLITCHED"
+msgstr "Глючный"
+
+msgid "CHAR_AGENT"
+msgstr "Агент"
+
+msgid "CHAR_BEELZEBUB"
+msgstr "Вельзевул"
+
+msgid "CHAR_BIOPUNK"
+msgstr "Биопанк"
+
+msgid "CHAR_LONG_ARMS"
+msgstr "Длиннорукий"
+
+msgid "CHAR_PEASANT"
+msgstr "Крестьянин"
+
+msgid "ITEM_BLANKET"
+msgstr "Одеяло"
+
+msgid "ITEM_BRUNS_BADGE"
+msgstr "Значок Бруна"
+
+msgid "ITEM_EXTRAONION"
+msgstr "Бонусный Лук"
+
+msgid "ITEM_GABRIELS_GLOVES"
+msgstr "Перчатки Габриэля"
+
+msgid "ITEM_JOHNS_COAT"
+msgstr "Пальто Джона"
+
+msgid "ITEM_MIMICRY"
+msgstr "Мимикрия"
+
+msgid "ITEM_NOT_A_RAT"
+msgstr "Некрыса"
+
+msgid "ITEM_PATRIOTISM"
+msgstr "Патриотизм"
+
+msgid "ITEM_PETERS_TRAP"
+msgstr "Ловушка Питера"
+
+msgid "ITEM_PLAGUE_MASK"
+msgstr "Маска Чумного"
+
+msgid "ITEM_SKALS_FIREWORK"
+msgstr "Фейерверк Скала"
+
+msgid "ITEM_TIJOE_MASK"
+msgstr "Маска Тиджа"
+
+msgid "ITEM_ABADDON"
+msgstr "АБАДДООООН"
+
+msgid "ITEM_DARK_ALTAR"
+msgstr "Тёмный Алтарь"
+
+msgid "ITEM_CURSED_DICE"
+msgstr "Проклятый Кубик"
+
+msgid "ITEM_FIREFLY"
+msgstr "Светлячок"
+
+msgid "ITEM_SAY_MY_NAME"
+msgstr "Хайзенберг"
+
+msgid "ITEM_INVESTMENTS"
+msgstr "Инвестиции"
+
+msgid "ITEM_JUNES_TAIL"
+msgstr "Хвост Джуна"
+
+msgid "ITEM_MOD_GUIDE"
+msgstr "Гайд По Мододельству"
+
+msgid "ITEM_OLEXA_MANTLE"
+msgstr "Мантия Olexa"
+
+msgid "ITEM_CHAOS_ORB"
+msgstr "Сфера Хаоса"
+
+msgid "ITEM_ATTRACTIVE_SPIRIT"
+msgstr "Привлекательный Дух"
+
+msgid "ITEM_DAMI_PLUSH"
+msgstr "Плюш Дами"
+
+msgid "ITEM_DRONE"
+msgstr "Дрон"
+
+msgid "ITEM_SPIRIT_YELLOW"
+msgstr "Боевой Дух"
+
+msgid "ITEM_FRIENDLY_ALIEN"
+msgstr "Дружелюбный Инопланетянин"
+
+msgid "ITEM_INSECT_TURRET"
+msgstr "Мушиная Турель"
+
+msgid "ITEM_SLASHING_TURRET"
+msgstr "Режущая Турель"
+
+msgid "ITEM_SPIKY_BALL"
+msgstr "Шипастая Сфера"
+
+msgid "ITEM_CHAINSAW_MAN"
+msgstr "Человек Бензопила"
+
+msgid "ITEM_JUST_CHAOS"
+msgstr "Хаос"
+
+msgid "ITEM_GROM_COUPON"
+msgstr "Купон Грома"
+
+msgid "ITEM_MONK_RELIC"
+msgstr "Реликвия Монка"
+
+msgid "ITEM_RHINO_RELIC"
+msgstr "Реликвия Носорога"
+
+msgid "ITEM_SCALDING_BLANKET"
+msgstr "Обжигающее Одеяло"
+
+msgid "ITEM_MEGA_MUSH"
+msgstr "Ультра Гриб"
+
+msgid "ITEM_VURTFISH"
+msgstr "Вуртик"
+
+msgid "WEP_CLICK_FINGERS"
+msgstr "Пальцы Щёлка"
+
+msgid "ITEM_JHNCONTRACTUN"
+msgstr "Контракт Джона"
+
+msgid "ITEM_LIBRA"
+msgstr "Весы"
+
+msgid "ITEM_MAGICAL_PLANT"
+msgstr "Волшебное Растение"
+
+msgid "ITEM_MEAT_AMULET"
+msgstr "Мясной Амулет"
+
+msgid "ITEM_OUROHANDS"
+msgstr "Уро-руки"
+
+msgid "ITEM_RAD_HEART"
+msgstr "Радиоактивное Сердце"
+
+msgid "ITEM_SUPER_FAN"
+msgstr "Супер Фан Особняка"
+
+msgid "ITEM_SWARM"
+msgstr "Рой"
+
+msgid "ITEM_TANK_MUZZLE"
+msgstr "Дуло Танка"
+
+msgid "WEP_KNIFE_THROWER"
+msgstr "Метатель Ножей"
+
+msgid "WEP_VASILEK_BOW"
+msgstr "Лук Василька"
+
+msgid "DESC_DO_AGENT"
+msgstr "Пройти забег за Агента"
+
+msgid "DESC_DO_BEELZE"
+msgstr "Пройти забег за Вельзевула"
+
+msgid "DESC_DO_BIOPUNK"
+msgstr "Пройти забег за Биопанка"
+
+msgid "DESC_DO_LONGARMS"
+msgstr "Пройти забег за Длиннорукого"
+
+msgid "DESC_DO_PEASANT"
+msgstr "Пройти забег за Крестьянина"
+
+msgid "DF_NAME_AGENT"
+msgstr "Миссия Выполнена"
+
+msgid "DESC_DF_AGENT"
+msgstr "Пройти угрозу 5 за Агента"
+
+msgid "DF_NAME_BEELZE"
+msgstr "Бог Саранчи"
+
+msgid "DESC_DF_BEELZE"
+msgstr "Пройти угрозу 5 за Вельзевула"
+
+msgid "DF_NAME_BIOPUNK"
+msgstr "Поздравляем"
+
+msgid "DESC_DF_BIOPUNK"
+msgstr "Пройти угрозу 5 за Биопанка"
+
+msgid "DF_NAME_BRAWLER"
+msgstr "Нокаут!"
+
+msgid "DESC_DF_BRAWLER"
+msgstr "Пройти угрозу 5 за Драчуна"
+
+msgid "DESC_DF_CHUNKY"
+msgstr "Пройти угрозу 5 за Толстяка"
+
+msgid "DF_NAME_LONGARMS"
+msgstr "Папочка Длинные Руки"
+
+msgid "DESC_DF_LONGARMS"
+msgstr "Пройти угрозу 5 за Длиннорукого"
+
+msgid "DF_NAME_PEASANT"
+msgstr "Бунт!"
+
+msgid "DESC_DF_PEASANT"
+msgstr "Пройти угрозу 5 за Крестьянина"
+
+msgid "DF_NAME_WELL_ROUNDED"
+msgstr "Справедливо и Балансно"
+
+msgid "DESC_DF_WELL_ROUNDED"
+msgstr "Пройти угрозу 5 за Сбалансированного"
+
+msgid "SET_BIOLOGICAL"
+msgstr "Биологическое"
+
+msgid "SET_HOMING"
+msgstr "Самонаводится"
+
+msgid "SET_INSECT"
+msgstr "Насекомое"
+
+msgid "SET_TACTICAL"
+msgstr "Тактическое"
+
+msgid "WEP_ARMAGEDDON"
+msgstr "Армагеддон"
+
+msgid "WEP_BEE_HIVE"
+msgstr "Пчелиный Улей"
+
+msgid "WEP_BIG_SPOON"
+msgstr "Большая Ложка"
+
+msgid "WEP_BOW"
+msgstr "Лук"
+
+msgid "WEP_SEVERED_HAND"
+msgstr "Отрубленная Рука"
+
+msgid "WEP_DARK_MAGIC"
+msgstr "Книга Тёмной Магии"
+
+msgid "WEP_DICE_GUN"
+msgstr "Удачливая Пушка"
+
+msgid "WEP_MEAT_CLUB"
+msgstr "Мясная Дубина"
+
+msgid "WEP_FLARE_GUN"
+msgstr "Сигнальная Ракетница"
+
+msgid "WEP_GRENADE_LAUNCHER"
+msgstr "Гранатомёт"
+
+msgid "WEP_JAVELIN"
+msgstr "Джавелин"
+
+msgid "WEP_ABUNDANCE_KNIFE"
+msgstr "Кинжал Изобилия"
+
+msgid "WEP_LEAFY_MACHINEGUN"
+msgstr "Лифин Пулемёт"
+
+msgid "WEP_LIL_BROTATO"
+msgstr "Крошка Бротошка"
+
+msgid "WEP_LOCUST_GUN"
+msgstr "Распрыскиватель Саранчи"
+
+msgid "WEP_EYE_GUN"
+msgstr "Глазная Пушка"
+
+msgid "WEP_MEAT_ROD"
+msgstr "Мясной Жезл"
+
+msgid "WEP_NECRORACCOON"
+msgstr "Енот Некромант"
+
+msgid "WEP_TAXES"
+msgstr "Налоги"
+
+msgid "WEP_PITCHFORK"
+msgstr "Вилы"
+
+msgid "WEP_SNIPER_RIFLE"
+msgstr "Снайперская Винтовка"
+
+msgid "WEP_ABUNDANCE_STAFF"
+msgstr "Посох Изобилия"
+
+msgid "EFFECT_SUMMON"
+msgstr "Призывает передвигающегося компаньона который стреляет снаряды наносящие {0} ({1}) урона"
+
+msgid "EFFECT_MEAT_SUM"
+msgstr "Призывает передвигающегося компаньона который стреляет снарядами которые рикошетят и наносят {0} ({1}) урона"
+
+msgid "EFFECT_MEAT_SUM_T2"
+msgstr "Призывает передвигающегося компаньона который стреляет снарядами которые рикошетят [color=#00ff00]2[/color] раза и наносят {0} ({1}) урона"
+
+msgid "EFFECT_MEAT_SUM_T3"
+msgstr "Призывает передвигающегося компаньона который стреляет снарядами которые рикошетят [color=#00ff00]3[/color] раза и наносят {0} ({1}) урона"
+
+msgid "EFFECT_MEAT_SUM_T4"
+msgstr "Призывает передвигающегося компаньона который стреляет снарядами которые рикошетят [color=#00ff00]4[/color] раза и наносят {0} ({1}) урона"
+
+msgid "EFFECT_SLASH_SUM"
+msgstr "Призывает передвигающегося компаньона который режет врагов нанося {0} ({1}) урона"
+
+msgid "EFFECT_COBRA_SUM"
+msgstr "Призывает передвигающегося компаньона который стреляет [color=#00ff00]3[/color] снарядами которые наносят {0} ({1}) урона"
+
+msgid "EFFECT_COBRA_SUM_T2"
+msgstr "Призывает передвигающегося компаньона который стреляет [color=#00ff00]4[/color] снарядами которые наносят {0} ({1}) урона"
+
+msgid "EFFECT_COBRA_SUM_T3"
+msgstr "Призывает передвигающегося компаньона который стреляет [color=#00ff00]5[/color] снарядами которые наносят {0} ({1}) урона"
+
+msgid "EFFECT_COBRA_SUM_T4"
+msgstr "Призывает передвигающегося компаньона который стреляет [color=#00ff00]6[/color] снарядами которые наносят {0} ({1}) урона"
+
+msgid "EFFECT_EXPO_SUM"
+msgstr "Призывает передвигающегося компаньона который стреляет взрывными самонаводящимися ракетами которые наносят {0} ({1}) урона"
+
+msgid "EFFECT_BRO_SUM"
+msgstr "Призывает передвигающегося компаньона который стреляет снаряды наносящие {0} ({1}) урона с [color=#00ff00]1[/color] пробиванием"
+
+msgid "EFFECT_BRO_SUM_T2"
+msgstr "Призывает передвигающегося компаньона который стреляет снаряды наносящие {0} ({1}) урона с [color=#00ff00]2[/color] пробиванием"
+
+msgid "EFFECT_BRO_SUM_T3"
+msgstr "Призывает передвигающегося компаньона который стреляет снаряды наносящие {0} ({1}) урона с [color=#00ff00]3[/color] пробиванием"
+
+msgid "EFFECT_BRO_SUM_T4"
+msgstr "Призывает передвигающегося компаньона который стреляет снаряды наносящие {0} ({1}) урона с [color=#00ff00]4[/color] пробиванием"
+
+msgid "SET_SUMMON"
+msgstr "Призывающее"
+
+msgid "WEP_BROTATO_STAFF"
+msgstr "Посох Бротошки"
+
+msgid "WEP_MEAT_INSPECTOR"
+msgstr "Мясной Инспектор"
+
+msgid "WEP_COBRA_STAFF"
+msgstr "Посох Кобры"
+
+msgid "CHAR_SUMMONER"
+msgstr "Призыватель"
+
+msgid "EFFECT_SLASH_ON_HIT"
+msgstr "Попадание во врага создаёт {0} рубящих атак наносящих {1} ({3}) урона"
+
+msgid "WEP_PALADIN_SWORD"
+msgstr "Меч Паладина"
+
+msgid "SET_SLASHING"
+msgstr "Режущее"
+
+msgid "WEP_KATANA"
+msgstr "Катана"
+
+msgid "EFFECT_SUMMONS_COOLDOWN_REDUCTION"
+msgstr "Ускоряет восстановление атаки ваших существ на {0} ({1})"
+
+msgid "WEP_SLIMY_CLUB"
+msgstr "Слизкая Дубина"
+
+msgid "DESC_DO_SUMMONER"
+msgstr "Пройти забег за Призывателя"
+
+msgid "DESC_DF_SUMMONER"
+msgstr "Пройти угрозу 5 за Призывателя"
+
+msgid "DF_NAME_SUMMONER"
+msgstr "Sacrifices Must Be Made"
+
+msgid "ITEM_SACRIFICE"
+msgstr "Жертвоприношение"
+
+msgid "WEP_BUTCHER_RELIC"
+msgstr "Реликвия Мясника"
+
+msgid "ITEM_ROBOTICS"
+msgstr "Робототехника"
+
+msgid "ITEM_SOLDIER_BOT"
+msgstr "Солдат Бот"
+
+msgid "DF_NAME_ENGINEER"
+msgstr "Nanomachines Son!"
+
+msgid "DESC_DF_ENGINEER"
+msgstr "Пройти угрозу 5 за Инженера"
+
+msgid "ITEM_CUBE_RICK"
+msgstr "Ри-Куб"
+
+msgid "ITEM_GOLDEN_CHEST"
+msgstr "Сундук Полный Золота"
+
+msgid "ITEM_ARTIFACT"
+msgstr "Древний Артефакт"
+
+msgid "WEP_POWER_HAMMER"
+msgstr "Супер Молот"
+
+msgid "WEP_CURSED_MIRROR"
+msgstr "Проклятое Зеркало"
+
+msgid "CHAR_ILLUSIONIST"
+msgstr "Иллюзионист"
+
+msgid "DESC_DO_ILLUSIONIST"
+msgstr "Пройти забег за Иллюзиониста"
+
+msgid "EFFECT_ILL_CLONE"
+msgstr "Имеет [color=#00ff00]5[/color] клонов которые копируют его оружие и характеристики"
+
+msgid "EFFECT_GHOST_SUM"
+msgstr "Призывает бродячего призрака который стреляет снарядами во всех направлениях нанося игроку [color=#f81919]{0}[/color] ({1}) урона"
+
+msgid "DF_NAME_ILLUSIONIST"
+msgstr "Мы Иллюзионист"
+
+msgid "DESC_DF_ILLUSIONIST"
+msgstr "Пройти угрозу 5 за Иллюзиониста"
+
+msgid "ITEM_YOUR_CLONE"
+msgstr "Твой Клон"
+
+msgid "EFFECT_CLONEBOT"
+msgstr "Призывает клона который перемещается около игрока копируя два ваших оружия и характеристики"
+
+msgid "EFFECT_SHADOW"
+msgstr "Каждые {0} убийств вызывает вашу темную копию которая перемещается рядом с вами и режет врагов {1} катанами. Копия зависит от характеристик игрока"
+
+msgid "WEP_SHADOW_KATANA"
+msgstr "Теневая Катана"
+
+msgid "SET_HIGH_TECH"
+msgstr "Продвинутое"
+
+msgid "EFFECT_CLONE"
+msgstr "Каждые {0} убийств вызывает вашего клона который перемещается рядом с вами и стреляет во врагов двумя пистолетами пулемётами. Копия зависит от характеристик игрока"
+
+msgid "EFFECT_CLONE_TWO"
+msgstr "Каждые {0} убийств вызывает вашего клона который перемещается рядом с вами и стреляет во врагов двумя пистолетами пулемётами [color=#00ff00]2 тира[/color]. Копия зависит от характеристик игрока"
+
+msgid "EFFECT_CLONE_THREE"
+msgstr "Каждые {0} убийств вызывает вашего клона который перемещается рядом с вами и стреляет во врагов двумя пистолетами пулемётами [color=#00ff00]3 тира[/color]. Копия зависит от характеристик игрока"
+
+msgid "EFFECT_CLONE_FOUR"
+msgstr "Каждые {0} убийств вызывает вашего клона который перемещается рядом с вами и стреляет во врагов двумя пистолетами пулемётами [color=#00ff00]4 тира[/color]. Копия зависит от характеристик игрока"
+
+msgid "WEP_CLONE_GUN"
+msgstr "Клонирующая Пушка"
+
+msgid "WEP_CONTROLLER"
+msgstr "Контроллер Дронов"
+
+msgid "WEP_INSECT_STAFF"
+msgstr "Посох Насекомых"
+
+msgid "EFFECT_FLY_SUM"
+msgstr "Вызывает передвигающегося компаньона который стреляет личинками во врагов нанося {0} ({1}) урона. Личинки создают самонаводящихся мух ([color=#00ff00]1[/color]) при попадании во врага."
+
+msgid "EFFECT_FLY_SUM_T2"
+msgstr "Вызывает передвигающегося компаньона который стреляет личинками во врагов нанося {0} ({1}) урона. Личинки создают самонаводящихся мух ([color=#00ff00]2[/color]) при попадании во врага."
+
+msgid "EFFECT_FLY_SUM_T3"
+msgstr "Вызывает передвигающегося компаньона который стреляет личинками во врагов нанося {0} ({1}) урона с [color=#00ff00]1[/color] пробиванием. Личинки создают самонаводящихся мух ([color=#00ff00]3[/color]) при попадании во врага."
+
+msgid "EFFECT_FLY_SUM_T4"
+msgstr "Вызывает передвигающегося компаньона который стреляет личинками во врагов нанося {0} ({1}) урона с [color=#00ff00]1[/color] пробиванием. Личинки создают самонаводящихся мух ([color=#00ff00]4[/color]) при попадании во врага."
+
+msgid "ITEM_SYMBIOSIS"
+msgstr "Симбиоз"
+
+msgid "ITEM_HELLFIRE"
+msgstr "Адское Пламя"
+
+msgid "ITEM_HERITAGE"
+msgstr "Наследие"
+
+msgid "ITEM_UNFORGETTABLE_BOOK"
+msgstr "Незабытая Книга"
+
+msgid "EFFECT_BUB_SOUL"
+msgstr "[color=#00ff00]+2[/color] мухи при смерти врага"
+
+msgid "ITEM_BROTATO_SOUL"
+msgstr "Душа Бротошки"
+
+msgid "WEP_BESTIARY"
+msgstr "Бестиарий"
+
+msgid "EFFECT_ILLUSIONIST_SOUL"
+msgstr "[color=#00ff00]+1[/color] клон"
+
+msgid "EFFECT_GLITCHED_SOUL"
+msgstr "SDGS73509ad???9s0-620-048E??????0G92=S0-A-2849EFDSJA2FGGVXS????"
+
+msgid "EFFECT_ROCKET_ORBITAL"
+msgstr "Создаёт компаньона который летает вокруг тебя и стреляет взрывными самонаводящимися ракетами во врагов нанося {0} ({1}) урона"
+
+msgid "EFFECT_TAGGED_BONUS"
+msgstr "Получите некоторое количество показателей к которым вы отмечены. Полученные показатели:"
+
+msgid "EFFECT_CHAR_SPECIAL"
+msgstr "Особый эффект персонажа:"
+
+msgid "STAT_LEVELS"
+msgstr "Уровень персонажа"
+
+msgid "EFFECT_DOUBLE_ILL_CLONE"
+msgstr "Имеет [color=#00ff00]11[/color] клонов которые копируют его оружие и характеристики"
+
+msgid "ITEM_BALANCE_ORB"
+msgstr "Сфера Баланса"
+
+msgid "EFFECT_PLANT_SUM"
+msgstr "Шанс [color=#00ff00]{5}%[/color] при поднятии фрукта или ящика вызвать плотоядное растение. Стреляет колючками во врагов нанося [color=#00ff00]{0}[/color] ({1}) урона но погибает через {4} секунд"
+
+msgid "CHAR_GARDENER"
+msgstr "Садовод"
+
+msgid "ITEM_HEXONIUM_ARMOR"
+msgstr "Хексониумовые Доспехи"
+
+msgid "ITEM_BROTATO_CURSE"
+msgstr "Проклятие Бротошки"
+
+msgid "EFFECT_TAGGED_DEBUFF"
+msgstr "Потеряйте некоторое количество показателей к которым вы отмечены. Потерянные показатели:"
+
+msgid "EFFECT_PLANT_SUM_T2"
+msgstr "Шанс [color=#00ff00]{5}%[/color] при поднятии фрукта или ящика вызвать плотоядное растение второго тира. Стреляет семечками во врагов нанося [color=#00ff00]{0}[/color] ({1}) урона и погибает через {4} секунд. Семечки попадая во врагов создают одно самонаводящееся растение"
+
+msgid "EFFECT_PLANT_SUM_T3"
+msgstr "Шанс [color=#00ff00]{5}%[/color] при поднятии фрукта или ящика вызвать плотоядное растение третьего тира. Кусает врагов нанося [color=#00ff00]{0}[/color] ({1}) урона но погибает через {4} секунд. Укушенные враги создают одно самонаводящееся растение"
+
+msgid "EFFECT_PLANT_SUM_T4"
+msgstr "Шанс [color=#00ff00]{5}%[/color] при поднятии фрукта или ящика вызвать плотоядное растение четвёртого тира. Стреляет тремя самонаводящимися растениями во врагов нанося [color=#00ff00]{0}[/color] ({1}) урона. Погибает через {4} секунд"
+
+msgid "EFFECT_GARDENER_SOUL"
+msgstr "[color=#00ff00]+{5}%[/color] шанс вызвать растение третьего тира"
+
+msgid "EFFECT_GARDENER_SECOND_SOUL"
+msgstr "[color=#00ff00]+{5}%[/color] шанс вызвать растение четвёртого тира"
+
+msgid "EFFECT_RETRO_ORBITAL"
+msgstr "Создаёт маленького ютубера который летает вокруг вас и стреляет во врагов жуками нанося {0} ({1}) урона"
+
+msgid "ITEM_RETROMATION_SPIRIT"
+msgstr "Retromation Младший"
+
+msgid "ITEM_VASILEKS_BLESSING"
+msgstr "Благославление Василька"
+
+msgid "DESC_DO_GARDENER"
+msgstr "Пройти забег за Садовода"
+
+msgid "ITEM_FRUIT_BATTERY"
+msgstr "Фруктовая Батарейка"
+
+msgid "EFFECT_ROBOTICS_ON_FRUIT"
+msgstr "[color=#00ff00]+{5}%[/color] шанс при поднятии фрукта или ящика вызвать робота. Стреляет пулями во врагов нанося [color=#00ff00]{0}[/color] ({1}) урона но погибает через {4} секунд"
+
+msgid "CHAR_TECHNOMAGE"
+msgstr "Техномаг"
+
+msgid "WEP_KSEROCK_HAND"
+msgstr "Рука Ксерока"
+
+msgid "DESC_DO_TECHNOMAGE"
+msgstr "Пройти забег за Техномага"
+
+msgid "WEP_GOLDEN_NUKE_LAUNCHER"
+msgstr "GNL"
+
+msgid "DF_NAME_GARDENER"
+msgstr "Мозги!"
+
+msgid "DESC_DF_GARDENER"
+msgstr "Пройти угрозу 5 за Садовода"
+
+msgid "ITEM_SKALS_TECH"
+msgstr "Технология Скала"
+
+msgid "DF_NAME_TECHNOMAGE"
+msgstr "Техномагия"
+
+msgid "DESC_DF_TECHNOMAGE"
+msgstr "Пройти угрозу 5 за Техномага"
+
+msgid "ITEM_CORPSTAR_HELMET"
+msgstr "Шлем Корпстара"
+
+msgid "EFFECT_FISHERMAN_SOUL"
+msgstr "{0} {1} за каждые 5 живых врагов [{4}]"
+
+msgid "EFFECT_MULTITASKER_SOUL"
+msgstr "[color=#00ff00]+1[/color] слот оружия"

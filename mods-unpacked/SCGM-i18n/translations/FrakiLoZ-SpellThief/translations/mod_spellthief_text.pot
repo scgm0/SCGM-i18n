@@ -1,0 +1,17 @@
+msgid ""
+msgstr ""
+
+msgid "CHARACTER_SPELL_THIEF"
+msgstr "Spell Thief"
+
+msgid "CHAL_CHARACTER_DESC"
+msgstr "Win a run with Spell Thief in any difficulty"
+
+msgid "WEAPON_SOUL_SLICER"
+msgstr "Soul Slicer"
+
+msgid "WEAPON_ARCANA_ORB"
+msgstr "Arcana Orb"
+
+msgid "ITEM_BLUE_STONE"
+msgstr "Blue Stone"

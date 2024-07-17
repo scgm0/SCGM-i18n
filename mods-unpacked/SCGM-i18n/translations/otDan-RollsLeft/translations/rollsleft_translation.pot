@@ -1,0 +1,5 @@
+msgid ""
+msgstr ""
+
+msgid "MENU_ROLLS_LEFT"
+msgstr " Rolls Left: {0}"

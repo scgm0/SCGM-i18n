@@ -1,0 +1,11 @@
+msgid ""
+msgstr ""
+
+msgid "EFFECT_INFINITE_NEGATIVE_MODIFIERS"
+msgstr "Add 1-3 negative quirks"
+
+msgid "EFFECT_INFINITE_POSITIVE_MODIFIERS"
+msgstr "Add 2-3 positive quirks"
+
+msgid "3_FREE_SHOP_1_REROLLS"
+msgstr "Gain 3 rerolls in shop 1"

@@ -1,0 +1,660 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: uk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.2\n"
+
+msgid "EFFECT_BUB_SWARM"
+msgstr "Коли ворог помирає з його трупа вилітає 4 мухи, що самонаводяться та завдають {1} ({3}) шкоди"
+
+msgid "EFFECT_SHOT_ORBITAL"
+msgstr "Створює компаньйона, який літає навколо тебе і стріляє у ворогів, завдаючи {0} ({1}) шкоди"
+
+msgid "EFFECT_SWARM"
+msgstr "Коли ворог помирає з його трупа вилітає 2 мухи, що самонаводяться та завдають {1} ({3}) шкоди"
+
+msgid "EFFECT_GLITCH_ONE"
+msgstr "Не має здібностей"
+
+msgid "EFFECT_GLITCH_TWO"
+msgstr "Може починати гру з будь-якою зброєю з Extatonion "
+
+msgid "EFFECT_REDUCE_SURVIVAL"
+msgstr "не використовується"
+
+msgid "EFFECT_INCREASE_DAMAGE"
+msgstr "не використовується"
+
+msgid "EFFECT_WORKS_BOTH"
+msgstr "Працює в обох напрямках"
+
+msgid "EFFECT_HEAL_ORBITAL"
+msgstr "Створює компаньйона який літає навколо тебе і стріляє у ворогів завдаючи {0} ({1}) шкоди з [color=#00ff00]20%[/color] вампіризму "
+
+msgid "CHAR_GLITCHED"
+msgstr "Глючний"
+
+msgid "CHAR_AGENT"
+msgstr "Агент"
+
+msgid "CHAR_BEELZEBUB"
+msgstr "Вельзевул"
+
+msgid "CHAR_BIOPUNK"
+msgstr "Біопанк"
+
+msgid "CHAR_LONG_ARMS"
+msgstr "Довгорукий"
+
+msgid "CHAR_PEASANT"
+msgstr "Селянин"
+
+msgid "ITEM_BLANKET"
+msgstr "Ковдра"
+
+msgid "ITEM_BRUNS_BADGE"
+msgstr "Значок Бруна"
+
+msgid "ITEM_EXTRAONION"
+msgstr "Додаткова цибуля"
+
+msgid "ITEM_GABRIELS_GLOVES"
+msgstr "Рукавички Габріеля"
+
+msgid "ITEM_JOHNS_COAT"
+msgstr "Куртка Джона"
+
+msgid "ITEM_MIMICRY"
+msgstr "Мімікрія"
+
+msgid "ITEM_NOT_A_RAT"
+msgstr "Нещур"
+
+msgid "ITEM_PATRIOTISM"
+msgstr "Патріотизм"
+
+msgid "ITEM_PETERS_TRAP"
+msgstr "Пастка Петра"
+
+msgid "ITEM_PLAGUE_MASK"
+msgstr "Маска чумного"
+
+msgid "ITEM_SKALS_FIREWORK"
+msgstr "Феєрверк Скала"
+
+msgid "ITEM_TIJOE_MASK"
+msgstr "Маска Тіджа"
+
+msgid "ITEM_ABADDON"
+msgstr "Абаддон"
+
+msgid "ITEM_DARK_ALTAR"
+msgstr "Темний вівтар"
+
+msgid "ITEM_CURSED_DICE"
+msgstr "Проклятий кубик"
+
+msgid "ITEM_FIREFLY"
+msgstr "Світлячок"
+
+msgid "ITEM_SAY_MY_NAME"
+msgstr "Гейзенберг"
+
+msgid "ITEM_INVESTMENTS"
+msgstr "Інвестиції"
+
+msgid "ITEM_JUNES_TAIL"
+msgstr "Хвіст Джуна"
+
+msgid "ITEM_MOD_GUIDE"
+msgstr "Керівництво з Модоробства"
+
+msgid "ITEM_OLEXA_MANTLE"
+msgstr "Мантія Olexa"
+
+msgid "ITEM_CHAOS_ORB"
+msgstr "Сфера хаосу"
+
+msgid "ITEM_ATTRACTIVE_SPIRIT"
+msgstr "Вабливий Дух"
+
+msgid "ITEM_DAMI_PLUSH"
+msgstr "Плюш Дамі"
+
+msgid "ITEM_DRONE"
+msgstr "Дрон"
+
+msgid "ITEM_SPIRIT_YELLOW"
+msgstr "Бойовий дух"
+
+msgid "ITEM_FRIENDLY_ALIEN"
+msgstr "Доброзичливий Прибулець"
+
+msgid "ITEM_INSECT_TURRET"
+msgstr "Жучина Турель"
+
+msgid "ITEM_SLASHING_TURRET"
+msgstr "Турель-Рубака"
+
+msgid "ITEM_SPIKY_BALL"
+msgstr "Шипаста сфера"
+
+msgid "ITEM_CHAINSAW_MAN"
+msgstr "Людина-бензопила"
+
+msgid "ITEM_JUST_CHAOS"
+msgstr "Хаос"
+
+msgid "ITEM_GROM_COUPON"
+msgstr "Купон Ґрома"
+
+msgid "ITEM_MONK_RELIC"
+msgstr "Реліквія Монка"
+
+msgid "ITEM_RHINO_RELIC"
+msgstr "Реліквія носорога"
+
+msgid "ITEM_SCALDING_BLANKET"
+msgstr "Ошпарювальна Ковдра"
+
+msgid "ITEM_MEGA_MUSH"
+msgstr "Ультра Гриб"
+
+msgid "ITEM_VURTFISH"
+msgstr "Вуртик"
+
+msgid "WEP_CLICK_FINGERS"
+msgstr "Пальці Клаца"
+
+msgid "ITEM_JHNCONTRACTUN"
+msgstr "Контракт Джона"
+
+msgid "ITEM_LIBRA"
+msgstr "Ваги"
+
+msgid "ITEM_MAGICAL_PLANT"
+msgstr "Чарівна рослина"
+
+msgid "ITEM_MEAT_AMULET"
+msgstr "М'ясний амулет"
+
+msgid "ITEM_OUROHANDS"
+msgstr "Уроруки"
+
+msgid "ITEM_RAD_HEART"
+msgstr "Радіоактивне серце"
+
+msgid "ITEM_SUPER_FAN"
+msgstr "Супер фан садиби"
+
+msgid "ITEM_SWARM"
+msgstr "Рій"
+
+msgid "ITEM_TANK_MUZZLE"
+msgstr "Дуло танка"
+
+msgid "WEP_KNIFE_THROWER"
+msgstr "Метальник ножів"
+
+msgid "WEP_VASILEK_BOW"
+msgstr "Лук Василька"
+
+msgid "DESC_DO_AGENT"
+msgstr "Пройти забіг за Агента"
+
+msgid "DESC_DO_BEELZE"
+msgstr "Пройти забіг за Вельзевула"
+
+msgid "DESC_DO_BIOPUNK"
+msgstr "Пройти забіг за Біопанка"
+
+msgid "DESC_DO_LONGARMS"
+msgstr "Пройти забіг за Довгорукого"
+
+msgid "DESC_DO_PEASANT"
+msgstr "Пройти забіг за Селянина"
+
+msgid "DF_NAME_AGENT"
+msgstr "Завдання виконано"
+
+msgid "DESC_DF_AGENT"
+msgstr "Пройти складність 5 за Агента"
+
+msgid "DF_NAME_BEELZE"
+msgstr "Бог сарани"
+
+msgid "DESC_DF_BEELZE"
+msgstr "Пройти складність 5 за Вельзевула"
+
+msgid "DF_NAME_BIOPUNK"
+msgstr "Вітаю"
+
+msgid "DESC_DF_BIOPUNK"
+msgstr "Пройти складність 5 за Біопанка"
+
+msgid "DF_NAME_BRAWLER"
+msgstr "Нокаут!"
+
+msgid "DESC_DF_BRAWLER"
+msgstr "Пройти складність 5 за Забіяку"
+
+msgid "DESC_DF_CHUNKY"
+msgstr "Пройти складність 5 за Кремезного"
+
+msgid "DF_NAME_LONGARMS"
+msgstr "Тато довгі руки"
+
+msgid "DESC_DF_LONGARMS"
+msgstr "Пройти складність 5 за Довгорукого"
+
+msgid "DF_NAME_PEASANT"
+msgstr "Бунт!"
+
+msgid "DESC_DF_PEASANT"
+msgstr "Пройти складність 5 за Селянина"
+
+msgid "DF_NAME_WELL_ROUNDED"
+msgstr "Справедливо і збалансовано"
+
+msgid "DESC_DF_WELL_ROUNDED"
+msgstr "Пройти складність 5 за Збалансованого"
+
+msgid "SET_BIOLOGICAL"
+msgstr "Біологічне"
+
+msgid "SET_HOMING"
+msgstr "Самонаводиться"
+
+msgid "SET_INSECT"
+msgstr "Комаха"
+
+msgid "SET_TACTICAL"
+msgstr "Тактичне"
+
+msgid "WEP_ARMAGEDDON"
+msgstr "Армагедон"
+
+msgid "WEP_BEE_HIVE"
+msgstr "Бджолиний вулик"
+
+msgid "WEP_BIG_SPOON"
+msgstr "Велика Ложка"
+
+msgid "WEP_BOW"
+msgstr "Лук"
+
+msgid "WEP_SEVERED_HAND"
+msgstr "Відрубана рука"
+
+msgid "WEP_DARK_MAGIC"
+msgstr "Книга темної магії"
+
+msgid "WEP_DICE_GUN"
+msgstr "Щасливий пістолет"
+
+msgid "WEP_MEAT_CLUB"
+msgstr "М'ясна дубина"
+
+msgid "WEP_FLARE_GUN"
+msgstr "Сигнальна ракетниця"
+
+msgid "WEP_GRENADE_LAUNCHER"
+msgstr "Гранатометник"
+
+msgid "WEP_JAVELIN"
+msgstr "Джавелін"
+
+msgid "WEP_ABUNDANCE_KNIFE"
+msgstr "Кинджал достатку"
+
+msgid "WEP_LEAFY_MACHINEGUN"
+msgstr "Кулемет Ліфі"
+
+msgid "WEP_LIL_BROTATO"
+msgstr "Крихітка бротопля"
+
+msgid "WEP_LOCUST_GUN"
+msgstr "Розповсюджувач сарани"
+
+msgid "WEP_EYE_GUN"
+msgstr "Очний пістолет"
+
+msgid "WEP_MEAT_ROD"
+msgstr "М'ясний жезл"
+
+msgid "WEP_NECRORACCOON"
+msgstr "Єнот-некромант"
+
+msgid "WEP_TAXES"
+msgstr "Податки"
+
+msgid "WEP_PITCHFORK"
+msgstr "Вила"
+
+msgid "WEP_SNIPER_RIFLE"
+msgstr "Снайперська гвинтівка"
+
+msgid "WEP_ABUNDANCE_STAFF"
+msgstr "Посох достатку"
+
+msgid "EFFECT_SUMMON"
+msgstr "Закликає пішого компаньйона, який стріляє снарядами що завдають {0} ({1}) шкоди"
+
+msgid "EFFECT_MEAT_SUM"
+msgstr "Закликає пішого компаньйона, який стріляє снарядами, що рикошетять та завдають {0} ({1}) шкоди"
+
+msgid "EFFECT_MEAT_SUM_T2"
+msgstr "Закликає пішого компаньйона, який стріляє снарядами, що рикошетять [color=#00ff00]2[/color] рази та завдають {0} ({1}) шкоди"
+
+msgid "EFFECT_MEAT_SUM_T3"
+msgstr "Закликає пішого компаньйона, який стріляє снарядами, що рикошетять [color=#00ff00]3[/color] рази та завдають {0} ({1}) шкоди"
+
+msgid "EFFECT_MEAT_SUM_T4"
+msgstr "Закликає пішого компаньйона, який стріляє снарядами, що рикошетять [color=#00ff00]4[/color] рази та завдають {0} ({1}) шкоди"
+
+msgid "EFFECT_SLASH_SUM"
+msgstr "Закликає пішого компаньйона, який ріже ворогів завдаючи {0} ({1}) шкоди"
+
+msgid "EFFECT_COBRA_SUM"
+msgstr "Закликає пішого компаньйона, який стріляє [color=#00ff00]3[/color] снарядами, що завдають {0} ({1}) шкоди"
+
+msgid "EFFECT_COBRA_SUM_T2"
+msgstr "Закликає пішого компаньйона, який стріляє [color=#00ff00]4[/color] снарядами, що завдають {0} ({1}) шкоди"
+
+msgid "EFFECT_COBRA_SUM_T3"
+msgstr "Закликає пішого компаньйона, який стріляє [color=#00ff00]5[/color] снарядами, що завдають {0} ({1}) шкоди"
+
+msgid "EFFECT_COBRA_SUM_T4"
+msgstr "Закликає пішого компаньйона, який стріляє [color=#00ff00]6[/color] снарядами, що завдають {0} ({1}) шкоди"
+
+msgid "EFFECT_EXPO_SUM"
+msgstr "Закликає пішого компаньйона, який стріляє вибуховими ракетами, що самонаводяться та завдають {0} ({1}) шкоди"
+
+msgid "EFFECT_BRO_SUM"
+msgstr "Закликає пішого компаньйона, який стріляє снарядами що завдають {0} ({1}) шкоди з [color=#00ff00]1[/color] пробиванням"
+
+msgid "EFFECT_BRO_SUM_T2"
+msgstr "Закликає пішого компаньйона, який стріляє снарядами що завдають {0} ({1}) шкоди з [color=#00ff00]2[/color] пробиванням"
+
+msgid "EFFECT_BRO_SUM_T3"
+msgstr "Закликає пішого компаньйона, який стріляє снарядами що завдають {0} ({1}) шкоди з [color=#00ff00]3[/color] пробиванням"
+
+msgid "EFFECT_BRO_SUM_T4"
+msgstr "Закликає пішого компаньйона, який стріляє снарядами що завдають {0} ({1}) шкоди з [color=#00ff00]4[/color] пробиванням"
+
+msgid "SET_SUMMON"
+msgstr "Закликаюче"
+
+msgid "WEP_BROTATO_STAFF"
+msgstr "Посох бротоплі"
+
+msgid "WEP_MEAT_INSPECTOR"
+msgstr "М'ясний інспектор"
+
+msgid "WEP_COBRA_STAFF"
+msgstr "Посох кобри"
+
+msgid "CHAR_SUMMONER"
+msgstr "Закликач"
+
+msgid "EFFECT_SLASH_ON_HIT"
+msgstr "Попадання у ворога створює {0} ріжучих атак, що завдають {1} ({3}) шкоди"
+
+msgid "WEP_PALADIN_SWORD"
+msgstr "Меч паладина"
+
+msgid "SET_SLASHING"
+msgstr "Ріжуче"
+
+msgid "WEP_KATANA"
+msgstr "Катана"
+
+msgid "EFFECT_SUMMONS_COOLDOWN_REDUCTION"
+msgstr "Скорочує час між пострілами ваших міньйонів на {0} ({1})"
+
+msgid "WEP_SLIMY_CLUB"
+msgstr "Слизька дубина"
+
+msgid "DESC_DO_SUMMONER"
+msgstr "Пройти забіг за Закликача"
+
+msgid "DESC_DF_SUMMONER"
+msgstr "Пройти складність 5 за Закликача"
+
+msgid "DF_NAME_SUMMONER"
+msgstr "Sacrifices Must Be Made"
+
+msgid "ITEM_SACRIFICE"
+msgstr "Жертвопринесення"
+
+msgid "WEP_BUTCHER_RELIC"
+msgstr "Реліквія м'ясника"
+
+msgid "ITEM_ROBOTICS"
+msgstr "Робототехніка"
+
+msgid "ITEM_SOLDIER_BOT"
+msgstr "Бот-солдат"
+
+msgid "DF_NAME_ENGINEER"
+msgstr "Наномашини, синку!"
+
+msgid "DESC_DF_ENGINEER"
+msgstr "Пройти складність 5 за Інженера"
+
+msgid "ITEM_CUBE_RICK"
+msgstr "Ри-Куб"
+
+msgid "ITEM_GOLDEN_CHEST"
+msgstr "Скриня повна золота"
+
+msgid "ITEM_ARTIFACT"
+msgstr "Стародавній артефакт"
+
+msgid "WEP_POWER_HAMMER"
+msgstr "Супер Кувалда"
+
+msgid "WEP_CURSED_MIRROR"
+msgstr "Прокляте дзеркало"
+
+msgid "CHAR_ILLUSIONIST"
+msgstr "Ілюзіоніст"
+
+msgid "DESC_DO_ILLUSIONIST"
+msgstr "Пройти забіг за Ілюзіоніста"
+
+msgid "EFFECT_ILL_CLONE"
+msgstr "Має [color=#00ff00]5[/color] клонів які копіюють його зброю та характеристики"
+
+msgid "EFFECT_GHOST_SUM"
+msgstr "Закликає мандрівного привиду який стріляє снарядами у всіх напрямках завдаючи гравцю [color=#f81919]{0}[/color] ({1}) шкоди"
+
+msgid "DF_NAME_ILLUSIONIST"
+msgstr "Ми Ілюзіоніст"
+
+msgid "DESC_DF_ILLUSIONIST"
+msgstr "Пройти складність 5 за Ілюзіоніста"
+
+msgid "ITEM_YOUR_CLONE"
+msgstr "Твій клон"
+
+msgid "EFFECT_CLONEBOT"
+msgstr "Закликає клона який переміщається навколо гравця копіюючи дві ваші зброї та характеристики"
+
+msgid "EFFECT_SHADOW"
+msgstr "Кожні {0} вбивств викликає вашу темну копію яка переміщається поряд з вами і ріже ворогів {1} катанами. Копія залежить від характеристик гравця"
+
+msgid "WEP_SHADOW_KATANA"
+msgstr "Тіньова катана"
+
+msgid "SET_HIGH_TECH"
+msgstr "Просунуте"
+
+msgid "EFFECT_CLONE"
+msgstr "Кожні {0} вбивств викликає вашого клона який переміщається поряд з вами і стріляє у ворогів двома пістолетами кулеметами. Копія залежить від характеристик гравця"
+
+msgid "EFFECT_CLONE_TWO"
+msgstr "Кожні {0} вбивств викликає вашого клона який переміщається поряд з вами і стріляє у ворогів двома пістолетами кулеметами [color=#00ff00]2 тира[/color]. Копія залежить від характеристик гравця"
+
+msgid "EFFECT_CLONE_THREE"
+msgstr "Кожні {0} вбивств викликає вашого клона який переміщається поряд з вами і стріляє у ворогів двома пістолетами кулеметами [color=#00ff00]3 тира[/color]. Копія залежить від характеристик гравця"
+
+msgid "EFFECT_CLONE_FOUR"
+msgstr "Кожні {0} вбивств викликає вашого клона який переміщається поряд з вами і стріляє у ворогів двома пістолетами кулеметами [color=#00ff00]4 тира[/color]. Копія залежить від характеристик гравця"
+
+msgid "WEP_CLONE_GUN"
+msgstr "Клонуючий пістолет"
+
+msgid "WEP_CONTROLLER"
+msgstr "Контролер дронів"
+
+msgid "WEP_INSECT_STAFF"
+msgstr "Посох Комах"
+
+msgid "EFFECT_FLY_SUM"
+msgstr "Викликає пішого компаньйона який стріляє личинками у ворогів завдаючи {0} ({1}) шкоди. Личинки створюють самонавідних мух ([color=#00ff00]1[/color]) при попаданні у ворога."
+
+msgid "EFFECT_FLY_SUM_T2"
+msgstr "Викликає пішого компаньйона який стріляє личинками у ворогів завдаючи {0} ({1}) шкоди. Личинки створюють самонавідних мух ([color=#00ff00]2[/color]) при попаданні у ворога."
+
+msgid "EFFECT_FLY_SUM_T3"
+msgstr "Викликає пішого компаньйона який стріляє личинками у ворогів завдаючи {0} ({1}) шкоди з [color=#00ff00]1[/color] пробиванням. Личинки створюють самонавідних мух ([color=#00ff00]3[/color]) при попаданні у ворога."
+
+msgid "EFFECT_FLY_SUM_T4"
+msgstr "Викликає пішого компаньйона який стріляє личинками у ворогів завдаючи {0} ({1}) шкоди з [color=#00ff00]1[/color] пробиванням. Личинки створюють самонавідних мух ([color=#00ff00]4[/color]) при попаданні у ворога."
+
+msgid "ITEM_SYMBIOSIS"
+msgstr "Симбіоз"
+
+msgid "ITEM_HELLFIRE"
+msgstr "Пекельне полум'я"
+
+msgid "ITEM_HERITAGE"
+msgstr "Спадщина"
+
+msgid "ITEM_UNFORGETTABLE_BOOK"
+msgstr "Незабутня Книга"
+
+msgid "EFFECT_BUB_SOUL"
+msgstr "[color=#00ff00]+2[/color] мухи при смерті ворога"
+
+msgid "ITEM_BROTATO_SOUL"
+msgstr "Душа бротоплі"
+
+msgid "WEP_BESTIARY"
+msgstr "Бестіарій"
+
+msgid "EFFECT_ILLUSIONIST_SOUL"
+msgstr "[color=#00ff00]+1[/color] клон"
+
+msgid "EFFECT_GLITCHED_SOUL"
+msgstr "SDGS73509ad???9s0-620-048E??????0G92=S0-A-2849EFDSJA2FGGVXS????"
+
+msgid "EFFECT_ROCKET_ORBITAL"
+msgstr "Створює компаньйона, який літає навколо тебе і стріляє вибуховими ракетами, що самонаводяться та завдають {0} ({1}) шкоди"
+
+msgid "EFFECT_TAGGED_BONUS"
+msgstr "Отримайте кілька показників до яких ви відзначені. Отримані показники:"
+
+msgid "EFFECT_CHAR_SPECIAL"
+msgstr "Особливий ефект персонажа:"
+
+msgid "STAT_LEVELS"
+msgstr "Рівень персонажа"
+
+msgid "EFFECT_DOUBLE_ILL_CLONE"
+msgstr "Має [color=#00ff00]11[/color] клонів які копіюють його зброю та характеристики"
+
+msgid "ITEM_BALANCE_ORB"
+msgstr "Сфера Балансу"
+
+msgid "EFFECT_PLANT_SUM"
+msgstr "Шанс [color=#00ff00]{5}%[/color] при піднятті фрукта або ящика викликати м'ясоїдну рослину. Стріляє колючками у ворогів завдаючи [color=#00ff00]{0}[/color] ({1}) шкоди але гине через {4} секунд"
+
+msgid "CHAR_GARDENER"
+msgstr "Садівник"
+
+msgid "ITEM_HEXONIUM_ARMOR"
+msgstr "Хексоніумові Обладунки"
+
+msgid "ITEM_BROTATO_CURSE"
+msgstr "Прокляття Бротоплі"
+
+msgid "EFFECT_TAGGED_DEBUFF"
+msgstr "Втратьте деяку кількість показників до яких ви відзначені. Втрачені показники:"
+
+msgid "EFFECT_PLANT_SUM_T2"
+msgstr "Шанс [color=#00ff00]{5}%[/color] при піднятті фрукта або ящика викликати м'ясоїдну рослину другого тиру. Стріляє насінням у ворогів завдаючи [color=#00ff00]{0}[/color] ({1}) шкоди але гине через {4} секунд. Насіння потрапляючи у ворогів створюють одну самонаводну рослину"
+
+msgid "EFFECT_PLANT_SUM_T3"
+msgstr "Шанс [color=#00ff00]{5}%[/color] при піднятті фрукта або ящика викликати м'ясоїдну рослину третього тиру. Кусає ворогів завдаючи [color=#00ff00]{0}[/color] ({1}) шкоди але гине через {4} секунд. Укушені вороги створюють одну самонаводну рослину"
+
+msgid "EFFECT_PLANT_SUM_T4"
+msgstr "Шанс [color=#00ff00]{5}%[/color] при піднятті фрукта або ящика викликати м'ясоїдну рослину четвертого тиру. Стріляє трьома самонаводящимися рослинами у ворогів завдаючи [color=#00ff00]{0}[/color] ({1}) шкоди. Гине через {4} секунд"
+
+msgid "EFFECT_GARDENER_SOUL"
+msgstr "[color=#00ff00]+{5}%[/color] шанс викликати рослину третього тиру"
+
+msgid "EFFECT_GARDENER_SECOND_SOUL"
+msgstr "[color=#00ff00]+{5}%[/color] шанс викликати рослину четвертого тиру"
+
+msgid "EFFECT_RETRO_ORBITAL"
+msgstr "Створює маленького ютубера який літає навколо вас і стріляє у ворогів жуками завдаючи {0} ({1}) шкоди"
+
+msgid "ITEM_RETROMATION_SPIRIT"
+msgstr "Retromation молодший"
+
+msgid "ITEM_VASILEKS_BLESSING"
+msgstr "Благословення Василька"
+
+msgid "DESC_DO_GARDENER"
+msgstr "Пройти забіг за Садівника"
+
+msgid "ITEM_FRUIT_BATTERY"
+msgstr "Фруктова Батарейка"
+
+msgid "EFFECT_ROBOTICS_ON_FRUIT"
+msgstr "[color=#00ff00]+{5}%[/color] шанс при піднятті фрукта або ящика викликати робота. Стріляє кулями у ворогів завдаючи [color=#00ff00]{0}[/color] ({1}) шкоди але гине через {4} секунд"
+
+msgid "CHAR_TECHNOMAGE"
+msgstr "Техномаг"
+
+msgid "WEP_KSEROCK_HAND"
+msgstr "Рука Ксерока"
+
+msgid "DESC_DO_TECHNOMAGE"
+msgstr "Пройти забіг за Техномага"
+
+msgid "WEP_GOLDEN_NUKE_LAUNCHER"
+msgstr "GNL"
+
+msgid "DF_NAME_GARDENER"
+msgstr "Мізки!"
+
+msgid "DESC_DF_GARDENER"
+msgstr "Пройти складність 5 за Садівника"
+
+msgid "ITEM_SKALS_TECH"
+msgstr "Технологія Скала"
+
+msgid "DF_NAME_TECHNOMAGE"
+msgstr "Техномагія"
+
+msgid "DESC_DF_TECHNOMAGE"
+msgstr "Пройти складність 5 за Техномага"
+
+msgid "ITEM_CORPSTAR_HELMET"
+msgstr "Шолом Корпстара"
+
+msgid "EFFECT_FISHERMAN_SOUL"
+msgstr "{0} {1} за кожні 5 живих ворогів [{4}]"
+
+msgid "EFFECT_MULTITASKER_SOUL"
+msgstr "[color=#00ff00]+1[/color] слот зброї"

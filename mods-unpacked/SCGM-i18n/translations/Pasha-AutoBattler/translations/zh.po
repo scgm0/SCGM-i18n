@@ -1,0 +1,84 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.2\n"
+
+msgid "ENABLE_AUTOBATTLER"
+msgstr "启用自动战斗"
+
+msgid "ENABLE_SMOOTHING"
+msgstr "启用相机平滑"
+
+msgid "SMOOTHING_SPEED"
+msgstr "相机平滑速度"
+
+msgid "ITEM_WEIGHT"
+msgstr "物品权重"
+
+msgid "PROJECTILE_WEIGHT"
+msgstr "射弹权重"
+
+msgid "TREE_WEIGHT"
+msgstr "树木权重"
+
+msgid "BOSS_WEIGHT"
+msgstr "Boss权重"
+
+msgid "BUMPER_WEIGHT"
+msgstr "防撞墙权重"
+
+msgid "EGG_WEIGHT"
+msgstr "蛋权重"
+
+msgid "BUMPER_DISTANCE"
+msgstr "防撞墙距离"
+
+msgid "ENABLE_AI_VISUALS"
+msgstr "启用 AI 可视化"
+
+msgid "ENABLE_AI_MARKER"
+msgstr "显示 AI 标记"
+
+msgid "ENABLE_AUTOBATTLER_TOOLTIP"
+msgstr "启用自动战斗。激活后，机器人将在波次期间控制游戏，试图与敌人和射弹保持最佳距离。"
+
+msgid "ENABLE_AI_VISUALS_TOOLTIP"
+msgstr "启用 AI 的可视化功能。激活后，机器人关心的元素将以更大的高亮显示，对于机器人更关心的对象，高亮会更明显。"
+
+msgid "ENABLE_AI_MARKER_TOOLTIP"
+msgstr "当 AI 处于活动状态时，在玩家旁边显示一个标记。当你想要强调人类无法控制游戏的事实时，这适用于流媒体和视频录制。"
+
+msgid "ENABLE_SMOOTHING_TOOLTIP"
+msgstr "启用相机平滑。许多人发现 AI 突然的移动很难跟随。平滑功能可以防止相机被硬性切换到玩家的位置。"
+
+msgid "SMOOTHING_SPEED_TOOLTIP"
+msgstr "平滑相机跟随玩家的速率。"
+
+msgid "ITEM_WEIGHT_TOOLTIP"
+msgstr "控制机器人被金币拾取物吸引的强度。"
+
+msgid "PROJECTILE_WEIGHT_TOOLTIP"
+msgstr "控制机器人被敌方射弹击退的强度。"
+
+msgid "TREE_WEIGHT_TOOLTIP"
+msgstr "控制机器人被树木吸引的强度。"
+
+msgid "BOSS_WEIGHT_TOOLTIP"
+msgstr "控制机器人被首领吸引的强度。"
+
+msgid "BUMPER_WEIGHT_TOOLTIP"
+msgstr "控制机器人被墙壁排斥的强度。"
+
+msgid "EGG_WEIGHT_TOOLTIP"
+msgstr "控制机器人被未孵化的蛋吸引的强度。"
+
+msgid "BUMPER_DISTANCE_TOOLTIP"
+msgstr "控制机器人试图保持的与墙壁的最小距离。"

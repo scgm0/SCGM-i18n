@@ -1,7 +1,7 @@
-key,en,zh
-CHARACTER_UNDEAD_SAMURAI,Undead Samurai,亡灵武士
-ITEM_DECAYING_BODY,Decaying Body,腐烂躯体
-WEAPON_GREATBOW,Great Bow,巨弓
-WEAPON_NAGINATA,Naginata,薙刀
-WEAPON_KATANA,Katana,武士刀
-EFFECT_FRAKILOZ_DECAYING_BODY,Spawns 10 flies orbiting around player dealing {0} ({1}) contact damages.,产生10只围绕玩家的苍蝇，造成{0}（{1}）的接触伤害
+key,en
+CHARACTER_UNDEAD_SAMURAI,Undead Samurai
+ITEM_DECAYING_BODY,Decaying Body
+WEAPON_GREATBOW,Great Bow
+WEAPON_NAGINATA,Naginata
+WEAPON_KATANA,Katana
+EFFECT_FRAKILOZ_DECAYING_BODY,Spawns 10 flies orbiting around player dealing {0} ({1}) contact damages.

@@ -1,0 +1,5 @@
+msgid ""
+msgstr ""
+
+msgid "OPMOD_KILL_STAT_INCREASE"
+msgstr "With each kill, grows in strenght. And the enemy grows in number."
