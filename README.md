@@ -26,4 +26,5 @@
 - MincedMeatMole-WeaponSettings
 
 github: https://github.com/scgm0/SCGM-i18n
+
 csv2pot: https://github.com/scgm0/csv2pot
