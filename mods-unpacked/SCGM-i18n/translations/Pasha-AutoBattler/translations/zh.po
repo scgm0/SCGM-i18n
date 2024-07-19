@@ -9,7 +9,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 3.4.2\n"
+"X-Generator: Poedit 3.4.4\n"
 
 msgid "ENABLE_AUTOBATTLER"
 msgstr "启用自动战斗"
@@ -54,10 +54,10 @@ msgid "ENABLE_AI_VISUALS_TOOLTIP"
 msgstr "启用 AI 的可视化功能。激活后，机器人关心的元素将以更大的高亮显示，对于机器人更关心的对象，高亮会更明显。"
 
 msgid "ENABLE_AI_MARKER_TOOLTIP"
-msgstr "当 AI 处于活动状态时，在玩家旁边显示一个标记。当你想要强调人类无法控制游戏的事实时，这适用于流媒体和视频录制。"
+msgstr "当 AI 激活时，在玩家旁边显示一个标记。该功能主要用于在视频直播和录制过程中，表明当前游戏不是由真人操控。"
 
 msgid "ENABLE_SMOOTHING_TOOLTIP"
-msgstr "启用相机平滑。许多人发现 AI 突然的移动很难跟随。平滑功能可以防止相机被硬性切换到玩家的位置。"
+msgstr "启用相机平滑。许多人发现当 AI 突然移动时，镜头很难跟随。该平滑功能可以防止相机被硬性切换到玩家的位置。"
 
 msgid "SMOOTHING_SPEED_TOOLTIP"
 msgstr "平滑相机跟随玩家的速率。"
@@ -66,7 +66,7 @@ msgid "ITEM_WEIGHT_TOOLTIP"
 msgstr "控制机器人被金币拾取物吸引的强度。"
 
 msgid "PROJECTILE_WEIGHT_TOOLTIP"
-msgstr "控制机器人被敌方射弹击退的强度。"
+msgstr "控制机器人躲避敌方射弹的强度。"
 
 msgid "TREE_WEIGHT_TOOLTIP"
 msgstr "控制机器人被树木吸引的强度。"
@@ -75,7 +75,7 @@ msgid "BOSS_WEIGHT_TOOLTIP"
 msgstr "控制机器人被首领吸引的强度。"
 
 msgid "BUMPER_WEIGHT_TOOLTIP"
-msgstr "控制机器人被墙壁排斥的强度。"
+msgstr "控制机器人躲避墙壁的强度。"
 
 msgid "EGG_WEIGHT_TOOLTIP"
 msgstr "控制机器人被未孵化的蛋吸引的强度。"

@@ -9,13 +9,13 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 3.4.2\n"
+"X-Generator: Poedit 3.4.4\n"
 
 msgid "ENDLESS_HARVESTING_GROWTH"
 msgstr "收获增长（无尽）（-5=原版）"
 
 msgid "ENDLESS_PIGGY_EFFICACY"
-msgstr "小猪的功效（无尽）（0=原版）"
+msgstr "猪猪存钱罐的功效（无尽）（0=原版）"
 
 msgid "ENDLESS_SCALING"
 msgstr "无尽的敌人规模（100=原版）"
