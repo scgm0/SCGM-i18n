@@ -1,0 +1,23 @@
+keys,en,de
+KANA_BFX_GAIN_STAT_FOR_CONSUMABLE_COLLECTED,Get {0} {1} for each {2} collected,Erhalte {0} {1} für jede gesammelte {2}
+KANA_BFX_GAIN_TEMP_STAT_FOR_CONSUMABLE_COLLECTED,Get {0} {1} for each {2} collected until the end of the wave,Erhalte {0} {1} für jede gesammelte {2} bis zum Ende der Runde
+KANA_BFX_PORT_TO_OPPOSITE_SIDE,If you hit a wall you get ported to the opposite side,Du wirst auf die andere Seite teleopiert wenn du eine Wand berührst.
+KANA_BFX_TAKE_DAMAGE_ON_TURRET_COLLISION,You take damage when colliding with a turret,Du nimmst schaden wenn du ein Geschützturm berrührst
+KANA_BFX_TURRET_FOLLOW_PLAYER,Your Turrets follow behind you in a line as you move,Deine Geschüttztürme folgen dir in einer Line wenn du dich bewegst
+KANA_BFX_TURRET_COLLIDE_WITH_PLAYER,Your Turrets block your movement,Deine Geschütztürme blockieren dir den Weg
+KANA_BFX_CANT_STOP_MOVING,You can't stop moving,Du kannst nicht aufhören dich zu bewegen
+KANA_BFX_MOVE_FOUR_WAYS,You can only move in 4 directions,Du kannst dich nur in 4 Richtungen bewegen
+KANA_BFX_SPAWN_CONSUMABLE_RANDOM_POSITION,A {1} spawns at a random location on the map. When you pick it up a new one spawns.,Ein {1} spawned random auf dem Spielfeld. Wenn du es aufsammelst spawned ein neues.
+KANA_BFX_CLEAR_CONSUMABLE_ON_WAVE_END,,
+KANA_BFX_CONSUMABLE_TURRETS,On collecting {0} a turret spawns at this location,Beim aufsallen von {0} spawned ein turret an dieser Position.
+KANA_BFX_TEMP_STAT_FOR_TIME_AMOUNT,Get {0} for {1} seconds,Erhalte {0} für {1} seconds
+KANA_BFX_TEMP_EFFECT_FOR_TIME_AMOUNT,Get {0} for {1} seconds,Erhalte {0} für {1} seconds
+KANA_BFX_SPAWN_ITEM_BOX_ON_KILL,Small chance to drop a crate when an enemy dies,"Kleine Chance, eine Kiste zu erhalten, wenn ein Gegner stirbt"
+KANA_BFX_ADD_RANDOM_EFFECT_ON_CONSUMABLE_COLLECTED,Picks one of the following effects if {0} is collected: {1},Wählt einen der folgenden Effekte aus wenn {0} gesammelt wurde: {1}
+KANA_BFX_SPAWN_ENEMY_ON_CONSUMABLE_COLLECTED,Spawns an enemy if {0} is collected,"Spawnt einen Gegner, wenn {0} gesammelt wird"
+KANA_BFX_SPAWN_PROJECTILE_GRID_ON_CONSUMABLE_COLLECTED,Spawns a grid of projectiles if {0} is collected,"Spawnt ein Gitter aus Projektilen, wenn {0} gesammelt wird"
+KANA_BFX_SPAWN_PROJECTILE_IN_FRONT_OF_PLAYER_ON_CONSUMABLE_COLLECTED,Spawns a projectile in front if {0} is collected,"Erzeugt ein Projektil vor dir, wenn {0} eingesammelt wird"
+KANA_BFX_REPLACE_CONSUMABLE,Replace {0} with {1},Tauscht {0} mit {1}
+KANA_BFX_ALWAYS_ATTRACTED_CONSUMABLE,Always attract {0},Zieht immer {0} an
+KANA_BFX_REMOVE_EFFECT_AFTER_CONSUMABLE_COLLECTED,Remove the following effects after collecting {0}: {1},Die folgenden Effekte werden entfernt nach dem {0} eingesammelt wurde: {1}
+CONSUMABLE_ITEM_BOX,Crate,Kiste

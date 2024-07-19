@@ -24,6 +24,7 @@
 - Pasha-AutoBattler
 - bene_labs-WeaponDpsDisplay
 - MincedMeatMole-WeaponSettings
+- KANA-BFX
 
 github: https://github.com/scgm0/SCGM-i18n
 

@@ -1,0 +1,79 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.4\n"
+
+msgid "KANA_BFX_GAIN_STAT_FOR_CONSUMABLE_COLLECTED"
+msgstr "每收集一个 {2} ，获得 {0} {1} "
+
+msgid "KANA_BFX_GAIN_TEMP_STAT_FOR_CONSUMABLE_COLLECTED"
+msgstr "每收集一个 {2} ，获得 {0} {1} 直到波次结束"
+
+msgid "KANA_BFX_PORT_TO_OPPOSITE_SIDE"
+msgstr "当你撞向墙面时，会传送至地图的另一侧"
+
+msgid "KANA_BFX_TAKE_DAMAGE_ON_TURRET_COLLISION"
+msgstr "当你撞上炮塔时会受到伤害"
+
+msgid "KANA_BFX_TURRET_FOLLOW_PLAYER"
+msgstr "当你移动时，你的炮塔会排成一列跟在你身后"
+
+msgid "KANA_BFX_TURRET_COLLIDE_WITH_PLAYER"
+msgstr "你的炮塔会阻碍你移动"
+
+msgid "KANA_BFX_CANT_STOP_MOVING"
+msgstr "你无法停止移动"
+
+msgid "KANA_BFX_MOVE_FOUR_WAYS"
+msgstr "你只能朝上下左右四个方向移动"
+
+msgid "KANA_BFX_SPAWN_CONSUMABLE_RANDOM_POSITION"
+msgstr ""
+"一个 {1} 会随机生成在地图上的一个位置。当你捡起它以后，会再生成一个新的。"
+
+msgid "KANA_BFX_CLEAR_CONSUMABLE_ON_WAVE_END"
+msgstr ""
+
+msgid "KANA_BFX_CONSUMABLE_TURRETS"
+msgstr "收集到 {0} 时会在原地生成一个炮塔"
+
+msgid "KANA_BFX_TEMP_STAT_FOR_TIME_AMOUNT"
+msgstr " {1} 秒内获得 {0} 效果"
+
+msgid "KANA_BFX_TEMP_EFFECT_FOR_TIME_AMOUNT"
+msgstr " {1} 秒内获得 {0} 效果"
+
+msgid "KANA_BFX_SPAWN_ITEM_BOX_ON_KILL"
+msgstr "当敌人死亡时，有小概率掉落一个战利品箱"
+
+msgid "KANA_BFX_ADD_RANDOM_EFFECT_ON_CONSUMABLE_COLLECTED"
+msgstr "每当获得一个 {0} 时，触发以下效果中的一个: {1}"
+
+msgid "KANA_BFX_SPAWN_ENEMY_ON_CONSUMABLE_COLLECTED"
+msgstr "当获得一个 {0} 时，生成一个敌人"
+
+msgid "KANA_BFX_SPAWN_PROJECTILE_GRID_ON_CONSUMABLE_COLLECTED"
+msgstr "当获得一个 {0} 时，生成一个投射物网络"
+
+msgid "KANA_BFX_SPAWN_PROJECTILE_IN_FRONT_OF_PLAYER_ON_CONSUMABLE_COLLECTED"
+msgstr "当获得一个 {0} 时，在前方生成一个投射物"
+
+msgid "KANA_BFX_REPLACE_CONSUMABLE"
+msgstr "将 {0} 替换为 {1}"
+
+msgid "KANA_BFX_ALWAYS_ATTRACTED_CONSUMABLE"
+msgstr "自动拾取 {0}"
+
+msgid "KANA_BFX_REMOVE_EFFECT_AFTER_CONSUMABLE_COLLECTED"
+msgstr "获得 {0} 后，去除以下效果: {1}"
+
+msgid "CONSUMABLE_ITEM_BOX"
+msgstr "战利品箱"
