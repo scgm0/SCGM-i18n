@@ -1,0 +1,60 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.4\n"
+
+msgid "CHARACTER_JUNKER"
+msgstr "拾荒者"
+
+msgid "CHARACTER_JUNKER_D5"
+msgstr "拾荒者（危险5）"
+
+msgid "CHAL_CHARACTER_JUNKER_D5"
+msgstr "使用拾荒者赢一场危险5比赛"
+
+msgid "COMMON_ITEMS"
+msgstr "普通道具"
+
+msgid "EFFECT_GAIN_STAT_FOR_EVERY_TIERED_ITEM"
+msgstr "每拥有 {2} 件不同的 {3} 级道具，获得{0} {1} [{4}]"
+
+msgid "EFFECT_GAIN_STAT_FOR_EVERY_STAT_OF_YOUR"
+msgstr "{3} 每拥有 {2} 件，获得 {0} {1} [{4}]"
+
+msgid "EFFECT_STATS_PER_TIER"
+msgstr "所有 {1} 级道具的效果提升 {0}"
+
+msgid "EFFECT_DOWNGRADE_RANDOM_ITEM"
+msgstr "每个波次降级 {0} 件道具"
+
+msgid "EFFECT_NULL_DOWNGRADE_INFO"
+msgstr "每次降级道具的同时，获得一件你已有的 {0} 级道具"
+
+msgid "EFFECT_RANDOM_ITEM_AT_END_OF_WAVE"
+msgstr "波次结束时，获得 {1} 个随机的 {2} 级道具并失去 {0} 个材料"
+
+msgid "ITEMS_GAINED"
+msgstr "已获得道具： {0}"
+
+msgid "ITEMS_GAINED_LAST_WAVE"
+msgstr "上一波次获得的道具： {0}"
+
+msgid "ITEM_STREET_STALL"
+msgstr "路边摊"
+
+msgid "MOST_STACKED_ITEM"
+msgstr "拥有数量最多的道具"
+
+msgid "WEAPON_CLASS_JUNK"
+msgstr "垃圾"
+
+msgid "WEAPON_TRASH_BAG"
+msgstr "垃圾袋"

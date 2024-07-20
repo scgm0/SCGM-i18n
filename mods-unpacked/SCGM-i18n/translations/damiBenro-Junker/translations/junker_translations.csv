@@ -1,0 +1,17 @@
+keys,en,fr,ru
+CHARACTER_JUNKER,Junker,Déchétarien,Мусорщик
+CHARACTER_JUNKER_D5,Junker (Danger 5),Déchétarien (Danger 5),Мусорщик (угроза 5)
+CHAL_CHARACTER_JUNKER_D5,Win a run with Junker (Danger 5),Gagnez une partie avec Déchétarien (Danger 5),Победите за персонажа по имени Мусорщик (угроза 5).
+COMMON_ITEMS,Common item,Objet commun,Обычный предмет
+EFFECT_GAIN_STAT_FOR_EVERY_TIERED_ITEM,{0} {1} for every {2} different Tier {3} item [{4}],{0} {1} pour tous les {2} objets différents de grade {3} [{4}],{0} {1} за каждый отличающийся обычный предмет [{4}]
+EFFECT_GAIN_STAT_FOR_EVERY_STAT_OF_YOUR,{0} {1} per {2} of your {3} [{4}],{0} {1} pour chaque copie de votre {3} [{4}],{0} {1} за каждый предмет имеющий наибольшее количество копий [{4}]
+EFFECT_STATS_PER_TIER,All modifications from Tier {1} items increased by {0},{0} aux modificateurs des objets de grade {1},модификации от обычных предметов повышены на {0}
+EFFECT_DOWNGRADE_RANDOM_ITEM,"Every wave, downgrade {0} items","À chaque vague, déclassez {0} objets","Каждую волну понижается уровень {0} предметов"
+EFFECT_NULL_DOWNGRADE_INFO,"Downgrading also grants you a Tier {0} item you already own","Déclasser un objet vous octroie aussi un de vos objets de grade {0}","При понижении уровня вы получаете копию случайного обычного предмета"
+EFFECT_RANDOM_ITEM_AT_END_OF_WAVE,"At the end of a wave, obtain {1} random Tier {2} item and lose {0} materials","À la fin de chaque vague, obtenez {1} objet aléatoire de grade {2} contre {0} matériaux","в конце каждой волны выдаётся {1} случайный обычный предмет и теряются {0} материалов"
+ITEMS_GAINED,Items gained: {0},Objets obtenus: {0},Предметов получено: {0}
+ITEMS_GAINED_LAST_WAVE,Items gained last wave: {0},Objets obtenus à cette vague: {0},Предметов получено за последнюю волну: {0}
+ITEM_STREET_STALL,Street stall,Vendeur de rue,Уличный Киоск
+MOST_STACKED_ITEM,most stacked item,objet préféré,самый большой по количеству предмет
+WEAPON_CLASS_JUNK,Junk,Déchet,Хлам
+WEAPON_TRASH_BAG,Trash bag,Sac poubelle,Мешок с Мусором

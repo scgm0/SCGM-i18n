@@ -1,0 +1,41 @@
+msgid ""
+msgstr ""
+
+msgid "SCYTHE_TEXT"
+msgstr "Well-Rounded's Property"
+
+msgid "stat_sharpness"
+msgstr "Sharpness"
+
+msgid "STAT_SHARPNESS"
+msgstr "[color=#00ff00]+[/color]{0}[color=#00ff00][/color] Sharpness"
+
+msgid "INFO_POS_STAT_SHARPNESS"
+msgstr "Scaling stat for Assassin mod's weapons, normally from the Sharp weapon set"
+
+msgid "ANCIENT_JOURNAL_TEXT"
+msgstr "Page 49 *All other pages seem to be rippen off* Wow, time runs so fast... I mean, why did this all started at the first place? This was a normal society, we had each other like a family, we protected the most fragile members from the aliens, and we were happy... but suddenly all changed... for any reason, One-arm began to behave quite weirdly, they were angrier, stronger, and its eyes looked like trying to find something... kill something... that's when alarms ringed, and everyone was in fear of when was the next attack having place... yesterday, I got a message in a card from One-arm, I think it's time for me to end this madness"
+
+msgid "ONE_ARMS_CORPSE_TEXT"
+msgstr "'He's-- I-- I ki-- what-- I-- what... what now...? I don't-- I- I no I... help--'"
+
+msgid "ALIEN_PET_TEXT"
+msgstr "'Aww, look at 'em, his name's Timmy, he's so cu--' *Kick* 'DEATH WHAT THE F@#% IS WRONG WITH YOU?!?!'"
+
+msgid "BROKEN_GLASSES_TEXT"
+msgstr "I.... don't know if I want them anymore...."
+
+msgid "STARTING_WITH_HOCKEY_MASK"
+msgstr "You start with {0} Hockey Mask"
+
+msgid "CURSED_LETTER_TEXT"
+msgstr "Day 50: I'm scared... I don't know what to do anymore... I've been hiding too much time but knowing what happened to Well-Rounded... I don't feel safe anymore. I'm starting to loose my sanity, I- I don't know to what point I have to get for having my heart disappearing between mourning and blood. I think that trying to survive from aliens without killing them is not an option anymore... I'll have to break my promise... and KILL"
+
+msgid "TERRORIST_EFFECT"
+msgstr "{0}% chance to make the enemies explode on hit"
+
+msgid "LOGBOOK_TEXT"
+msgstr "Day 1 in the uknown planet. I'm here with my partner, and the two bodyguards. We were suposed to be going on a journey to find a satelite, when we crashed into this hostile place. There's a lot of different aggressive aliens, the bodyguards seem to be doing a pretty good job protecting us. One of them is kinda crazy, he thinks he's the Death itself, the other one... he's average. It almost looks like they know eachother well, because they are an amazing duo. Please, notify to the central, and send help to the coordinates I handed over."
+
+msgid "SOUL_SACRIFICE_TEXT"
+msgstr "'Are you sure you want to do this? Once you do it, there is no way back...' 'I'll... I'll do it. Someone has to stop that monster.'"

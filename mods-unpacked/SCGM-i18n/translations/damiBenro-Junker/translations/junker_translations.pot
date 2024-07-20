@@ -1,0 +1,50 @@
+msgid ""
+msgstr ""
+
+msgid "CHARACTER_JUNKER"
+msgstr "Junker"
+
+msgid "CHARACTER_JUNKER_D5"
+msgstr "Junker (Danger 5)"
+
+msgid "CHAL_CHARACTER_JUNKER_D5"
+msgstr "Win a run with Junker (Danger 5)"
+
+msgid "COMMON_ITEMS"
+msgstr "Common item"
+
+msgid "EFFECT_GAIN_STAT_FOR_EVERY_TIERED_ITEM"
+msgstr "{0} {1} for every {2} different Tier {3} item [{4}]"
+
+msgid "EFFECT_GAIN_STAT_FOR_EVERY_STAT_OF_YOUR"
+msgstr "{0} {1} per {2} of your {3} [{4}]"
+
+msgid "EFFECT_STATS_PER_TIER"
+msgstr "All modifications from Tier {1} items increased by {0}"
+
+msgid "EFFECT_DOWNGRADE_RANDOM_ITEM"
+msgstr "Every wave, downgrade {0} items"
+
+msgid "EFFECT_NULL_DOWNGRADE_INFO"
+msgstr "Downgrading also grants you a Tier {0} item you already own"
+
+msgid "EFFECT_RANDOM_ITEM_AT_END_OF_WAVE"
+msgstr "At the end of a wave, obtain {1} random Tier {2} item and lose {0} materials"
+
+msgid "ITEMS_GAINED"
+msgstr "Items gained: {0}"
+
+msgid "ITEMS_GAINED_LAST_WAVE"
+msgstr "Items gained last wave: {0}"
+
+msgid "ITEM_STREET_STALL"
+msgstr "Street stall"
+
+msgid "MOST_STACKED_ITEM"
+msgstr "most stacked item"
+
+msgid "WEAPON_CLASS_JUNK"
+msgstr "Junk"
+
+msgid "WEAPON_TRASH_BAG"
+msgstr "Trash bag"
