@@ -25,6 +25,8 @@
 - bene_labs-WeaponDpsDisplay
 - MincedMeatMole-WeaponSettings
 - KANA-BFX
+- damiBenro-Junker
+- JuneFurrs-Assassin
 
 github: https://github.com/scgm0/SCGM-i18n
 
