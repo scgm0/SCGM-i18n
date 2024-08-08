@@ -1,33 +1,38 @@
-keys,en
-CHARACTER_COLLECTOR,Collector
-CHARACTER_DWARF,Dwarf
-CHARACTER_PERFECTIONIST,Perfectionist
-CHARACTER_STUCK,Stuck
-CHARACTER_CATATO,Catato
-CHARACTER_MAGNETIC,Magnetic
-CHARACTER_DUAL_WIELDER,Dual Wielder
-CHARACTER_BUILDER,Builder
-GMO_COMBINES CHARACTER_COLLECTOR,Starts with Collector
-GMO_COMBINES CHARACTER_DWARF,Starts with Dwarf
-GMO_COMBINES CHARACTER_PERFECTIONIST,Starts with Perfectionist
-GMO_COMBINES CHARACTER_STUCK,Starts with Stuck
-GMO_COMBINES CHARACTER_CATATO,Starts with Catato
-GMO_COMBINES CHARACTER_MAGNETIC,Starts with Magnetic
-GMO_COMBINES CHARACTER_DUAL_WIELDER,Starts with Dual Wielder
-GMO_COMBINES CHARACTER_BUILDER,Starts with Builder
-ITEM_MONOCLE,Monocle
-ITEM_FORTRESS,Fortress
-ITEM_BULLET_TIME,Bullet Time
-ITEM_BELL_COLLAR,Bell Collar
-ITEM_FISHING_MAGNET,Fishing Magnet
-ITEM_DOMINO,Domino
-ITEM_BLUEPRINTS,Blueprints
-WEAPON_HOOKSHOT,Hookshot
-EFFECT_RECYCLING_LOSSES,Gain [color=red]99%[/color] less materials from recyling it
-EFFECT_STUCK_NULLIFIED,[color=#00ff00]5[/color] hits taken are nullified every wave
-EFFECT_CATATO_NULLIFIED,[color=#00ff00]8[/color] hits taken are nullified every wave
-EFFECT_TWO_WEAPON_SLOT_LIMIT,You can only equip two weapons at a time
-EFFECT_GAIN_ENEMIES_FOR_EVERY_STAT,+{0}% {1} for every {2} {3} you have [+{4}%]
-EFFECT_NO_HARVESTING_GROWTH,{0}% Harvesting growth between waves
-EFFECT_GAIN_ALL_DAMAGE_TYPES,All damage types are linked ([color=#00ff00]2 Melee Damage[/color] = [color=#00ff00]1 Ranged Damage[/color] = [color=#00ff00]1 Elemental Damage[/color] = [color=#00ff00]2 Engineering[/color])
-EFFECT_CAP_MAP_SIZE,Map Size stops increasing at Wave 20
+keys,en,ru
+CHARACTER_COLLECTOR,Collector,Коллекционер
+CHARACTER_DWARF,Dwarf,Дворф
+CHARACTER_PERFECTIONIST,Perfectionist,Перфекционист
+CHARACTER_STUCK,Stuck,Приклеенный
+CHARACTER_CATATO,Catato,Котошка
+CHARACTER_MAGNETIC,Magnetic,Магнитный
+CHARACTER_DUAL_WIELDER,Dual Wielder,Двойной мастер
+CHARACTER_BUILDER,Builder,Строитель
+CHARACTER_HERO,Hero,Герой
+CHARACTER_REGAL,Regal,Величайший
+GMO_COMBINES CHARACTER_COLLECTOR,Starts with Collector,Вы начинаете забег за персонажа Коллекционер
+GMO_COMBINES CHARACTER_DWARF,Starts with Dwarf,Вы начинаете забег за персонажа Дворф
+GMO_COMBINES CHARACTER_PERFECTIONIST,Starts with Perfectionist,Вы начинаете забег за персонажа Перфекционист 
+GMO_COMBINES CHARACTER_STUCK,Starts with Stuck,Вы начинаете забег за персонажа Приклеенный
+GMO_COMBINES CHARACTER_CATATO,Starts with Catato,Вы начинаете забег за персонажа Котошка
+GMO_COMBINES CHARACTER_MAGNETIC,Starts with Magnetic,Вы начинаете забег за персонажа Манитный
+GMO_COMBINES CHARACTER_DUAL_WIELDER,Starts with Dual Wielder,Вы начинаете забег за персонажа Двойной мастер
+GMO_COMBINES CHARACTER_BUILDER,Starts with Builder,Вы начинаете забег за персонажа Строитель
+GMO_COMBINES CHARACTER_HERO,Starts with Hero,Вы начинаете забег за персонажа Герой
+GMO_COMBINES CHARACTER_REGAL,Starts with Regal,Вы начинаете забег за персонажа Величайший
+ITEM_MONOCLE,Monocle,Монокль
+ITEM_FORTRESS,Fortress,Крепость
+ITEM_BULLET_TIME,Bullet Time,Буллет-тайм
+ITEM_BELL_COLLAR,Bell Collar,Звонкий ошейник
+ITEM_FISHING_MAGNET,Fishing Magnet,Рыболовный магнит
+ITEM_DOMINO,Domino,Домино
+ITEM_BLUEPRINTS,Blueprints,Чертёж
+ITEM_BRAVE_HEART,Brave Heart,Храброе сердце
+ITEM_SLY_RACCOON,Sly Raccoon,
+WEAPON_HOOKSHOT,Hookshot,Крюк-кошка
+WEAPON_MIDAS_SCEPTER,Midas' Scepter,Посох Мидаса
+EFFECT_RECYCLING_LOSSES,Gain [color=red]99%[/color] less materials from recyling items,Даёт на [color=red]99%[/color] меньше материалов при разбирании предметов
+EFFECT_STUCK_NULLIFIED,[color=#00ff00]5[/color] hits taken are nullified every wave,[color=#00ff00]5[/color] полученных ударов обнуляются каждую волну
+EFFECT_CATATO_NULLIFIED,[color=#00ff00]8[/color] hits taken are nullified every wave,[color=#00ff00]8[/color] полученных ударов обнуляются каждую волну
+EFFECT_TWO_WEAPON_SLOT_LIMIT,You can only equip two weapons at a time,Одновременно можно использовать только 2 оружия
+EFFECT_NO_HARVESTING_GROWTH,{0}% Harvesting growth between waves,{0}% к параметру сбор в конце волны
+EFFECT_CAP_MAP_SIZE,Map Size stops increasing at Wave 20,Карта перестаёт расти с волной 20

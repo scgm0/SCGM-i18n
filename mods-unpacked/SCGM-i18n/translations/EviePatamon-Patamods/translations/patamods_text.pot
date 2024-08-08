@@ -25,6 +25,12 @@ msgstr "Dual Wielder"
 msgid "CHARACTER_BUILDER"
 msgstr "Builder"
 
+msgid "CHARACTER_HERO"
+msgstr "Hero"
+
+msgid "CHARACTER_REGAL"
+msgstr "Regal"
+
 msgid "GMO_COMBINES CHARACTER_COLLECTOR"
 msgstr "Starts with Collector"
 
@@ -49,6 +55,12 @@ msgstr "Starts with Dual Wielder"
 msgid "GMO_COMBINES CHARACTER_BUILDER"
 msgstr "Starts with Builder"
 
+msgid "GMO_COMBINES CHARACTER_HERO"
+msgstr "Starts with Hero"
+
+msgid "GMO_COMBINES CHARACTER_REGAL"
+msgstr "Starts with Regal"
+
 msgid "ITEM_MONOCLE"
 msgstr "Monocle"
 
@@ -70,11 +82,20 @@ msgstr "Domino"
 msgid "ITEM_BLUEPRINTS"
 msgstr "Blueprints"
 
+msgid "ITEM_BRAVE_HEART"
+msgstr "Brave Heart"
+
+msgid "ITEM_SLY_RACCOON"
+msgstr "Sly Raccoon"
+
 msgid "WEAPON_HOOKSHOT"
 msgstr "Hookshot"
 
+msgid "WEAPON_MIDAS_SCEPTER"
+msgstr "Midas' Scepter"
+
 msgid "EFFECT_RECYCLING_LOSSES"
-msgstr "Gain [color=red]99%[/color] less materials from recyling it"
+msgstr "Gain [color=red]99%[/color] less materials from recyling items"
 
 msgid "EFFECT_STUCK_NULLIFIED"
 msgstr "[color=#00ff00]5[/color] hits taken are nullified every wave"
@@ -85,14 +106,8 @@ msgstr "[color=#00ff00]8[/color] hits taken are nullified every wave"
 msgid "EFFECT_TWO_WEAPON_SLOT_LIMIT"
 msgstr "You can only equip two weapons at a time"
 
-msgid "EFFECT_GAIN_ENEMIES_FOR_EVERY_STAT"
-msgstr "+{0}% {1} for every {2} {3} you have [+{4}%]"
-
 msgid "EFFECT_NO_HARVESTING_GROWTH"
 msgstr "{0}% Harvesting growth between waves"
-
-msgid "EFFECT_GAIN_ALL_DAMAGE_TYPES"
-msgstr "All damage types are linked ([color=#00ff00]2 Melee Damage[/color] = [color=#00ff00]1 Ranged Damage[/color] = [color=#00ff00]1 Elemental Damage[/color] = [color=#00ff00]2 Engineering[/color])"
 
 msgid "EFFECT_CAP_MAP_SIZE"
 msgstr "Map Size stops increasing at Wave 20"

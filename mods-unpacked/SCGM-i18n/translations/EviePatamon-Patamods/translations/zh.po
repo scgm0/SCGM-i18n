@@ -35,6 +35,12 @@ msgstr "双枪手"
 msgid "CHARACTER_BUILDER"
 msgstr "建筑商"
 
+msgid "CHARACTER_HERO"
+msgstr "英雄"
+
+msgid "CHARACTER_REGAL"
+msgstr "皇室"
+
 msgid "GMO_COMBINES CHARACTER_COLLECTOR"
 msgstr "从收藏家开始"
 
@@ -59,6 +65,12 @@ msgstr "从双枪手开始"
 msgid "GMO_COMBINES CHARACTER_BUILDER"
 msgstr "从建筑商开始"
 
+msgid "GMO_COMBINES CHARACTER_HERO"
+msgstr "从英雄开始"
+
+msgid "GMO_COMBINES CHARACTER_REGAL"
+msgstr "从皇室开始"
+
 msgid "ITEM_MONOCLE"
 msgstr "单片眼镜"
 
@@ -80,8 +92,17 @@ msgstr "多米诺骨牌"
 msgid "ITEM_BLUEPRINTS"
 msgstr "蓝图"
 
+msgid "ITEM_BRAVE_HEART"
+msgstr "勇敢的心"
+
+msgid "ITEM_SLY_RACCOON"
+msgstr "狡诈的浣熊"
+
 msgid "WEAPON_HOOKSHOT"
 msgstr "钩爪"
+
+msgid "WEAPON_MIDAS_SCEPTER"
+msgstr "弥达斯的权杖"
 
 msgid "EFFECT_RECYCLING_LOSSES"
 msgstr "回收道具时额外获得[color=red]-99%[/color]个材料"
@@ -95,14 +116,8 @@ msgstr "在每一波敌袭中会抵消受到的[color=#00ff00]前8次[/color]攻
 msgid "EFFECT_TWO_WEAPON_SLOT_LIMIT"
 msgstr "同时只能装备两把武器"
 
-msgid "EFFECT_GAIN_ENEMIES_FOR_EVERY_STAT"
-msgstr "你每有{2}{3}就有+{0}%{1}[+{4}%]"
-
 msgid "EFFECT_NO_HARVESTING_GROWTH"
-msgstr "敌袭结束时，收获提高{0}% "
-
-msgid "EFFECT_GAIN_ALL_DAMAGE_TYPES"
-msgstr "所有的伤害类型都会相互影响（[color=#00ff00]2近战伤害[/color] = [color=#00ff00]1远程伤害[/color] = [color=#00ff00]1元素伤害[/color] = [color=#00ff00]2工程学[/color]）"
+msgstr "敌袭结束时，收获提高{0}%"
 
 msgid "EFFECT_CAP_MAP_SIZE"
 msgstr "第20波敌袭后地图尺寸停止增长"

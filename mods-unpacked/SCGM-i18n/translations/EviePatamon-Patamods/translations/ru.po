@@ -1,0 +1,123 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.2\n"
+
+msgid "CHARACTER_COLLECTOR"
+msgstr "Коллекционер"
+
+msgid "CHARACTER_DWARF"
+msgstr "Дворф"
+
+msgid "CHARACTER_PERFECTIONIST"
+msgstr "Перфекционист"
+
+msgid "CHARACTER_STUCK"
+msgstr "Приклеенный"
+
+msgid "CHARACTER_CATATO"
+msgstr "Котошка"
+
+msgid "CHARACTER_MAGNETIC"
+msgstr "Магнитный"
+
+msgid "CHARACTER_DUAL_WIELDER"
+msgstr "Двойной мастер"
+
+msgid "CHARACTER_BUILDER"
+msgstr "Строитель"
+
+msgid "CHARACTER_HERO"
+msgstr "Герой"
+
+msgid "CHARACTER_REGAL"
+msgstr "Величайший"
+
+msgid "GMO_COMBINES CHARACTER_COLLECTOR"
+msgstr "Вы начинаете забег за персонажа Коллекционер"
+
+msgid "GMO_COMBINES CHARACTER_DWARF"
+msgstr "Вы начинаете забег за персонажа Дворф"
+
+msgid "GMO_COMBINES CHARACTER_PERFECTIONIST"
+msgstr "Вы начинаете забег за персонажа Перфекционист "
+
+msgid "GMO_COMBINES CHARACTER_STUCK"
+msgstr "Вы начинаете забег за персонажа Приклеенный"
+
+msgid "GMO_COMBINES CHARACTER_CATATO"
+msgstr "Вы начинаете забег за персонажа Котошка"
+
+msgid "GMO_COMBINES CHARACTER_MAGNETIC"
+msgstr "Вы начинаете забег за персонажа Манитный"
+
+msgid "GMO_COMBINES CHARACTER_DUAL_WIELDER"
+msgstr "Вы начинаете забег за персонажа Двойной мастер"
+
+msgid "GMO_COMBINES CHARACTER_BUILDER"
+msgstr "Вы начинаете забег за персонажа Строитель"
+
+msgid "GMO_COMBINES CHARACTER_HERO"
+msgstr "Вы начинаете забег за персонажа Герой"
+
+msgid "GMO_COMBINES CHARACTER_REGAL"
+msgstr "Вы начинаете забег за персонажа Величайший"
+
+msgid "ITEM_MONOCLE"
+msgstr "Монокль"
+
+msgid "ITEM_FORTRESS"
+msgstr "Крепость"
+
+msgid "ITEM_BULLET_TIME"
+msgstr "Буллет-тайм"
+
+msgid "ITEM_BELL_COLLAR"
+msgstr "Звонкий ошейник"
+
+msgid "ITEM_FISHING_MAGNET"
+msgstr "Рыболовный магнит"
+
+msgid "ITEM_DOMINO"
+msgstr "Домино"
+
+msgid "ITEM_BLUEPRINTS"
+msgstr "Чертёж"
+
+msgid "ITEM_BRAVE_HEART"
+msgstr "Храброе сердце"
+
+msgid "ITEM_SLY_RACCOON"
+msgstr ""
+
+msgid "WEAPON_HOOKSHOT"
+msgstr "Крюк-кошка"
+
+msgid "WEAPON_MIDAS_SCEPTER"
+msgstr "Посох Мидаса"
+
+msgid "EFFECT_RECYCLING_LOSSES"
+msgstr "Даёт на [color=red]99%[/color] меньше материалов при разбирании предметов"
+
+msgid "EFFECT_STUCK_NULLIFIED"
+msgstr "[color=#00ff00]5[/color] полученных ударов обнуляются каждую волну"
+
+msgid "EFFECT_CATATO_NULLIFIED"
+msgstr "[color=#00ff00]8[/color] полученных ударов обнуляются каждую волну"
+
+msgid "EFFECT_TWO_WEAPON_SLOT_LIMIT"
+msgstr "Одновременно можно использовать только 2 оружия"
+
+msgid "EFFECT_NO_HARVESTING_GROWTH"
+msgstr "{0}% к параметру сбор в конце волны"
+
+msgid "EFFECT_CAP_MAP_SIZE"
+msgstr "Карта перестаёт расти с волной 20"
