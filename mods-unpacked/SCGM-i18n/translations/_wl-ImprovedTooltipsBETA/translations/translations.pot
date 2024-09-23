@@ -1,0 +1,8 @@
+msgid ""
+msgstr ""
+
+msgid "_WL_HC2_TEXT"
+msgstr "Total XP/Materials"
+
+msgid "_WL_REROLL_CHANCE_TITLE"
+msgstr "Reroll Rarities"

@@ -27,6 +27,7 @@
 - KANA-BFX
 - damiBenro-Junker
 - JuneFurrs-Assassin
+- _wl-ImprovedTooltipsBETA
 
 github: https://github.com/scgm0/SCGM-i18n
 
