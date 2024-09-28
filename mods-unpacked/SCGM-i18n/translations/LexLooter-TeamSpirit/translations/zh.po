@@ -1,0 +1,84 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.2\n"
+
+msgid "ITEM_TEAM_ALCHEMY_SET"
+msgstr "炼金套装"
+
+msgid "ITEM_TEAM_BAG_OF_TREATS"
+msgstr "一袋点心"
+
+msgid "ITEM_TEAM_BERSERKER_RING"
+msgstr "狂战士戒指"
+
+msgid "ITEM_TEAM_BIG_VIALS"
+msgstr "大药瓶"
+
+msgid "ITEM_TEAM_BLOOD_BATH"
+msgstr "血浴"
+
+msgid "ITEM_TEAM_CLOAK_AND_DAGGER"
+msgstr "斗篷与匕首"
+
+msgid "ITEM_TEAM_COMMUNITY_BANK"
+msgstr "社区银行"
+
+msgid "ITEM_TEAM_EXTRA_KIDNEY"
+msgstr "额外的肾脏"
+
+msgid "ITEM_TEAM_FIRECRACKER"
+msgstr "爆竹"
+
+msgid "ITEM_TEAM_FLASK_OF_STONE"
+msgstr "石头精魄瓶"
+
+msgid "ITEM_TEAM_GUARDIAN_SHIELD"
+msgstr "守护者之盾"
+
+msgid "ITEM_TEAM_MANA_SHIELD"
+msgstr "法力护盾"
+
+msgid "ITEM_TEAM_PRAYER_BOOK"
+msgstr "祈祷书"
+
+msgid "ITEM_TEAM_RALLYING_FLAG"
+msgstr "集结旗"
+
+msgid "ITEM_TEAM_ROGUE_PURSE"
+msgstr "流氓钱包"
+
+msgid "ITEM_TEAM_SHADOW_MASK"
+msgstr "暗影面具"
+
+msgid "ITEM_TEAM_SHROUDED_HOOD"
+msgstr "遮光头罩"
+
+msgid "ITEM_TEAM_SMOKE_BOMB"
+msgstr "烟雾弹"
+
+msgid "ITEM_TEAM_TONIC_OF_LIFE"
+msgstr "生命滋补品"
+
+msgid "ITEM_TEAM_WATCH_TOWER"
+msgstr "瞭望塔"
+
+msgid "ITEM_TEAM_WHEEL_OF_FORTUNE"
+msgstr "命运之轮"
+
+msgid "ITEM_TEAM_PROTECTIVE_TALISMAN"
+msgstr "护身符"
+
+msgid "ITEM_TEAM_HEALTH_POTION"
+msgstr "生命药水"
+
+msgid "ITEM_TEAM_ENERGY_BREW"
+msgstr "酿造能量"
