@@ -1,0 +1,27 @@
+keys,en
+EFFECT_GAIN_PCT_GOLD_START_WAVE_OTHERS,{0} of the average of other players' materials combined at the start of wave (stops working at wave {1})
+EFFECT_GAIN_STAT_END_OF_WAVE_ALL,{0} {1} at the end of a wave to all players
+EFFECT_GAIN_STAT_END_OF_WAVE_ALL_OTHERS,{0} {1} at the end of a wave to all other players
+EFFECT_GAIN_STAT_END_OF_WAVE_RANDOM,{0} {1} at the end of a wave to a random player
+EFFECT_GAIN_STAT_FOR_EVERY_PLAYER,{0} {1} for every player [{4}]
+EFFECT_GAIN_STAT_FOR_EVERY_PLAYER_STAT,{0} {1} for every {2} {3} all players have combined [{4}]
+EFFECT_GAIN_STAT_FOR_EVERY_PLAYER_STAT_EXC,{0} {1} for every {2} {3} all other players have combined [{4}]
+EFFECT_GAIN_STAT_ALL,{0} {1} to all players
+EFFECT_GAIN_STAT_ALL_OTHERS,{0} {1} to all other players
+EFFECT_GAIN_STAT_ON_VARIABLE,{0} {1} to the player that currently has the {3} {2}
+EFFECT_GAIN_STAT_RANDOM,{0} {1} to a random player
+EFFECT_GAIN_STAT_RANDOM_OTHER,{0} {1} to a random other player
+EFFECT_LIMITED_CONSUMABLE_HEALING_FLAT,"{0} dose. When any player is missing {2} of their max HP, heal them for {4} HP"
+EFFECT_LIMITED_CONSUMABLE_HEALING_PERCENT,"{0} dose. When any player is missing {2} of their max HP, heal {4} of their max HP"
+EFFECT_LIMITED_CONSUMABLE_STAT,"{0} dose. When any player is missing {2} of their max HP, {4} {3} for the rest of the wave"
+EFFECT_POTION_BONUS_DOSES,All your potions {0} dose
+EFFECT_POTION_EFFICIENCY,Effect of drinking a potion {0}
+EFFECT_PROTECTIVE_TALISMAN,"\n[color=red]Single use![/color]\nWhen any player is missing {2} of their max HP, heal all players for {4} HP"
+EFFECT_SHARE_STATS_PLAYER_RANDOM,{0} {1} for ever {2} {3} to a random player [{4}]
+EFFECT_TEMP_STATS_START_OF_WAVE_VARIABLE,{0} {1} to the player with the {3} {2}
+EFFECT_TEMP_STATS_PER_INTERVAL_RANDOM,{0} {1} every {2} seconds to a random player until the end of the wave
+LOSE_HP_PER_SECOND,HP loss per second
+HIGHEST,Highest
+LOWEST,Lowest
+LIMITED_USED,Doses used: {0}
+PROTECTION_USED,Used: {0}
