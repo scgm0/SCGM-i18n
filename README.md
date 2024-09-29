@@ -28,6 +28,8 @@
 - damiBenro-Junker
 - JuneFurrs-Assassin
 - _wl-ImprovedTooltipsBETA
+- LexLooter-TeamSpirit
+- LexLooter-UtilityDBL
 
 github: https://github.com/scgm0/SCGM-i18n
 
