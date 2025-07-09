@@ -1,0 +1,30 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.2\n"
+
+msgid "MORE_UI_WHATS_NEW_MODE"
+msgstr "新增功能Mod"
+
+msgid "MORE_UI_OPTIONS"
+msgstr "更多界面选项"
+
+msgid "MORE_UI_SHOW_WAVE_INCREASE"
+msgstr "显示波次开始后的相对属性差值"
+
+msgid "MORE_UI_ALIGN_RIGHT"
+msgstr "界面右对齐"
+
+msgid "MORE_UI_SHOW_TREES"
+msgstr "存活树木及可刷出数量范围 (最小-最大)"
+
+msgid "MORE_UI_USE_REVAMPED_ICONS"
+msgstr "使用单色重塑图标"

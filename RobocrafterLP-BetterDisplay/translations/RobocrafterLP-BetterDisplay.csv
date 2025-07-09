@@ -1,0 +1,11 @@
+keys,en,ru,zh
+DEX_MODE,Dex Mode,Режим Dex,Dex模式
+SHOP_XP,Shop Xp bar,O,商店经验条
+SORT_OPTIONS_BUTTON,Sort options,Сортировка,排序选项
+MENU_CANCEL,Cancel,Отмена,取消
+SORT_BY_QUANTITY_BUTTON,Sort by quantity,Сортировать по количеству,按数量排序
+SORT_BY_RARITY_BUTTON,Sort by rarity,Сортировать по редкости,按稀有度排序
+SORT_BY_DEFAULT_BUTTON,Default sort,Обычная сортировка,默认排序
+USE_CUSTOM_MATERIAL_COLOR,Use Custom Material Color,,使用自定义材料颜色
+CUSTOM_MATERIAL_COLOR,Custom Material Color,,自定义材料颜色
+MATERIAL_TRANSPARENCY,Material Transparency,,材料透明度

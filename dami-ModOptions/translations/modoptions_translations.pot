@@ -1,0 +1,8 @@
+msgid ""
+msgstr ""
+
+msgid "MENU_MOD_CONFIG"
+msgstr "Configuration des mods"
+
+msgid "BUTTON_CHANGE"
+msgstr "Changer"
