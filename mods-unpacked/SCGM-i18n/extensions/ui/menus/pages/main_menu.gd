@@ -6,9 +6,10 @@ func init() -> void:
 	.init()
 	if tran_i == 1:
 		var dir = Directory.new()
-		for i in ModLoader.mod_data:
-			var mod: ModData = ModLoader.mod_data[i]
-			var translation_path = ModLoader.UNPACKED_DIR + "SCGM-i18n/translations/" + mod.dir_name
+		for dir_name in ModLoaderStore.mod_data:
+			var mod: ModData = ModLoaderStore.mod_data[dir_name]
+			ModLoaderLog.info(mod, "i18n")
+			var translation_path = ModLoaderMod.get_unpacked_dir() + "SCGM-i18n/translations/" + dir_name
 			if dir.dir_exists(translation_path):
 				prints("尝试加载翻译:", translation_path)
 				_auto_load_translation(translation_path + "/")
@@ -21,7 +22,7 @@ func _auto_load_translation(trans_dir, recursion = true) -> void:
 		var file_name: String = dir.get_next()
 		while file_name != "":
 			if !dir.current_is_dir() and file_name.get_extension() == "po":
-				ModLoader.add_translation_from_resource(trans_dir + file_name)
+				ModLoaderMod.add_translation_from_resource(trans_dir + file_name)
 				tran_i += 1
 			elif recursion == true:
 				if file_name != "." and file_name != "..":
