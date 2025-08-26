@@ -1,0 +1,42 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.2\n"
+
+msgid "DEX_MODE"
+msgstr "Dex模式"
+
+msgid "SHOP_XP"
+msgstr "商店经验条"
+
+msgid "SORT_OPTIONS_BUTTON"
+msgstr "排序选项"
+
+msgid "MENU_CANCEL"
+msgstr "取消"
+
+msgid "SORT_BY_QUANTITY_BUTTON"
+msgstr "按数量排序"
+
+msgid "SORT_BY_RARITY_BUTTON"
+msgstr "按稀有度排序"
+
+msgid "SORT_BY_DEFAULT_BUTTON"
+msgstr "默认排序"
+
+msgid "USE_CUSTOM_MATERIAL_COLOR"
+msgstr "使用自定义材料颜色"
+
+msgid "CUSTOM_MATERIAL_COLOR"
+msgstr "自定义材料颜色"
+
+msgid "MATERIAL_TRANSPARENCY"
+msgstr "材料透明度"
