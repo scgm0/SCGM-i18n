@@ -22,7 +22,7 @@ func _auto_load_translation(trans_dir, recursion = true) -> void:
 		var file_name: String = dir.get_next()
 		while file_name != "":
 			if !dir.current_is_dir() and file_name.get_extension() == "po":
-				ModLoaderMod.add_translation_from_resource(trans_dir + file_name)
+				ModLoaderMod.add_translation(trans_dir + file_name)
 				tran_i += 1
 			elif recursion == true:
 				if file_name != "." and file_name != "..":
