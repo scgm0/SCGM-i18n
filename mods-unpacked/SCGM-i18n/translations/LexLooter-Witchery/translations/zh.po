@@ -1,0 +1,238 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.2\n"
+
+msgid "CHARACTER_LEX_ACCURSED"
+msgstr "被诅咒者"
+
+msgid "CHARACTER_LEX_BLOOD_WITCH"
+msgstr "血巫"
+
+msgid "CHARACTER_LEX_DEATH"
+msgstr "死亡收割者"
+
+msgid "CHARACTER_LEX_DREAMER"
+msgstr "梦境行者"
+
+msgid "CHARACTER_LEX_NAYSAYER"
+msgstr "否定者"
+
+msgid "CHARACTER_LEX_PLAGUE_CHARMER"
+msgstr "疫病魅惑者"
+
+msgid "CHARACTER_LEX_SKELETON"
+msgstr "骷髅仔"
+
+msgid "CHARACTER_LEX_TEMPLAR"
+msgstr "圣殿骑士"
+
+msgid "CHARACTER_LEX_TORTURED_SOUL"
+msgstr "受折磨的灵魂"
+
+msgid "CHARACTER_LEX_WEREWOLF_TATO"
+msgstr "人类"
+
+msgid "CHARACTER_LEX_WEREWOLF_WOLF"
+msgstr "狼人"
+
+msgid "CHARACTER_LEX_WITCH"
+msgstr "女巫"
+
+msgid "CHARACTER_LEX_WITCH_HUNTER"
+msgstr "女巫猎人"
+
+msgid "CHARACTER_LEX_ZOMBIE"
+msgstr "僵尸"
+
+msgid "EFFECT_BOTTLED_NIGHTMARE_EMPTY"
+msgstr "噩梦已从瓶中逃脱"
+
+msgid "EFFECT_GAIN_STAT_TEMP_HALF_WAVE"
+msgstr "在波次中途临时获得[color=red]{1}[/color]的{0}%作为{2}（比率为{3}:{4}）"
+
+msgid "EFFECT_HOWL"
+msgstr "减缓周围区域内的敌人。\n"
+"不造成伤害"
+
+msgid "EFFECT_SPIDERWEB"
+msgstr "每{1}秒生成一个蜘蛛网，可减缓敌人。减速效果随[img=20x20]res://items/stats/engineering.png[/img]工程学提升。一段时间后消失。"
+
+msgid "EFFECT_TAROT_CARDS"
+msgstr "在波次开始时获得一个随机临时属性。效果随[img=20x20]res://items/stats/luck.png[/img]幸运提升。"
+
+msgid "EFFECT_WEREWOLF_WEAPONS"
+msgstr "你开始时拥有[color=#00ff00]狼人武器[/color]"
+
+msgid "GMO_COMBINES CHARACTER_LEX_ACCURSED"
+msgstr "使用角色被诅咒者"
+
+msgid "GMO_COMBINES CHARACTER_LEX_BLOOD_WITCH"
+msgstr "使用角色血巫"
+
+msgid "GMO_COMBINES CHARACTER_LEX_DEATH"
+msgstr "使用角色死亡收割者"
+
+msgid "GMO_COMBINES CHARACTER_LEX_DREAMER"
+msgstr "使用角色梦境行者"
+
+msgid "GMO_COMBINES CHARACTER_LEX_NAYSAYER"
+msgstr "使用角色否定者"
+
+msgid "GMO_COMBINES CHARACTER_LEX_PLAGUE_CHARMER"
+msgstr "使用角色疫病魅惑者"
+
+msgid "GMO_COMBINES CHARACTER_LEX_SKELETON"
+msgstr "使用角色骷髅仔"
+
+msgid "GMO_COMBINES CHARACTER_LEX_TEMPLAR"
+msgstr "使用角色圣殿骑士"
+
+msgid "GMO_COMBINES CHARACTER_LEX_TORTURED_SOUL"
+msgstr "使用角色受折磨的灵魂"
+
+msgid "GMO_COMBINES CHARACTER_LEX_WEREWOLF_TATO"
+msgstr "使用角色人类"
+
+msgid "GMO_COMBINES CHARACTER_LEX_WEREWOLF_WOLF"
+msgstr "使用角色狼人"
+
+msgid "GMO_COMBINES CHARACTER_LEX_WITCH"
+msgstr "使用角色女巫"
+
+msgid "GMO_COMBINES CHARACTER_LEX_WITCH_HUNTER"
+msgstr "使用角色女巫猎人"
+
+msgid "GMO_COMBINES CHARACTER_LEX_ZOMBIE"
+msgstr "使用角色僵尸"
+
+msgid "ITEM_LEX_ATTUNEMENT_STONE"
+msgstr "调和之石"
+
+msgid "ITEM_LEX_BLACK_CAT"
+msgstr "黑猫"
+
+msgid "ITEM_LEX_BLESSED_DICE"
+msgstr "祝福骰子"
+
+msgid "ITEM_LEX_BOTTLED_NIGHTMARE"
+msgstr "瓶装噩梦"
+
+msgid "ITEM_LEX_CANDY_CANE"
+msgstr "糖果手杖"
+
+msgid "ITEM_LEX_CAULDRON"
+msgstr "大锅"
+
+msgid "ITEM_LEX_CHALICE"
+msgstr "圣杯"
+
+msgid "ITEM_LEX_CONCENTRATION_BREW"
+msgstr "专注药剂"
+
+msgid "ITEM_LEX_CRYSTAL_BALL"
+msgstr "水晶球"
+
+msgid "ITEM_LEX_CURSED_ARMOR"
+msgstr "诅咒铠甲"
+
+msgid "ITEM_LEX_CURSED_EFFIGY"
+msgstr "诅咒雕像"
+
+msgid "ITEM_LEX_DREAM_CATCHER"
+msgstr "捕梦网"
+
+msgid "ITEM_LEX_GRIMOIRE"
+msgstr "魔法书"
+
+msgid "ITEM_LEX_LUNAR_BRACELET"
+msgstr "月华手镯"
+
+msgid "ITEM_LEX_MAGIC_CIRCLE"
+msgstr "魔法阵"
+
+msgid "ITEM_LEX_MOON_CHARM"
+msgstr "月之护符"
+
+msgid "ITEM_LEX_OFFERING"
+msgstr "祭品"
+
+msgid "ITEM_LEX_PENTAGRAM"
+msgstr "五芒星"
+
+msgid "ITEM_LEX_RABBIT_FOOT"
+msgstr "兔脚"
+
+msgid "ITEM_LEX_RAVEN_COMPANION"
+msgstr "乌鸦伙伴"
+
+msgid "ITEM_LEX_SACRIFICIAL_ALTAR"
+msgstr "献祭祭坛"
+
+msgid "ITEM_LEX_SCARECROW"
+msgstr "稻草人"
+
+msgid "ITEM_LEX_SIGIL_OF_BLIGHT"
+msgstr "枯萎符文"
+
+msgid "ITEM_LEX_SPIDERWEB"
+msgstr "粘性蛛网"
+
+msgid "ITEM_LEX_SQUASH"
+msgstr "南瓜"
+
+msgid "ITEM_LEX_STARLIGHT_PENDANT"
+msgstr "星光吊坠"
+
+msgid "ITEM_LEX_STIMULANT"
+msgstr "兴奋剂"
+
+msgid "ITEM_LEX_TAROT_CARDS"
+msgstr "塔罗牌"
+
+msgid "ITEM_LEX_VOODOO_DOLL"
+msgstr "巫毒娃娃"
+
+msgid "ITEM_LEX_WITCH_HAT"
+msgstr "女巫帽"
+
+msgid "WEAPON_BROOMSTICK"
+msgstr "扫帚"
+
+msgid "WEAPON_ORB_OF_DECAY"
+msgstr "衰变之球"
+
+msgid "WEAPON_RAGEBLADE"
+msgstr "狂怒之刃"
+
+msgid "WEAPON_SACRIFICIAL_KNIFE"
+msgstr "仪式匕首"
+
+msgid "WEAPON_STAFF_OF_ICHOR"
+msgstr "灵血法杖"
+
+msgid "WEAPON_HOWL"
+msgstr "嚎叫"
+
+msgid "WEAPON_THROW_ENEMY"
+msgstr "投掷残破敌人"
+
+msgid "WEAPON_WERECLAW"
+msgstr "狼爪"
+
+msgid "WITCHERY_ENABLE_CRITTERS"
+msgstr "小生物"
+
+msgid "WITCHERY_ENABLE_CONSUMABLES"
+msgstr "消耗品"
+
+msgid "WITCHERY_ENABLE_TREES"
+msgstr "树木"

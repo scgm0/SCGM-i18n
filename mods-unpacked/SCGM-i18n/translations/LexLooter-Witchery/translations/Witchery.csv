@@ -1,0 +1,76 @@
+keys,en,zh
+CHARACTER_LEX_ACCURSED,Accursed,Accursed
+CHARACTER_LEX_BLOOD_WITCH,Blood witch,Blood witch
+CHARACTER_LEX_DEATH,Death Reaper,
+CHARACTER_LEX_DREAMER,Dreamer,Dreamer
+CHARACTER_LEX_NAYSAYER,Naysayer,
+CHARACTER_LEX_PLAGUE_CHARMER,Plague charmer,
+CHARACTER_LEX_SKELETON,Skelley,Skelley
+CHARACTER_LEX_TEMPLAR,Templar,
+CHARACTER_LEX_TORTURED_SOUL,Tormented soul,Tormented soul
+CHARACTER_LEX_WEREWOLF_TATO,Human,Human
+CHARACTER_LEX_WEREWOLF_WOLF,Werewolf,Werewolf
+CHARACTER_LEX_WITCH,Witch,Witch
+CHARACTER_LEX_WITCH_HUNTER,Witch hunter,Witch hunter
+CHARACTER_LEX_ZOMBIE,Zombie,Zombie
+EFFECT_BOTTLED_NIGHTMARE_EMPTY,The nightmare has escaped from the bottle,
+EFFECT_GAIN_STAT_TEMP_HALF_WAVE,Temporarily gain {0}% of your [color=red]{1}[/color] as {2} halfway through a wave (Ratio is {3}:{4}),
+EFFECT_HOWL,Slows enemies in an area around you. \nDoes not deal damage,
+EFFECT_SPIDERWEB,A spiderweb spawns every {1} seconds that slows enemies. Slow scales with [img=20x20]res://items/stats/engineering.png[/img] Engineering. Breaks down after a while.,
+EFFECT_TAROT_CARDS,Gain a random temporary stat at the start of the wave. Scales with [img=20x20]res://items/stats/luck.png[/img] Luck.,
+EFFECT_WEREWOLF_WEAPONS,You start with [color=#00ff00]werewolf weaponry[/color],
+GMO_COMBINES CHARACTER_LEX_ACCURSED,Starts with Accursed,使用角色Accursed
+GMO_COMBINES CHARACTER_LEX_BLOOD_WITCH,Starts with Blood witch,使用角色Blood witch
+GMO_COMBINES CHARACTER_LEX_DEATH,Starts with Death Reaper,使用角色Death Reaper
+GMO_COMBINES CHARACTER_LEX_DREAMER,Starts with Dreamer,使用角色Dreamer
+GMO_COMBINES CHARACTER_LEX_NAYSAYER,Starts with Naysayer,使用角色Naysayer
+GMO_COMBINES CHARACTER_LEX_PLAGUE_CHARMER,Starts with Plague charmer,
+GMO_COMBINES CHARACTER_LEX_SKELETON,Starts with Skelley,使用角色Skelley
+GMO_COMBINES CHARACTER_LEX_TEMPLAR,Starts with Templar,使用角色Templar
+GMO_COMBINES CHARACTER_LEX_TORTURED_SOUL,Starts with Tortured soul,使用角色Tortured soul
+GMO_COMBINES CHARACTER_LEX_WEREWOLF_TATO,Starts with Human,使用角色Human
+GMO_COMBINES CHARACTER_LEX_WEREWOLF_WOLF,Starts with Werewolf,使用角色Werewolf
+GMO_COMBINES CHARACTER_LEX_WITCH,Starts with Witch,使用角色Witch
+GMO_COMBINES CHARACTER_LEX_WITCH_HUNTER,Starts with Witch hunter,使用角色Witch hunter
+GMO_COMBINES CHARACTER_LEX_ZOMBIE,Starts with Zombie,使用角色Zombie
+ITEM_LEX_ATTUNEMENT_STONE,Attunement stone,
+ITEM_LEX_BLACK_CAT,Black cat,
+ITEM_LEX_BLESSED_DICE,Blessed dice,
+ITEM_LEX_BOTTLED_NIGHTMARE,Bottled nightmare,
+ITEM_LEX_CANDY_CANE,Candy cane,
+ITEM_LEX_CAULDRON,Cauldron,
+ITEM_LEX_CHALICE,Chalice,
+ITEM_LEX_CONCENTRATION_BREW,Concentration brew,
+ITEM_LEX_CRYSTAL_BALL,Crystal ball,
+ITEM_LEX_CURSED_ARMOR,Cursed armor,
+ITEM_LEX_CURSED_EFFIGY,Cursed effigy,
+ITEM_LEX_DREAM_CATCHER,Dream catcher,
+ITEM_LEX_GRIMOIRE,Grimoire,
+ITEM_LEX_LUNAR_BRACELET,Lunar bracelet,
+ITEM_LEX_MAGIC_CIRCLE,Magic circle,
+ITEM_LEX_MOON_CHARM,Moon charm,
+ITEM_LEX_OFFERING,Offering,
+ITEM_LEX_PENTAGRAM,Pentagram,
+ITEM_LEX_RABBIT_FOOT,Rabbit's foot,
+ITEM_LEX_RAVEN_COMPANION,Raven companion,
+ITEM_LEX_SACRIFICIAL_ALTAR,Sacrificial altar,
+ITEM_LEX_SCARECROW,Scarecrow,
+ITEM_LEX_SIGIL_OF_BLIGHT,Sigil of Blight,
+ITEM_LEX_SPIDERWEB,Sticky cobweb,
+ITEM_LEX_SQUASH,Squash,
+ITEM_LEX_STARLIGHT_PENDANT,Starlight pendant,
+ITEM_LEX_STIMULANT,Stimulant,
+ITEM_LEX_TAROT_CARDS,Tarot cards,
+ITEM_LEX_VOODOO_DOLL,Voodoo doll,
+ITEM_LEX_WITCH_HAT,Witch's hat,
+WEAPON_BROOMSTICK,Broomstick,
+WEAPON_ORB_OF_DECAY,Orb of Decay,
+WEAPON_RAGEBLADE,Rageblade,
+WEAPON_SACRIFICIAL_KNIFE,Ritual blade,
+WEAPON_STAFF_OF_ICHOR,Staff of Ichor,
+WEAPON_HOWL,Howl,
+WEAPON_THROW_ENEMY,Throw mangled enemy,
+WEAPON_WERECLAW,Wereclaw,
+WITCHERY_ENABLE_CRITTERS,Critters,
+WITCHERY_ENABLE_CONSUMABLES,Consumables,
+WITCHERY_ENABLE_TREES,Trees,

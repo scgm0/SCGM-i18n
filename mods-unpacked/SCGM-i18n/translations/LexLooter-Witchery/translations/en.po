@@ -1,0 +1,238 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.2\n"
+
+msgid "CHARACTER_LEX_ACCURSED"
+msgstr "Accursed"
+
+msgid "CHARACTER_LEX_BLOOD_WITCH"
+msgstr "Blood witch"
+
+msgid "CHARACTER_LEX_DEATH"
+msgstr "Death Reaper"
+
+msgid "CHARACTER_LEX_DREAMER"
+msgstr "Dreamer"
+
+msgid "CHARACTER_LEX_NAYSAYER"
+msgstr "Naysayer"
+
+msgid "CHARACTER_LEX_PLAGUE_CHARMER"
+msgstr "Plague charmer"
+
+msgid "CHARACTER_LEX_SKELETON"
+msgstr "Skelley"
+
+msgid "CHARACTER_LEX_TEMPLAR"
+msgstr "Templar"
+
+msgid "CHARACTER_LEX_TORTURED_SOUL"
+msgstr "Tormented soul"
+
+msgid "CHARACTER_LEX_WEREWOLF_TATO"
+msgstr "Human"
+
+msgid "CHARACTER_LEX_WEREWOLF_WOLF"
+msgstr "Werewolf"
+
+msgid "CHARACTER_LEX_WITCH"
+msgstr "Witch"
+
+msgid "CHARACTER_LEX_WITCH_HUNTER"
+msgstr "Witch hunter"
+
+msgid "CHARACTER_LEX_ZOMBIE"
+msgstr "Zombie"
+
+msgid "EFFECT_BOTTLED_NIGHTMARE_EMPTY"
+msgstr "The nightmare has escaped from the bottle"
+
+msgid "EFFECT_GAIN_STAT_TEMP_HALF_WAVE"
+msgstr "Temporarily gain {0}% of your [color=red]{1}[/color] as {2} halfway through a wave (Ratio is {3}:{4})"
+
+msgid "EFFECT_HOWL"
+msgstr "Slows enemies in an area around you. \n"
+"Does not deal damage"
+
+msgid "EFFECT_SPIDERWEB"
+msgstr "A spiderweb spawns every {1} seconds that slows enemies. Slow scales with [img=20x20]res://items/stats/engineering.png[/img] Engineering. Breaks down after a while."
+
+msgid "EFFECT_TAROT_CARDS"
+msgstr "Gain a random temporary stat at the start of the wave. Scales with [img=20x20]res://items/stats/luck.png[/img] Luck."
+
+msgid "EFFECT_WEREWOLF_WEAPONS"
+msgstr "You start with [color=#00ff00]werewolf weaponry[/color]"
+
+msgid "GMO_COMBINES CHARACTER_LEX_ACCURSED"
+msgstr "Starts with Accursed"
+
+msgid "GMO_COMBINES CHARACTER_LEX_BLOOD_WITCH"
+msgstr "Starts with Blood witch"
+
+msgid "GMO_COMBINES CHARACTER_LEX_DEATH"
+msgstr "Starts with Death Reaper"
+
+msgid "GMO_COMBINES CHARACTER_LEX_DREAMER"
+msgstr "Starts with Dreamer"
+
+msgid "GMO_COMBINES CHARACTER_LEX_NAYSAYER"
+msgstr "Starts with Naysayer"
+
+msgid "GMO_COMBINES CHARACTER_LEX_PLAGUE_CHARMER"
+msgstr "Starts with Plague charmer"
+
+msgid "GMO_COMBINES CHARACTER_LEX_SKELETON"
+msgstr "Starts with Skelley"
+
+msgid "GMO_COMBINES CHARACTER_LEX_TEMPLAR"
+msgstr "Starts with Templar"
+
+msgid "GMO_COMBINES CHARACTER_LEX_TORTURED_SOUL"
+msgstr "Starts with Tortured soul"
+
+msgid "GMO_COMBINES CHARACTER_LEX_WEREWOLF_TATO"
+msgstr "Starts with Human"
+
+msgid "GMO_COMBINES CHARACTER_LEX_WEREWOLF_WOLF"
+msgstr "Starts with Werewolf"
+
+msgid "GMO_COMBINES CHARACTER_LEX_WITCH"
+msgstr "Starts with Witch"
+
+msgid "GMO_COMBINES CHARACTER_LEX_WITCH_HUNTER"
+msgstr "Starts with Witch hunter"
+
+msgid "GMO_COMBINES CHARACTER_LEX_ZOMBIE"
+msgstr "Starts with Zombie"
+
+msgid "ITEM_LEX_ATTUNEMENT_STONE"
+msgstr "Attunement stone"
+
+msgid "ITEM_LEX_BLACK_CAT"
+msgstr "Black cat"
+
+msgid "ITEM_LEX_BLESSED_DICE"
+msgstr "Blessed dice"
+
+msgid "ITEM_LEX_BOTTLED_NIGHTMARE"
+msgstr "Bottled nightmare"
+
+msgid "ITEM_LEX_CANDY_CANE"
+msgstr "Candy cane"
+
+msgid "ITEM_LEX_CAULDRON"
+msgstr "Cauldron"
+
+msgid "ITEM_LEX_CHALICE"
+msgstr "Chalice"
+
+msgid "ITEM_LEX_CONCENTRATION_BREW"
+msgstr "Concentration brew"
+
+msgid "ITEM_LEX_CRYSTAL_BALL"
+msgstr "Crystal ball"
+
+msgid "ITEM_LEX_CURSED_ARMOR"
+msgstr "Cursed armor"
+
+msgid "ITEM_LEX_CURSED_EFFIGY"
+msgstr "Cursed effigy"
+
+msgid "ITEM_LEX_DREAM_CATCHER"
+msgstr "Dream catcher"
+
+msgid "ITEM_LEX_GRIMOIRE"
+msgstr "Grimoire"
+
+msgid "ITEM_LEX_LUNAR_BRACELET"
+msgstr "Lunar bracelet"
+
+msgid "ITEM_LEX_MAGIC_CIRCLE"
+msgstr "Magic circle"
+
+msgid "ITEM_LEX_MOON_CHARM"
+msgstr "Moon charm"
+
+msgid "ITEM_LEX_OFFERING"
+msgstr "Offering"
+
+msgid "ITEM_LEX_PENTAGRAM"
+msgstr "Pentagram"
+
+msgid "ITEM_LEX_RABBIT_FOOT"
+msgstr "Rabbit's foot"
+
+msgid "ITEM_LEX_RAVEN_COMPANION"
+msgstr "Raven companion"
+
+msgid "ITEM_LEX_SACRIFICIAL_ALTAR"
+msgstr "Sacrificial altar"
+
+msgid "ITEM_LEX_SCARECROW"
+msgstr "Scarecrow"
+
+msgid "ITEM_LEX_SIGIL_OF_BLIGHT"
+msgstr "Sigil of Blight"
+
+msgid "ITEM_LEX_SPIDERWEB"
+msgstr "Sticky cobweb"
+
+msgid "ITEM_LEX_SQUASH"
+msgstr "Squash"
+
+msgid "ITEM_LEX_STARLIGHT_PENDANT"
+msgstr "Starlight pendant"
+
+msgid "ITEM_LEX_STIMULANT"
+msgstr "Stimulant"
+
+msgid "ITEM_LEX_TAROT_CARDS"
+msgstr "Tarot cards"
+
+msgid "ITEM_LEX_VOODOO_DOLL"
+msgstr "Voodoo doll"
+
+msgid "ITEM_LEX_WITCH_HAT"
+msgstr "Witch's hat"
+
+msgid "WEAPON_BROOMSTICK"
+msgstr "Broomstick"
+
+msgid "WEAPON_ORB_OF_DECAY"
+msgstr "Orb of Decay"
+
+msgid "WEAPON_RAGEBLADE"
+msgstr "Rageblade"
+
+msgid "WEAPON_SACRIFICIAL_KNIFE"
+msgstr "Ritual blade"
+
+msgid "WEAPON_STAFF_OF_ICHOR"
+msgstr "Staff of Ichor"
+
+msgid "WEAPON_HOWL"
+msgstr "Howl"
+
+msgid "WEAPON_THROW_ENEMY"
+msgstr "Throw mangled enemy"
+
+msgid "WEAPON_WERECLAW"
+msgstr "Wereclaw"
+
+msgid "WITCHERY_ENABLE_CRITTERS"
+msgstr "Critters"
+
+msgid "WITCHERY_ENABLE_CONSUMABLES"
+msgstr "Consumables"
+
+msgid "WITCHERY_ENABLE_TREES"
+msgstr "Trees"
